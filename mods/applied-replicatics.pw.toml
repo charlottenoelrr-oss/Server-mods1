@@ -1,0 +1,13 @@
+name = "Applied Replicatics"
+filename = "Applied-Replicatics-21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K15f3OBQ/versions/HXhszuwb/Applied-Replicatics-21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "90dd1495171ee2807f28c9158ad549431015866607e79d2720447146687c0129d6c8fa19aef85336d8774fe644151df03b7552a989a9f5372370ad32b14df408"
+
+[update]
+[update.modrinth]
+mod-id = "K15f3OBQ"
+version = "HXhszuwb"

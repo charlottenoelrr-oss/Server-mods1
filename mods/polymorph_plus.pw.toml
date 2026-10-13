@@ -1,0 +1,13 @@
+name = "Polymorph+"
+filename = "polymorph_plus-neoforge-1.3.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3uT4J18I/versions/XKcrDMnD/polymorph_plus-neoforge-1.3.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "c8e6e7544c08bf659b469e035342158e1b908216b83e06332b9aa4c8b8449c8d8c55d4c87b256a58d7ede9bdac3ac0d943b382028ae74fbf037ec886c1b978ba"
+
+[update]
+[update.modrinth]
+mod-id = "3uT4J18I"
+version = "XKcrDMnD"

@@ -1,0 +1,13 @@
+name = "Ignis Soulfires: Spellbooks"
+filename = "ignissoulfires_spellbooks-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TnWcnwHg/versions/FfoZeVaF/ignissoulfires_spellbooks-1.1.0.jar"
+hash-format = "sha512"
+hash = "f19f929bfab43e37ca3179c98733aebc508f0c209aae2df466ba2d41e16ad48e88988f1ba6396c987a7a56f2596cd2b352972f2ffa6d9d2b515a8b1ce27cc108"
+
+[update]
+[update.modrinth]
+mod-id = "TnWcnwHg"
+version = "FfoZeVaF"

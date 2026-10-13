@@ -1,0 +1,13 @@
+name = "SLM: Codex"
+filename = "SLM-Codex-1.5-1.21.1+[NeoForge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59ed7f7f76b7dc1ec26f9774c43a191c022cc657"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9121000
+project-id = 1497320

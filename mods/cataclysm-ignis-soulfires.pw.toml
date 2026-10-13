@@ -1,0 +1,13 @@
+name = "Cataclysm: Ignis Soulfires"
+filename = "ignissoulfires-1.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JqZc84xy/versions/TwPvEV7c/ignissoulfires-1.8.1.jar"
+hash-format = "sha512"
+hash = "2b8be457ab5229f329dc30f3417f8a20f9450c9d2f9316d9186daef55b196853613a0951908bec305fde192accdf4bc28692cc38eecd9d9a3f99e99d492bb0ef"
+
+[update]
+[update.modrinth]
+mod-id = "JqZc84xy"
+version = "TwPvEV7c"

@@ -1,0 +1,13 @@
+name = "AutoTranslation-Next"
+filename = "AutoTranslation-Next.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cNERsKEs/versions/WwfSKGYd/AutoTranslation-Next.jar"
+hash-format = "sha512"
+hash = "901d5e7d54ef3cb3c3c8e0eef94e6bf3af1e7b265ceb20e3452f17f439fed1cc6040506e3ae00364b41abde58d34626fb0463ef4419a5a9a8faf683870781038"
+
+[update]
+[update.modrinth]
+mod-id = "cNERsKEs"
+version = "WwfSKGYd"

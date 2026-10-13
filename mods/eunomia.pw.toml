@@ -1,0 +1,13 @@
+name = "Eunomia"
+filename = "eunomia-neoforge-0.3.14+mc-1.21.0-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BvzQw4wL/versions/yJCtlfK7/eunomia-neoforge-0.3.14%2Bmc-1.21.0-1.jar"
+hash-format = "sha512"
+hash = "858d31444d50e901030be9ae7f476e1e3ab982a82f18bd656c3221b95cfcef9fe0243b49fce16ae0339afd2f93192bb5a4da36cbd0fdb965ae2ad7dd73d03ae0"
+
+[update]
+[update.modrinth]
+mod-id = "BvzQw4wL"
+version = "yJCtlfK7"

@@ -1,0 +1,13 @@
+name = "Epic Fight - Dawn Day"
+filename = "epic-fight-dawn-day-21.17.1.2.1-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kY95MKf3/versions/kCZCK2dK/epic-fight-dawn-day-21.17.1.2.1-mc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "8d79d42c2093fa25ddd5e9bd14a8e4dcd9c61f40b05bbb99dfe922ada31b7c86b05f324e18253c5bdb33d4ffaf4e3e1e8e0869215e400a1e19c917859013c08f"
+
+[update]
+[update.modrinth]
+mod-id = "kY95MKf3"
+version = "kCZCK2dK"

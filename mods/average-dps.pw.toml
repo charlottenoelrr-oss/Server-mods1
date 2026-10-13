@@ -1,0 +1,13 @@
+name = "Epic RPG: Average DPS"
+filename = "averagedps-neo-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IKMWXPqS/versions/4amcRx57/averagedps-neo-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "0b693b4c40973bd65c1ff57f05b2ee8ffbed58f1b9b06f0b23b2da760f052853ef12be21162986b5b6af5bf0342570765fe98e7f2ee1d29094acb1eac476839a"
+
+[update]
+[update.modrinth]
+mod-id = "IKMWXPqS"
+version = "4amcRx57"

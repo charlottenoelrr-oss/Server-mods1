@@ -1,0 +1,13 @@
+name = "Mekanism Stack Processor"
+filename = "mekanismstackprocessor-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7HqshfDs/versions/YTLxJd3S/mekanismstackprocessor-1.3.0.jar"
+hash-format = "sha512"
+hash = "e7e9dfa9992c20630f0024d0f17b8049f596d107a503a4440fb28ff6c0f80cdd4cda610b6132befb115bf98dfdbd606e43085e4702e0224b622335637a685b1b"
+
+[update]
+[update.modrinth]
+mod-id = "7HqshfDs"
+version = "YTLxJd3S"

@@ -1,0 +1,13 @@
+name = "AdAstra StellarView Compatibility"
+filename = "adastra_stellarview_compatibility-1.21.1-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mjJYi3sy/versions/SHO3K6tu/adastra_stellarview_compatibility-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "dafdd95bd30b4a2fcf5f902e92c64a72ac08d6bb63d8ae3971ea899c0472bf6d3cc19e63e620c84ba1cb806f77215ca45cea4b1937f1211cc414333dac9eea22"
+
+[update]
+[update.modrinth]
+mod-id = "mjJYi3sy"
+version = "SHO3K6tu"

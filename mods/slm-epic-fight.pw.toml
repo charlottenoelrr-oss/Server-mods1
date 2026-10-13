@@ -1,0 +1,13 @@
+name = "SLM: Epic Fight"
+filename = "SLM-EpicFight-1.4-1.21.1+[NeoForge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01369b6cec9eb348c06176b8eb69774cf6c1c89b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9120973
+project-id = 1499933

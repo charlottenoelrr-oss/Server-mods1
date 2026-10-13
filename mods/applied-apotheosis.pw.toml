@@ -1,0 +1,13 @@
+name = "Applied Apotheosis"
+filename = "AppliedApotheosis-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc3b5190920469a00be522a69e7043a6a86f8baf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9083815
+project-id = 1728227
