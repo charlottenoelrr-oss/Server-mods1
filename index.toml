@@ -25,6 +25,10 @@ file = "kubejs/startup_scripts/mek_gear_nerfs_damage.js"
 hash = "017e8de1090d58f138fb59681dc2bab1b3562c97668f56449c594b53bae0c2c4"
 
 [[files]]
+file = "mods/AppliedApotheosis-1.21.1-1.0.1.jar"
+hash = "82bde10d47d5b858170b8e897e49defbb40638da26481f19f27aaf3ce2b12c8d"
+
+[[files]]
 file = "mods/aaa-particles.pw.toml"
 hash = "9a81f91e288bfa2cb0cdaebe775fe0aed2348ea3b18564ec2b45658ec0abd412"
 metafile = true
@@ -122,11 +126,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
-metafile = true
-
-[[files]]
-file = "mods/applied-apotheosis.pw.toml"
-hash = "6ce54bd04f7c4e75cd20e036f6ae185ae01abce73947691beb2632fe5a9f9ce7"
 metafile = true
 
 [[files]]
