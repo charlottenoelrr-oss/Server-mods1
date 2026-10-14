@@ -3,7 +3,7 @@
 #keyMatch is compared with the internal key mapping name (see /statustabs keys).
 #screenMatch is compared with the full class name of the screen (see /statustabs debug).
 #The tab with id 'inventory' opens the vanilla inventory screen directly.
-tabs = ["inventory;ステータス;;inventoryscreen;5AA0FF", "magic;MagicLevel;puffish_skills.open;puffish&skillsscreen;B07CFF", "battle;BattleSkill;epicfight.skill_gui;epicfight&skilleditscreen;E8604C", "world;WorldLevel;apotheosis.open_world_tier_select;apotheosis&worldtier;5AA0FF"]
+tabs = ["inventory;ステータス;;inventoryscreen;5AA0FF", "magic;MagicLevel;puffish_skills.open;puffish&skillsscreen;B07CFF", "battle;BattleSkill;epicfight.skill_gui;epicfight&skilleditscreen;E8604C", "world;WorldLevel;apotheosis.open_world_tier_select;apotheosis&worldtier;F2C14E"]
 #Show tabs whose key mapping could not be found (greyed out).
 showMissingTabs = true
 #Show the class name of the current screen at the bottom-left corner (for finding screenMatch values).
