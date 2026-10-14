@@ -419,8 +419,8 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/friend_rings-1.0.2.jar"
-hash = "092040363c6fe32e7a2c11e47779e50ae66ff9572ddd19101ec56dc3cce25d2d"
+file = "mods/friend_rings-1.1.0.jar"
+hash = "e28a0be7b0d4cc8921042bdb85b14c4c973f36ea531e16578ed62a329ee8c90b"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
