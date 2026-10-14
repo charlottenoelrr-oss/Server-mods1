@@ -428,6 +428,10 @@ hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
+file = "mods/global_tier-1.0.0.jar"
+hash = "13d8e994cd4510a32282aca25f6e1163b1c7b370d818292f4601a2db856f3f05"
+
+[[files]]
 file = "mods/glodium.pw.toml"
 hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
 metafile = true
