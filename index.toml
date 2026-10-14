@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/statustabs-client.toml"
-hash = "74a899db554a19070fd8fca4701827f775b29ce00269d98d5e65a174eef7c133"
+hash = "b88befbe7fc8dc13f65adb30aef77085926766e6e7fe8ca82878ac9d50ff067a"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -419,8 +419,8 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/friend_rings-1.0.1.jar"
-hash = "867bbe4e5beb4667a11240ed1c00521e9d19c446282cce678ad5186549dd1afc"
+file = "mods/friend_rings-1.0.2.jar"
+hash = "092040363c6fe32e7a2c11e47779e50ae66ff9572ddd19101ec56dc3cce25d2d"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
@@ -847,8 +847,8 @@ hash = "4a4c0c54b3b38ac660b9c06d8dc8e51ed3e2efc6dd94ad3e807a48146a420873"
 metafile = true
 
 [[files]]
-file = "mods/statustabs-1.1.0.jar"
-hash = "7cb1a00e525d9c72f79c144877f00efa22d8f437b65590d6cdaf5219504b30c9"
+file = "mods/statustabs-2.0.0.jar"
+hash = "fab93496400c26b652b507973c142fac09af4f5ba9c508ea79681249040fd084"
 
 [[files]]
 file = "mods/stellar-view-mixin-renderer.pw.toml"
