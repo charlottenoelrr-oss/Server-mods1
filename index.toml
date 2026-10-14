@@ -839,8 +839,8 @@ hash = "4a4c0c54b3b38ac660b9c06d8dc8e51ed3e2efc6dd94ad3e807a48146a420873"
 metafile = true
 
 [[files]]
-file = "mods/statustabs-1.0.1.jar"
-hash = "0f7d41125b2be4463281a20ca81155d212ca184a5857b99687275ce8e9f584f6"
+file = "mods/statustabs-1.1.0.jar"
+hash = "7cb1a00e525d9c72f79c144877f00efa22d8f437b65590d6cdaf5219504b30c9"
 
 [[files]]
 file = "mods/stellar-view-mixin-renderer.pw.toml"
