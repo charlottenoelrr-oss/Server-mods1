@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/statustabs-client.toml"
-hash = "bd6e92121a87966946663d37c9ca51b094672222863ca38f4e02b6f43cd4b29e"
+hash = "9849a5677017f73d920a4860d0b0cc8140b44c8a3efa96787a92e03938088af8"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
