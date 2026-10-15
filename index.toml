@@ -661,11 +661,6 @@ file = "mods/mr1_patches-1.1.0.jar"
 hash = "571f03db355356409513cd64486d78298540ef51e520397c4601f5de9a738607"
 
 [[files]]
-file = "mods/neo-forge-epic-fight-x-irons-spells-enhanced.pw.toml"
-hash = "2882cfb8444dedde2346312c162cc28906587635254ea259f18141aebb1e0825"
-metafile = true
-
-[[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "11835b8555c23090b12d6ca9be871a6b5bfcec5ff7f48e77ef09c784af40b69e"
 metafile = true
