@@ -573,6 +573,11 @@ hash = "0abddd474efdb5948cdbb3ed80b34a108083ccfb442fbf5b9b081040ceaf4be0"
 metafile = true
 
 [[files]]
+file = "ServerMods/industry/forgematica.pw.toml"
+hash = "24c4a1b6574271181dee4c36fca49fab0cba30e8f5ec6851cb2dc05453bde0b4"
+metafile = true
+
+[[files]]
 file = "ServerMods/industry/in-control.pw.toml"
 hash = "8311cf201aa8d3c5d0c0291194f3c76d825591122b7ccf4f2fea08f6b39af526"
 metafile = true
@@ -628,11 +633,6 @@ hash = "94591555025e0b9077f7b400081db629db02c0e3d256396d8799bd4ff0174862"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-additions.pw.toml"
-hash = "086e5173f9d4dd76196a67e6604b5787b5f17312a6c3db49b1651fe2d972fe16"
-metafile = true
-
-[[files]]
 file = "ServerMods/industry/mekanism-card.pw.toml"
 hash = "7792e76a085d8c00d85f3d7654e7033ab0ce21a1b3e1929c10bfbf005b92c531"
 metafile = true
@@ -660,11 +660,6 @@ metafile = true
 [[files]]
 file = "ServerMods/industry/mekanism-generators.pw.toml"
 hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/mekanism-lights.pw.toml"
-hash = "dd2672300f3d1df2ac6ef78e5247b8826c07ef2e7f69011f1815de8484ecaa6c"
 metafile = true
 
 [[files]]
@@ -2255,10 +2250,6 @@ file = "kubejs/assets/mekanismaaa/lang/ja_jp.json"
 hash = "31d00aab15621b440d7d8c2a2b2e6aa698ad70dcf1e04f797c6a7224981060c3"
 
 [[files]]
-file = "kubejs/assets/mekanismadditions/lang/ja_jp.json"
-hash = "b4054f00d3d1a94511cb0b7b21faf41353eaba8c628aaebf7af9defeb009cb58"
-
-[[files]]
 file = "kubejs/assets/mekanismcurios/lang/ja_jp.json"
 hash = "47b01f7432de9eeb82896b74877d6ff5176247eaf8c1f45053d89e95c092f7ff"
 
@@ -2461,10 +2452,6 @@ hash = "d6fa840c17e9c3cb4648271976d19bda8dc5749ee88b18511984e7105ee61870"
 [[files]]
 file = "kubejs/assets/supplementaries/lang/ja_jp.json"
 hash = "714c832612751e25b6ece3c2612c85164c9c2e9c758ec98b0af546d874f01734"
-
-[[files]]
-file = "kubejs/assets/thanasmekanismlights/lang/ja_jp.json"
-hash = "aa5130298f116009556ab5ce8314c6cf95f37f8f26e949516fc323ac0154f628"
 
 [[files]]
 file = "kubejs/assets/trender/lang/ja_jp.json"
