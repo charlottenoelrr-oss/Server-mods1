@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Mekanism Compatibility Continued"
+filename = "camc-NEOFORGE-0.1.22-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf2d5cf90b37ab4096095e3925f1249c4d661f1a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9156921
+project-id = 1742873

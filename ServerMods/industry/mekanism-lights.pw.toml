@@ -1,0 +1,13 @@
+name = "Mekanism Lights"
+filename = "thanasmekanismlights-NEOFORGE-1.5.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3FhYR4FA/versions/jh9h14Sg/thanasmekanismlights-NEOFORGE-1.5.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "a2d81e9bbca9b62be7df3b672c4a2f13d369c17b9a3d02d9ed6a0ee923072c809ff6322940d0310b2475f4b53e579e2d69fe215050e729eac0048c83dc83f35f"
+
+[update]
+[update.modrinth]
+mod-id = "3FhYR4FA"
+version = "jh9h14Sg"

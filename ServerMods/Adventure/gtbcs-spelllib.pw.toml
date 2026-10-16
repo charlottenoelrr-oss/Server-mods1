@@ -1,0 +1,13 @@
+name = "GTBC's SpellLib/API"
+filename = "gtbcs_spell_lib-2.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wXoQ9BqX/versions/309MoFNN/gtbcs_spell_lib-2.2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "7b5338e0d18e330109867705773222730f5e8b272ad6c59eb2478051b03735db31599ab18ee30e71703fbbd21bb4c2afbce37bf55ae729d1fc756ab8398ff1a2"
+
+[update]
+[update.modrinth]
+mod-id = "wXoQ9BqX"
+version = "309MoFNN"

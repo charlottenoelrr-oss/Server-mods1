@@ -1,0 +1,13 @@
+name = "Aquamirae X Epic Fight Compat"
+filename = "aquamirae_epicfight_compat.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9QxamDr5/versions/k68uPR2s/aquamirae_epicfight_compat.jar"
+hash-format = "sha512"
+hash = "5ec891c434ec3b050902f4016f1fa96572c160c28fe053779f6309b3ad6dca316ba80045464850a8ff8003ac0f3165d308bfc83601dcb64dc2aefb9cf9579dd9"
+
+[update]
+[update.modrinth]
+mod-id = "9QxamDr5"
+version = "k68uPR2s"

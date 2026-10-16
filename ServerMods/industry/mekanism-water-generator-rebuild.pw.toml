@@ -1,0 +1,13 @@
+name = "Mekanism: Water Generator Rebuild"
+filename = "Mekanism-Water-Generator-Rebuild-1211-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4VYBNQnf/versions/KJlE3HMQ/Mekanism-Water-Generator-Rebuild-1211-1.1.1.jar"
+hash-format = "sha512"
+hash = "1217bfb13005ebc3b53f2fecf8fc16246123d2d47a3fa2da5a5a591c1ee092a1fc8fb14b9b2b42dd17143a13d88ae9ec0342cf4b5cedeb1643696597f13cc104"
+
+[update]
+[update.modrinth]
+mod-id = "4VYBNQnf"
+version = "KJlE3HMQ"

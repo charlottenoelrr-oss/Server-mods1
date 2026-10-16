@@ -1,0 +1,13 @@
+name = "Mekanism Factory Information"
+filename = "mek-factory-info-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/97DaOy60/versions/vwkorWoQ/mek-factory-info-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "4915a551149f3815100a8f0791138f2e8843052d3d6fc0b2cada7351f3f87d920b42c5745bfaa4b51b69ec4d26c5b45b27d4fe26222c117ff6bf1b0a89fb7588"
+
+[update]
+[update.modrinth]
+mod-id = "97DaOy60"
+version = "vwkorWoQ"

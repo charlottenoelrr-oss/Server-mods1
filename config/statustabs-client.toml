@@ -1,16 +1,18 @@
-#Tab definitions. Format: id;label;keyMatch;screenMatch;colorRRGGBB
-#keyMatch / screenMatch: '&' = AND, '|' = OR, case-insensitive substring match.
-#keyMatch is compared with the internal key mapping name (see /statustabs keys).
-#screenMatch is compared with the full class name of the screen (see /statustabs debug).
-#The tab with id 'inventory' opens the vanilla inventory screen directly.
-tabs = ["inventory;ステータス;inventory;inventoryscreen;5AA0FF", "magic;MagicLevel;puffish;puffish&skillsscreen;B07CFF", "battle;BattleSkill;epicfight_skills;epicfight&skilleditscreen;E8604C", "world;WorldLevel;apotheosis_tier;apotheosis&worldtier;F2C14E"]
+#Tab definitions. Format: id;label;open;screenMatch;colorRRGGBB
+#open: inventory | puffish | epicfight_skills | apotheosis_tier | spirit | raiddata | key:<key mapping name>
+#  (the named ones open the screen directly; key: presses that one key mapping, see /statustabs keys)
+#screenMatch: '&' = AND, '|' = OR, case-insensitive substring of the screen class name (see /statustabs debug).
+#The tab bar is shown only on screens that match some tab, so keep the inventory tab.
+tabs = ["inventory;Inventory;inventory;inventoryscreen;5AA0FF", "magic;MagicLevel;puffish;puffish&skillsscreen;B07CFF", "battle;BattleSkill;epicfight_skills;epicfight&skilleditscreen;E8604C", "world;WorldLevel;apotheosis_tier;apotheosis&worldtier;F2C14E", "exps;EXPs;spirit;statustabs&spiritscreen;7CE0A0", "raid;RaidData;raiddata;statustabs&raiddatascreen;7CE0A0"]
 #Show tabs whose key mapping could not be found (greyed out).
 showMissingTabs = true
 #Show the class name of the current screen at the bottom-left corner (for finding screenMatch values).
 debugOverlay = false
 #Where to draw the tab bar.
-#Allowed Values: TOP, BOTTOM
-barPosition = "TOP"
+#ATTACH: vertical, next to the right side of the inventory panel (at the right screen edge if there is no room).
+#LEFT / RIGHT: vertical at the screen edge. TOP / BOTTOM: horizontal at the screen edge.
+#Allowed Values: ATTACH, TOP, BOTTOM, LEFT, RIGHT
+barPosition = "ATTACH"
 #Horizontal offset of the tab bar in pixels.
 # Default: 0
 # Range: -1000 ~ 1000

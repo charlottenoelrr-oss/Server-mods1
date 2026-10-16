@@ -1,0 +1,13 @@
+name = "epicfight global stun"
+filename = "epicfight_globalstun-1.21.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9719d7c39f5fc052e9c815bb62c0321989ab368d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9089713
+project-id = 1654577

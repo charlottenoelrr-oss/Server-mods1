@@ -1,0 +1,13 @@
+name = "Create Mekanism Unification"
+filename = "Create-Mekanism-Unification-1.21.1-0.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56e9c456ead4fe626b4d15bfc725bce3592c4745"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9048516
+project-id = 1724440

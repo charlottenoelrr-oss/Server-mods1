@@ -1,0 +1,13 @@
+name = "Fluxnautics"
+filename = "fluxnautics-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i9tDmTOc/versions/P4TNbyy5/fluxnautics-1.0.0.jar"
+hash-format = "sha512"
+hash = "6038e8b62fcbc2fa28211331d96adffbcc2b90d5b1cf1f8da46eef4161e94bc3f2ce4e5867c1fd4ab0d3b752113f9f6a926822eb6870e370b71e82122386490f"
+
+[update]
+[update.modrinth]
+mod-id = "i9tDmTOc"
+version = "P4TNbyy5"

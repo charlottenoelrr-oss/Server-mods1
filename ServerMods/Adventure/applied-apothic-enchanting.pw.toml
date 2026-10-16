@@ -1,0 +1,13 @@
+name = "Applied Apothic Enchanting"
+filename = "applied_apothic_enchanting-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87e3f557769231b874505f25965b305e85eaaf2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8652549
+project-id = 1653272

@@ -1,0 +1,13 @@
+name = "Mek Energistics"
+filename = "mekenergistics-3.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6055b89f995aff83a74e2465594af048fdf9be7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8969316
+project-id = 1564287

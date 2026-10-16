@@ -1,0 +1,13 @@
+name = "Mekanism: Mekalights"
+filename = "mekalights-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xuxNY5uI/versions/TxX6hpB7/mekalights-1.3.0.jar"
+hash-format = "sha512"
+hash = "415c2bc4bf561d8b3608f702929b27c57c8a85c2eda7254e8d3278acf831f68cbb67e00b7075c3362eca5997ddd7e2522467950ef900519a3f330a75f7464570"
+
+[update]
+[update.modrinth]
+mod-id = "xuxNY5uI"
+version = "TxX6hpB7"

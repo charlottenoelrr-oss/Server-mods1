@@ -1,0 +1,13 @@
+name = "Mekanism Monitors"
+filename = "mekmonitors-NEOFORGE-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc3cea8259e63d116735220d392ea9d566004232"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9172334
+project-id = 1735115

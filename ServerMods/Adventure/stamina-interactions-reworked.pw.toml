@@ -1,0 +1,13 @@
+name = "Stamina Interactions Reworked"
+filename = "stamina_interactions_reworked-2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t39V9GjE/versions/EOWjZnYU/stamina_interactions_reworked-2.3.jar"
+hash-format = "sha512"
+hash = "9e99233e1648ba4fb5e4c2e6e0e1097e5befe4f69a2b6662e9c5e2fbbd57eeaf2176f03ecbc5a883292c886214446472b30455756884bcd8055e538613501142"
+
+[update]
+[update.modrinth]
+mod-id = "t39V9GjE"
+version = "EOWjZnYU"

@@ -1,0 +1,13 @@
+name = "[NEOFORGE] Epic Fight Mob Compats"
+filename = "epicfightxironsspellsmobs-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b90a35d93cd64d29f34ceb46a9c428aadf00e809"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8620117
+project-id = 1647483

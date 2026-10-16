@@ -1,0 +1,13 @@
+name = "Epic Fight X Relics + Artifacts+Curios"
+filename = "epicfight-curios-compat1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0f4eda653bc81c5ceddc7b6da325e0fc8dd5ff7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9129199
+project-id = 1704482

@@ -1,0 +1,13 @@
+name = "CompatLink - Epic Fight Weapons Compat"
+filename = "compatlink-neoforge-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FLUdglmm/versions/7yS2jCh0/compatlink-neoforge-1.1.2.jar"
+hash-format = "sha512"
+hash = "5e9837af3e8176fd836722b1a22438425e79245a88b9fbf9a75db68d32abe7493685fe09faa7c7404d479783dc23bfefac6ce3597faf4c30ce3036dd0000e5b0"
+
+[update]
+[update.modrinth]
+mod-id = "FLUdglmm"
+version = "7yS2jCh0"

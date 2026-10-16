@@ -1,0 +1,13 @@
+name = "Legendary Spellbooks"
+filename = "legendary_spellbooks-1.21.1+neo-0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bda5b1fbe50ad834a6a76ad36789743c1057ebf5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8255715
+project-id = 1478875

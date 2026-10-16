@@ -1,0 +1,13 @@
+name = "Cataclysm epicfight stun compat"
+filename = "cataclysm_epicfight_stun_compat-neoforge-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e9dee962ebc5e32303613efec8ad744d67c8320"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8855757
+project-id = 1690660

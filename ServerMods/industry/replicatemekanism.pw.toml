@@ -1,0 +1,13 @@
+name = "ReplicateMekanism"
+filename = "replicatemekanism-neoforge-1.21.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cLKn3SS3/versions/uzFhHHgM/replicatemekanism-neoforge-1.21.1-1.4.2.jar"
+hash-format = "sha512"
+hash = "0009e628fad0b72126bf371c92ef09441eecd5721c479836814fabbc288d361876707dd2527584c09f6b0a23b598c3f799a058e5cba858b78d865a3e1bdd878f"
+
+[update]
+[update.modrinth]
+mod-id = "cLKn3SS3"
+version = "uzFhHHgM"
