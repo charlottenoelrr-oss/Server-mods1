@@ -1,0 +1,6 @@
+{
+  "shulkerboxtooltip.colors.shulkerboxtooltip.default.generic_container": "一般的な入れ物",
+  "shulkerboxtooltip.config.option.preview.generic_container_preview": "一般的な入れ物のプレビュー",
+  "shulkerboxtooltip.config.option.preview.generic_container_preview.tooltip": "オンにすると、明示的に対応していない入れ物のデータを持つアイテムも、\nシュルカーボックスのようにプレビューを表示します。",
+  "shulkerboxtooltip.config.theme.shulkerboxtooltip": "ShulkerBoxTooltip"
+}

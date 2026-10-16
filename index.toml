@@ -96,11 +96,6 @@ hash = "fff5930d01417bbb6d18bbc1338d183dcf96f4037d45b1fdcb457e20cf145d33"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/better-lock-on.pw.toml"
-hash = "ca62ca1a7ef0eddd70dc26c707bb0f41b92aca85c7f7695e5535cccd352e9173"
-metafile = true
-
-[[files]]
 file = "ServerMods/Adventure/borninchaos.pw.toml"
 hash = "a2c8cf1a4fc5faed55ca1f8d04f7abaa1c8282b9bcd70e1b3e607181923f48d9"
 metafile = true
@@ -192,11 +187,6 @@ metafile = true
 [[files]]
 file = "ServerMods/Adventure/epic-fight-rapier-moveset-addon.pw.toml"
 hash = "1bfdc596ebacf8abce5168506e413474a5706d1838d999c2103edbd8e935bca6"
-metafile = true
-
-[[files]]
-file = "ServerMods/Adventure/epic-fight-x-better-lock-on-better-third-person-qol-fixes.pw.toml"
-hash = "04db48b81646ba3cb878468f854c70435cdd0c51ec3b988cd00baf0206691dea"
 metafile = true
 
 [[files]]
@@ -421,11 +411,6 @@ metafile = true
 [[files]]
 file = "ServerMods/Adventure/soul-fire-d.pw.toml"
 hash = "aa7a2c186bf1ce65441be06d1c9a5af18b054098e4bdc37273fb4e75f0d27fc5"
-metafile = true
-
-[[files]]
-file = "ServerMods/Adventure/stamina-interactions-reworked.pw.toml"
-hash = "c9b49025a1bde50c76ac276c6d9d8e3e4943c9a5d869278140f0ab510a1011bb"
 metafile = true
 
 [[files]]
@@ -1118,6 +1103,14 @@ hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
 metafile = true
 
 [[files]]
+file = "config/block_factorys_bosses-client.toml"
+hash = "62fec4a03a61e3aeca95a57c1cf95b75839a858eb0a7415ab224a3777d1923fc"
+
+[[files]]
+file = "config/block_factorys_bosses-server.toml"
+hash = "f824a7030b4ee227a9a733452f35d8936ba274d2fd587715ea6eba894a4b628f"
+
+[[files]]
 file = "config/obscuria/aquamirae-early.json"
 hash = "95a6ce1a5c2bfdfc3c2842a171b34ddbbd69536c54521edce3086db3b4b4134c"
 
@@ -1126,12 +1119,1372 @@ file = "config/statustabs-client.toml"
 hash = "59faf1ef806a3fe46a91db43d189fe91de276d25a10b6d67f24507e7498d7a17"
 
 [[files]]
+file = "kubejs/assets/aces_spell_utils/lang/ja_jp.json"
+hash = "354839568157ebf7121229c757c32b495de6add4b125099af93e9a33c9f12a3a"
+
+[[files]]
+file = "kubejs/assets/ad_astra/lang/ja_jp.json"
+hash = "7b0e084f6291c33e091d7fdd43eb59c9110b49007ff2ad8a7198bf2ae52ea2b7"
+
+[[files]]
+file = "kubejs/assets/ad_astra_giselle_addon/lang/ja_jp.json"
+hash = "19d081fa598c8d2377c4f13e632d917373184f457750fc4c633298836aa02ca4"
+
+[[files]]
+file = "kubejs/assets/adaptive_nemesis/lang/ja_jp.json"
+hash = "8595642fe9e59848075410c67d2918bd773d40b7e53df3578aa4bd640aec4c87"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/aae_intro-index.md"
+hash = "286a56dd1d7ab04a486f3824f5ecd39f9dd3ebd74870eb79915d2223aefd177d"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/advanced_io_bus.md"
+hash = "504584285045fc3b2febc9ebce2c8b184c708c6a1c93dbb49d5194476f866ea5"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/advanced_pattern_encoder.md"
+hash = "421163c0b1a9e26e631abf045588686d522e4e49b2c4af607457b0a95f707f81"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/advanced_pattern_provider.md"
+hash = "14860c8861f4383dc9ea6d67166df0bf9a59c7e7fad29090637e558dac9e360e"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/app_upgrade_items.md"
+hash = "1ee0e4a156db2a2306ec51030ad435399d6ca1bae0ee9074ae753f2a5539fa40"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/import_export_bus.md"
+hash = "8be64b7b7c1a89d50287e074686ff549806dc676a3a06e7bba8afda7e248c9b0"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/quantum_armor.md"
+hash = "1d6b47b433cb86f4a27253be216783144340b7176604a4d4c28017c0e50e31fa"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/quantum_computer.md"
+hash = "f839e9791e3e2f25e22d5a597b4715de1f70f4142342d7ecd83220595ab25a19"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/quantum_crafter.md"
+hash = "5deb631cd4d0e66f06f813f50592d4c1094ee9dbdf4f6132fa4d333d4007b374"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/quantum_crafter_terminal.md"
+hash = "f12f5d78e6334778cf7f9b456c467e26982391a8d48d5925dc7b52e37f612e79"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/reaction_chamber.md"
+hash = "b0719c94d2fe6601c9d62fa6c78bfae7933a2a0ec6edb7fe9bf6eef41d36d3f7"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/stock_export_bus.md"
+hash = "b56fd7d8b042699d20b5a3cdc4f00f931512750e6f026a56c41234c1bc4a4523"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/ae2guide/_ja_jp/aae_intro/throughput_monitor.md"
+hash = "d2329b30d68551109e8d66358d2bf8ddf4a0850ed08b9dae6a27ad373128b079"
+
+[[files]]
+file = "kubejs/assets/advanced_ae/lang/ja_jp.json"
+hash = "41fdea12e65956a6c3468b19bd90480e6277f7e4584bac30f93196c8d6fd509e"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/ae2-mechanics-index.md"
+hash = "cfe0631b6b497edc9508de6c1e89b1232dd3d5dba9c4691c67ab544f1e9ac1ac"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/autocrafting.md"
+hash = "94af937c72b1fddf0a3963a7c4a9a685e7414c2bb3de90cd2bfe6951567f689d"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/bytes-and-types.md"
+hash = "9842c9e2ddfde2acea652dbfdd5906fd1de68a84acdebfd4a8a8b6acfc565e4f"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/cable-subparts.md"
+hash = "b15751bca21cc13c2caf39792fe07aa0cdcf0353ea184a9811f298ce7faac5b7"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/certus-growth.md"
+hash = "b3d83844a71a467f2dbd026e8de4fe195e2448aa3118337fae24d2d3e738572d"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/channels.md"
+hash = "4217617f750de4ad3a190f9fb71dcee8189abbcbcfa7b1861ee775169c68f10b"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/devices.md"
+hash = "d2eb4427ea28f845af0a1226766107a7706b49858d819a2cf1b2b8ba541e2c73"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/energy.md"
+hash = "d35e3478b1e77743a6d60b108a99da0ae5c384813cea5c2c3fa0e9e59e2356c6"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/import-export-storage.md"
+hash = "36f41015d826d82b47d6c2263e5cb1bf8ec225a4476dc0ce502236296e23d9c2"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/me-network-connections.md"
+hash = "4f8479b90139bbb1f7d48e2dfe795b29ba12e25a65ea969d5e7629e0ecea648b"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/meteorites.md"
+hash = "4340866b25ac1e0afe9aa7c7fdf81aa12ea48f3e185087aa838ad64f5cf342e1"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/p2p-tunnels.md"
+hash = "862bd42eb625871af6ff3892e27c9c7c145b98f134e08dc7333caa83473eb9b9"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/quantum-bridge.md"
+hash = "f5d2e86b2d3cfc19560443fe9c25a781e59582e55db3366fd7508a4aa570317c"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/spatial-io.md"
+hash = "af3d3b8741a0358858eb07f5d8117f718255bb06107acea3a414c2a684949965"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/ae2-mechanics/subnetworks.md"
+hash = "010a0e8b814482979a03d71d02c1d766883bb48f102919537fbbc685b2f0e9fd"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/advanced-certus-farm.md"
+hash = "a8f52649799f6ecc2be06eee481947bbdbb0acf4e20e92ee5067997294ede9c4"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/amethyst-farm.md"
+hash = "dcfa1fdad0ad1b31922c933f7183496cd6c139fefdbe4e9e4d51e6e46c1cbc78"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/bucket-emptier.md"
+hash = "7f15183b7b33be2bcbb52a717d0329951459550afc26616ab98509bbad1a2c23"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/bucket-filler.md"
+hash = "a6c91d575ad1267e9e5934bed188d6b258a6a8c184725ea4e9da96a0c880eb38"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/cell-dumper-filler.md"
+hash = "130e48a6899298f5b01e53b01e2110fcfcf2dd3435cefced171a8dc866dc150f"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/charger-automation.md"
+hash = "85ff630d5b68cf81fb7a891582a55ee46ab64bc25db3d77b73f866f1a37cc4fe"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/example-setups-index.md"
+hash = "454f6e37a8c6f7b06c57a0b4f1a7f36f383bd4da04c4447ec8931d2704b8bfe4"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/furnace-automation.md"
+hash = "e7a47c855ce7e7dc17ad88dea8f30071995b6e77288e8f072bb29bb82ccdd3de"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/interface-autostocking.md"
+hash = "b2efbe84e27c57601c18949aceda18b66eb52aac097da192ff66eb9f80425b8b"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/level-emitter-autostocking.md"
+hash = "dab60a50831a43f20b2b1c4528297e50a3ea1aae6db916d8775ae9aaf1f926d7"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/main-network.md"
+hash = "9a35b4222a76aa4b31d472c116c8216cd9a7356c91b2f9d0a998c760091b1859"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/ore-fortuner.md"
+hash = "409bce352de54e5b7966ad9057e486367ede7198240b3486ebaaf8332f083492"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/pipe-subnet.md"
+hash = "f96f93cc0bc5ecb5aa0753f2c24d08814f4a5c7673047649acf4c42756ce25fe"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/processor-automation.md"
+hash = "48207b4a5315659e9c59ade0ef7f72744f3b47a8e6c1d04ed9989a66d3c6c651"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/recursive-crafting-setup.md"
+hash = "17561ea94bf5de0a52afcd0a0b48c061d765e77b7d50a12db612b584a94faf94"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/regulated-cobble-gen.md"
+hash = "41299cfbd74c84b49fe11a22b07ad290c74ef050fb4981fad0376688926a4ee2"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/semiauto-certus-farm.md"
+hash = "96c221332e940e504e395ff58e845acce100c7b363e6577e7d4d9fd0736d1a22"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/simple-certus-farm.md"
+hash = "0960d48788904beb98d460f4db6088651a0fbde3d51a63172dc3d45a9d958199"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/specialized-local-storage.md"
+hash = "37fe92e1a7c68f4f1442e757aca869e4a70209f369b8b0c1e495114a2a3177f8"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/storage-types.md"
+hash = "2b2d39b7e9e050c533ddbddb4acd2ff45f30f04aa63b2ac8b7a7045204c51d43"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/example-setups/throw-in-water-automation.md"
+hash = "772a5828091a0f002515c96e712baba8f3b1b97cb0dc689a681332102f741c98"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/getting-started.md"
+hash = "5fa559d6d6009a50c305b8bffb6c525801823e1040749e8ffccc21294f46598e"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/index.md"
+hash = "561cf7b98d1c7c6ae1414578bbe879838bd6964515398d0126b24aaf4aecaf09"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/annihilation_plane.md"
+hash = "b1993fcdd26e107ea90c3116a36e1f77c803fc1741ddd2309f2e3079ebeb5f45"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/budding_certus.md"
+hash = "d1e935d75c11a78922a8a240ce2c81aaf40b4a9942746bf3c6177c5ed9c7bc65"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/cable_anchor.md"
+hash = "4553e6f9e109535e68d4534e30c7193a540ad6c9b2f1da428082b423260a07e0"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/cables.md"
+hash = "3ee529aafc2f630f7243862123a77db22d95651fa8c52ca64c98e74ea88ccb1b"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/cell_workbench.md"
+hash = "a66b571c28ada258a17b002cd149489cf1695164fc57165f73fde9b17d868070"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/certus_quartz_crystal.md"
+hash = "def35a52aae9a05749730cd170cf7ad1650eb0cf348d6fc61374efee1b70f3f8"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/certus_quartz_crystal_charged.md"
+hash = "ecd1f8c976fde9a1760dd688b2d0cda83d31cdf29130d05c7dda3ac4874de244"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/certus_quartz_dust.md"
+hash = "4a377bdefdb8cf95f1335ee39c30a45d9833261f2e0268f042e83d0df6362dcc"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/charged_staff.md"
+hash = "d98aabaee5c055c4b9a6e590339aa2ab39ea2adf7638e5a16c4f683fc801093b"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/charger.md"
+hash = "133c000d13db2991b17ee329d006bc79a4ec9b40bfe0a3884bdc93985a68705c"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/chest.md"
+hash = "7e521f17d04d6fa709ee40adae49a0a7a10cba5fcb4e5e6bc515f7f4130df30f"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/color_applicator.md"
+hash = "ee56b4a61cd480352c3064ef0e1c46acd26fedaad33181a4734d8a3a70e1efd7"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/condenser.md"
+hash = "bdc61547600d669a073093f77718999f89cf41f21431f71f6d9a0c1ad7ba1242"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/controller.md"
+hash = "0a446424a9d38a3bcb6f1ac451d8fabb2ea8db8fcf6bde00b7e54885ed959efe"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/crafting_cpu_multiblock.md"
+hash = "386a5ec58895d0a2584c177924b140673be51990d28da98538d92e17a8f5fcf6"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/crank.md"
+hash = "f57559c800ca0dd1bf59d653f170f59f7a59c2ebbe426324f6e9ca778d02c9a6"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/crystal_resonance_generator.md"
+hash = "003a9cd5f838e4683046877ed1654af22ba80ff16db9655e77ea8472853d219b"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/cutting_knives.md"
+hash = "c543830015cb884d21748d1aeb6a31695fd27b73254518d72a0b104fc41e615a"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/decorative_certus.md"
+hash = "59775ce7ea6849cfe141ba5aaa64735289920075af819075d68f7521f0c5686a"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/decorative_fluix.md"
+hash = "81171599832b07db54269bc76854546e9be00d108c94f428e0c9e00041a4a4fe"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/decorative_sky_stone.md"
+hash = "fcefec2f428e9da57de9b4ed99ac3e02c60724e9040f151b18183708dea887c7"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/drive.md"
+hash = "b73b1a270efc97d03104dc4f2bbcc9e25988a563fd49b09bbc3ef8c97d81ae75"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/ender_dust.md"
+hash = "2124bab4cb42f9c449c64542fcf7020a477fd7efd1a22e551482090a51579d55"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/energy_acceptor.md"
+hash = "f51254a7c60208124ef96a09ff10815d8aaefc3bf5874bdb6b65d552b7e31c84"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/energy_cells.md"
+hash = "3e79b6d1467571fbebe86086733ed670f9978fdb6f7faff257efc1e80e68d8c3"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/entropy_manipulator.md"
+hash = "275a700fdf18a5fd60c8db4b707f6476d7bfcd0c74ef205dfeb44748e0336655"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/export_bus.md"
+hash = "937ffe0a31041f93f1cde7187a13b99b46ac8dc3e46039ae18e5ce1b0801ee92"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/facades.md"
+hash = "edd589773929aed75ba4936af955627022e77e6073eaf6b49deb3abadfc9cc09"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/fluix_block.md"
+hash = "30dd40a052d0fc73b800075de1a990d95fd8297881bde7c2b528880ee2d22c83"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/fluix_crystal.md"
+hash = "c91162a98c246927c4528891b5116b39600470ef02ffa182d83268376c95ce37"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/fluix_dust.md"
+hash = "a4c363807e167ee783bffe9ea3894fcc09d80c61c47fb94c8a24f781b9640548"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/fluix_pearl.md"
+hash = "693eefed6ed12038753c4890109a842ca24f5e83119aa96a8e60d3459b8fd41f"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/fluix_researcher.md"
+hash = "a8e787b927a046147d53263291338158d7c52c4637cd11bf4e3cf5fc5f64382d"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/fluix_tools.md"
+hash = "0b327f439e73c7ac871faec51df899d431cf11481e9ca3404ab9180033b9dfc9"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/fluix_upgrade_smithing_template.md"
+hash = "017f75002600de177819857de0d66f7c79eb794e35767d8ff019703f71943d7c"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/formation_annihilation_core.md"
+hash = "1525301e022dfcdccb808cf7f364a4f8eec25f723f79fa04262ff2a5973095c3"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/formation_plane.md"
+hash = "cfcaf0c51f939fc3b06e939a088810dc80f77c0af9c9195aa2709c1c5e429a7e"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/growth_accelerator.md"
+hash = "1f8d9183a0e0597eb4422c6da408458b4ba48078e698a4a6357157e25b0891ad"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/guide.md"
+hash = "634ba930dae71863930808ec243aece8325ca020ca026334f9ca845ac6308a49"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/illuminated_panels.md"
+hash = "3f97c91ccbe76a8874340cd4658c034c85b450a18815a717e86c41c8855e6a54"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/import_bus.md"
+hash = "a97dfc806fa738aa7f33608c03f479be5b18146b4b7b6c075cb07e7381c13fcd"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/inscriber.md"
+hash = "f9566db9aeba0193d42e4864e1f734e89c268b977c7c62d6223dd14a4ff78aad"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/interface.md"
+hash = "70553f5c0ae420e9a1a1b08ae134c22c6f4974bc63e771866611cb802bff3d8e"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/io_port.md"
+hash = "29def974b30a5941b858e9552abfccd4ebd9fa02a58aa8e5d1b9985b0307550c"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/items-blocks-machines-index.md"
+hash = "188fa905de7041e4f3b49b097fab2c717be342017efd24dd9e66cc28fae1c103"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/level_emitter.md"
+hash = "418fa95ad6cf9b3e420ed52c1497861f2b2367d0b08e2126de8ad93a5f3dcb13"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/matter_ball.md"
+hash = "ebc566568c1bc8c2bf359527c1aaa8573f7f048d6fbf0c120aa382aedf1a75bb"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/matter_cannon.md"
+hash = "6efac0f61f01fb928e6c2361c97538d9d0f9890dc6fd86e5a3374d1e3f6270bc"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/memory_card.md"
+hash = "e6df1648cff574565f2067e016a73e0922eacba013aef1396b9bf3ebdc8d0a59"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/meteorite_compass.md"
+hash = "64469ba04cd24584d87a2718326fcb7e41a66b9bb7d05b72f2c7cf06f7a5548d"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/molecular_assembler.md"
+hash = "54798e8f1a3fa8680305a04ff82bf138f11a291327a66c4997988ae6a05c3976"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/monitors.md"
+hash = "e7942face9dec95923919d88cb5478eee5e84aee461c1291dec3a9221079b98f"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/mysterious_cube.md"
+hash = "3f225ccb2ecc81278a89d622de619c5100c3e80a93be1261441ecddea9907b04"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/network_tool.md"
+hash = "b28762e681a55d655efdda21fc488aeae6691dae51a8d49906fd24f09d188433"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/p2p_tunnels.md"
+hash = "78913508a0a3a23fa698c4ca1b76c149604340e530e80f03ffba50c3c297ebc3"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/paintballs.md"
+hash = "599bd7832c8954958530b2bccddaabe98b028dc94707ce52f5165d17e3af3a06"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/pattern_provider.md"
+hash = "cf22f66a7b1836440aff6317b27eb42806b6ce01c03c0fee1ef246540174e269"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/patterns.md"
+hash = "0ddcfee10d8e922ef1ffd24f9d2fe1576f90c215574fe947c3f086e7eaae3736"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/presses.md"
+hash = "b062683f81ff03f416c37cff8a76c9e10f25d72b9d0477b4584ae598b0d9eaf4"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/processors.md"
+hash = "cff9c3d2b3e82392bd075e706f8a896cc35f93408c15b2f3982ecd44ce7c9ec9"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/quantum_bridge.md"
+hash = "4bc2890a52d0ae630dbd024bcce1e2373bb192aef0ce377f600c60273f09426e"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/quartz_block.md"
+hash = "6bd0acc8e422f891724b13740d5e9d4b3229d31f0f023fb9296354b82c51d63b"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/quartz_fiber.md"
+hash = "272e04ec89184a42f30448fd70339090d2dbc41c96b8c5790163259d6873ab12"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/quartz_fixture.md"
+hash = "e0499105a237b0d9958e90c9cc8242218f7d2857abbe2597fa530f31e34189b5"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/quartz_glass.md"
+hash = "f4e009bc201c2e8302d3e2e22cde00402dbaca48081e21113c5f9a98b6740239"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/quartz_tools.md"
+hash = "4861a1bb8ec1fd10c1da1bda3295257f3f5b1953fc37be7d204f31c006ba31a6"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/singularities.md"
+hash = "aff954c3e7792c02ec260c4aee7214d68af994a6ccbc8ad4fbaa9e47b50d17c6"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/sky_dust.md"
+hash = "d58905f9d2466bc599315e907ed4b212b659a87d5592d3ab6dad9955cc8e0d8a"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/sky_stone.md"
+hash = "787daf2fff8d8d19aa0234d25935c310f6cd104afef22b546b2f013826877c69"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/sky_stone_tank.md"
+hash = "49e93292a2377e03c836af81ad7b35b756f31ae54efa6eae6d6fc84cda98fa30"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/spatial_anchor.md"
+hash = "4d61b5a0511bf2c77963865030fae5f22691de6c4fada3a7b1d89ad1fba1f64e"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/spatial_cells.md"
+hash = "3c8c786ec24dbc7db75005c74df0e9e3dcb30ec9239819a34a06657e7ab10a3b"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/spatial_io_port.md"
+hash = "7d9f9f16749841d2c79486d655dfdfdf62644ad4af34d5b4c676c61790e77a19"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/spatial_pylon.md"
+hash = "848480db06726be6ef66e81728d2e13703585b2e6f47d179b6d03b880ae0c7b4"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/storage_bus.md"
+hash = "b6a61456617b37f55022bb4f97fbe43ac798703e14655a694cb9bde1b13f4891"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/storage_cells.md"
+hash = "07bb792125a21be2d9d94119b3d49524ee955f022c4187fd970ff7bb660ae8d6"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/terminals.md"
+hash = "8661c58975a7a268e0c091baccf521bc603a4e268dce8e9c6a06de6b95a6b0d4"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/tiny_tnt.md"
+hash = "a3e88dd5ce9c088e2f4a7dbd7217855478af44e9ece921c0b43a7f6ebb5cc382"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/toggle_bus.md"
+hash = "c1c66175d7e52db550940523a44efa06a09c764f75e54a7a3d0da1fe0db08bde"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/upgrade_cards.md"
+hash = "017c3b03cde8e9fe4164cddb0e3878cabd938775cb7048b942769384e3083e01"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/vibration_chamber.md"
+hash = "80e2efc83749d58c3e5d96896491e20429af597a1ad66d98f928dd572fe253e3"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/view_cell.md"
+hash = "62caae63e8c5bdf2d7230cdecb2540865d6577fe36ce2f3e25c7b5fba2782333"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/wireless_access_point.md"
+hash = "b58fc97a7bc5d3b1efa4ac0f91fea65843c8ad3088c9240376e69ea5dd6e5eb5"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/wireless_receiver.md"
+hash = "634f637ce45118f1ff850d221fae6f51d00eb402d0b04828d6d0cf58db233789"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/wireless_terminals.md"
+hash = "d13cd66a1e442166776884c56308a1cdc58cfb377f451570b0c07f94e04054c6"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/items-blocks-machines/wrench.md"
+hash = "581b4d41c5c8c79e1518ec8f954c6dc1f77023449869b8047837623ad3497284"
+
+[[files]]
+file = "kubejs/assets/ae2/ae2guide/_ja_jp/tips-and-tricks.md"
+hash = "273e44067c040d6d1be94fe6347fb36e5e08a33dfed19a72d40f08689ac74bb8"
+
+[[files]]
+file = "kubejs/assets/ae2/lang/ja_jp.json"
+hash = "843460c352b676f44e96777de38599965e27ae90e5fec35f6c44fe527c6eb964"
+
+[[files]]
+file = "kubejs/assets/ae2addonlib/lang/ja_jp.json"
+hash = "ad82171f712288620c76be249cacb84651f638d50a8529b39f6e892aa3a99681"
+
+[[files]]
+file = "kubejs/assets/ae2things/lang/ja_jp.json"
+hash = "ebe2583e69921d3d635f69e6773467e76ebdcc14cc93452f9d87252fe26acfce"
+
+[[files]]
+file = "kubejs/assets/ae2wtlib/ae2guide/_ja_jp/ae2wtlib/ae2wtlib-index.md"
+hash = "f03c51247e5adb94356a34b0a7a2dad3677696ca6d3b96d6769ba58cdfd3afde"
+
+[[files]]
+file = "kubejs/assets/ae2wtlib/ae2guide/_ja_jp/ae2wtlib/magnet_card.md"
+hash = "619a28e4ac98c8721a2fdb7db70493420e02e4c737880ed22da7603a766d22eb"
+
+[[files]]
+file = "kubejs/assets/ae2wtlib/ae2guide/_ja_jp/ae2wtlib/quantum_bridge_card.md"
+hash = "ca251dd27db8150515c3791212662dc18619bf8abaab1041c293d7d35bd6f203"
+
+[[files]]
+file = "kubejs/assets/ae2wtlib/ae2guide/_ja_jp/ae2wtlib/restock.md"
+hash = "0c9cb12ba06bcd40083ea916d60f5b431c2ead228be0d6c344355dc761af5dc9"
+
+[[files]]
+file = "kubejs/assets/ae2wtlib/ae2guide/_ja_jp/ae2wtlib/wireless_crafting_terminal.md"
+hash = "6b30f27151a65ec231fc350b2977bdfd76cc7ac65e8ccc1cad71309fdb07bc56"
+
+[[files]]
+file = "kubejs/assets/ae2wtlib/ae2guide/_ja_jp/ae2wtlib/wireless_terminals.md"
+hash = "91f3af3222c6aac1e0ae2c2e2f79869100f1fbf7113fe2e7f56bf3696361c12a"
+
+[[files]]
+file = "kubejs/assets/ae2wtlib/ae2guide/_ja_jp/ae2wtlib/wireless_universal_terminal.md"
+hash = "db6c3fb1cebc7232daed2e95e25a07b8b30e86bd0540ef665f33995dcb8a611e"
+
+[[files]]
+file = "kubejs/assets/ae2wtlib/lang/ja_jp.json"
+hash = "711de6c589cf2ec9f47ed97405f342439430718a1c4c9b13334719f6382f01a6"
+
+[[files]]
+file = "kubejs/assets/ae2wtlib_api/lang/ja_jp.json"
+hash = "f3fe7acbc3e3553ad0376d43c33a574c4ba82f79151be84a01b5bae172870c02"
+
+[[files]]
+file = "kubejs/assets/aeqc/lang/ja_jp.json"
+hash = "b7837f277f7ff49945ca533a99338cb5c71e37580e19101b8942aaa058700534"
+
+[[files]]
+file = "kubejs/assets/aeronautics/lang/ja_jp.json"
+hash = "60dd376363bdabc539fc9a8bd9c97fbee55f08fb07849a95604e2382cd21f6ab"
+
+[[files]]
+file = "kubejs/assets/aeroworks/lang/ja_jp.json"
+hash = "57456cff619dc1bfd2add3f3b060f85a9a9a46f4bd95e32ba301a948c1cc73aa"
+
+[[files]]
+file = "kubejs/assets/alexs_caves_spellbooks/lang/ja_jp.json"
+hash = "00a3938fa3a0ff00ab4c6c5d6f76abfcc62d5c83893530e8eb439650808a46ad"
+
+[[files]]
+file = "kubejs/assets/alexscaves/lang/ja_jp.json"
+hash = "0180934aadb83f75e1f629ef225bbe8a36d92ece1e65595c027866d237278555"
+
+[[files]]
+file = "kubejs/assets/amendments/lang/ja_jp.json"
+hash = "3c3d8a1fcde55be923d19fb89bf4615326f0301518da3ff48fa919df7033bc44"
+
+[[files]]
+file = "kubejs/assets/apotheosis/lang/ja_jp.json"
+hash = "cc37eceefb74b7f779897d017b415e1548537c79ec23e9ea6f0515dd439ab430"
+
+[[files]]
+file = "kubejs/assets/apotheosis_create/lang/ja_jp.json"
+hash = "e6a789ae8c525dd092f5dd2510ba572d647544c1131196e2834f41835588b3df"
+
+[[files]]
+file = "kubejs/assets/apothic_attributes/lang/ja_jp.json"
+hash = "8cde73de3b6b15c8202371f6c767cff2f20aebc6b264e7b5cd6f68b5f331ea92"
+
+[[files]]
+file = "kubejs/assets/apothic_compats/lang/ja_jp.json"
+hash = "474cba5246a0f9c15dbf88a4e9dc65f5f000dc1ea22c2008cf6095ad4ccf6769"
+
+[[files]]
+file = "kubejs/assets/apothic_enchanting/lang/ja_jp.json"
+hash = "f6042ef0e50551ad44a451e4d23417e8021e0f049b9b384f67cbff8dbd544075"
+
+[[files]]
+file = "kubejs/assets/apothic_spawners/lang/ja_jp.json"
+hash = "00ee5aa9fa1eaef19db4e76f593bf366230d98b58ae2689d268266388b6114e1"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/appflux-index.md"
+hash = "2058ce3de09431709c3953b7e1176ed5a63accd71df89e0af5a47994a267e194"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/diamond_dust.md"
+hash = "87ebe7ef0df129b449debda2dc61f77bd3afea85965cbdb79523662035ef78e5"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/emerald_dust.md"
+hash = "7d17b0c317ea58ccc4f9e5e8603b792bf8b3d39a19a70c295a332c69b9a689ad"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/energy_processor.md"
+hash = "52e739575a5f2b41054dbb6f4ea28e75d89f5e5f13489933ebbb7cee888b8813"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/flux_accessor.md"
+hash = "311c42eb72cdef08188abb5e69aa4a48ea06e91ffe4918abec2da9ac90345234"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/flux_cells.md"
+hash = "215793f463a8ed0a43d17dc7f9a93e614dbeb5d6190056dc1f21fd5e76777a85"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/induction_card.md"
+hash = "bf376e6389746f62c3a694f3d99a377554945c357484e8a2cdd7a086f5085e47"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/insulating_resin.md"
+hash = "16674c9c279e7ebd131c422ab1544afd62c0142c3f13b375f26b6546951c794b"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/mark_energy.md"
+hash = "0fbbe94f64b803e55d1021f8b03719b56c13eac544b2ba61db396938371388f0"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/portable_flux_cells.md"
+hash = "0bd89ccc1308608d7c1c1e43e01c621a8c8c37789ebcb0cc31ab31d34a77143d"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/redstone_crystal.md"
+hash = "600d64fb2c44f72524bdb9e1174ac2474574198a8fc5557401ea3cb746db32c8"
+
+[[files]]
+file = "kubejs/assets/appflux/ae2guide/_ja_jp/appflux/terminal_interact.md"
+hash = "37be604398bc9293b4a4d0ca66bd087d3211ef146f8adb6b0499c39b0c420d95"
+
+[[files]]
+file = "kubejs/assets/appflux/lang/ja_jp.json"
+hash = "0bd23f32d9cf4386f79669b30f76d55eec90eb55a01da60fd01169418b13da68"
+
+[[files]]
+file = "kubejs/assets/applied_apothic_enchanting/lang/ja_jp.json"
+hash = "a0c2636542282d64ce2504a6970789c6e7943db1609b94f9285a84de270dd89e"
+
+[[files]]
+file = "kubejs/assets/appmek/lang/ja_jp.json"
+hash = "b77202eaf593aaa24645765d5d0c12eee1815105444c569f1e419c08c97f9ffe"
+
+[[files]]
+file = "kubejs/assets/apprep/lang/ja_jp.json"
+hash = "1271ee2c3cfeacef57743962ba35e0350ff823769992c0876865ac6f46ae2bb0"
+
+[[files]]
+file = "kubejs/assets/aquamirae/lang/ja_jp.json"
+hash = "454fb5964dcb43a1383e0d0e7f5cbbfdfe6f7332ef400ca8f3ccb27b7e0adbaa"
+
+[[files]]
+file = "kubejs/assets/armor-hider/lang/ja_jp.json"
+hash = "09bbb617ebd0a46ec9abf3d0a92efa275f48a03663caf6892c96903a1c3a5c47"
+
+[[files]]
+file = "kubejs/assets/averagedps/lang/ja_jp.json"
+hash = "674ed8c9eccf103d764fadc13ea16a55313ed55033ba12e3c2f2def1f7fa36ce"
+
+[[files]]
+file = "kubejs/assets/azurelib/lang/ja_jp.json"
+hash = "74fc96e04bfd92c5fa73d2913a46da5b07f1ab201caf7cbef7bc9592dd90e8a4"
+
+[[files]]
+file = "kubejs/assets/betteradvancedtooltips/lang/ja_jp.json"
+hash = "71ae94c4cce71e8423e2bd5f8378fba4cf4c7f86046a13c9dbaaf7615d65a05a"
+
+[[files]]
+file = "kubejs/assets/biolith/lang/ja_jp.json"
+hash = "57ed50375d5a3c014921be62fac04851b614d7a1405fc7d708d084f65d002964"
+
+[[files]]
+file = "kubejs/assets/block_factorys_bosses/lang/ja_jp.json"
+hash = "2c6df35130921b5d409b80f40ab262aa5de5eecdebc26755565283c417caf4f2"
+
+[[files]]
+file = "kubejs/assets/bookshelf/lang/ja_jp.json"
+hash = "6252b2f4a1940d28917414b9aaac05e4574331056fcd4bf1618668be578d0489"
+
+[[files]]
+file = "kubejs/assets/born_in_chaos_v1/lang/ja_jp.json"
+hash = "bdcd45ae176f0e96d89ece6b6fb7afd87a4cbb76382d10759819c4d4510abe92"
+
+[[files]]
+file = "kubejs/assets/bossbattlemode/lang/ja_jp.json"
+hash = "79c2749c7c83fcb31d5768820c3c05b5e4787296d2bb1e75f500bd6143dbec42"
+
+[[files]]
+file = "kubejs/assets/carryon/lang/ja_jp.json"
+hash = "c894cbca4fb72dff4f6d6b828529e74924341970ac6ecff640f6efd59c0a8794"
+
+[[files]]
+file = "kubejs/assets/cataclysm/lang/ja_jp.json"
+hash = "28593ed171e5ba9312575d6ccc8c0095452fed83675b3bc75c6d7521cfcc31ec"
+
+[[files]]
+file = "kubejs/assets/cataclysm_epicfight_stun_compat/lang/ja_jp.json"
+hash = "2c565a7200396dc5a0f1cceee4796aab2eb20687da8574dde35192861c2da23c"
+
+[[files]]
+file = "kubejs/assets/cataclysm_rise/lang/ja_jp.json"
+hash = "b4a1735c09cb48b3c3bce684ea2d59b9517a4a0181b322dec9da4c475dbd9c38"
+
+[[files]]
+file = "kubejs/assets/cataclysm_spellbooks/lang/ja_jp.json"
+hash = "97b225324f2e3d7b357986ab028e22e317177534d253857b37b51478c41486cf"
+
+[[files]]
+file = "kubejs/assets/cataclysm_weaponery/lang/ja_jp.json"
+hash = "93ce9d440e997c7cafc8991cda8631ba55fe2729bfb5392275eb00ab006146a3"
+
+[[files]]
+file = "kubejs/assets/chronomancy/lang/ja_jp.json"
+hash = "161053ff7b2801cf22bf6cf7a5eb49231d75e2a9147bdd15d17754cf12ae67dc"
+
+[[files]]
+file = "kubejs/assets/citadel/lang/ja_jp.json"
+hash = "316ee7fa436b096daca8c0edf982b45ce0d510fa9091b9e5748d87c47b00ee3e"
+
+[[files]]
+file = "kubejs/assets/cloth-config2/lang/ja_jp.json"
+hash = "a6f16a67db1a7159be4dd0f71ca25c4e48a428fc991ad14a289dce961d7632d8"
+
+[[files]]
+file = "kubejs/assets/combat_evolution/lang/ja_jp.json"
+hash = "a758d3c4c6efbf95bc25b13b5feba5755fcc2290d4f4cc79dbb3f3a501febf59"
+
+[[files]]
+file = "kubejs/assets/common_storage_lib/lang/ja_jp.json"
+hash = "35787289d2ad07fce46c481f6e54b7d2cb3aa75020ae290438bdbb07b670359f"
+
+[[files]]
+file = "kubejs/assets/controlling/lang/ja_jp.json"
+hash = "a1499a46b8366e83a2a7836b45725eb0557e72a2c865438d2df6128a6bf41cf9"
+
+[[files]]
+file = "kubejs/assets/create/lang/ja_jp.json"
+hash = "d1ac7dc6957b3da41a7379f3d75deb0b70ac47ab6ca9435d3d8429651c14419c"
+
+[[files]]
+file = "kubejs/assets/create_mekanism_unification/lang/ja_jp.json"
+hash = "e9081087a371de631448da43fa2e7c99030edee15219c8c5155ecb00c45cc13c"
+
+[[files]]
+file = "kubejs/assets/createthrusters/lang/ja_jp.json"
+hash = "71c88fa3f21191801fe87e8db2ad3bf9ddd43ad88bf054955ed63c63bfde18ff"
+
+[[files]]
+file = "kubejs/assets/curios/lang/ja_jp.json"
+hash = "1d860f268078052c42363d3e581ee5037d5111ed21b14e4abcc68e84ed0cdf2c"
+
+[[files]]
+file = "kubejs/assets/darkdoppelganger/lang/ja_jp.json"
+hash = "dbbad3570f46dfe985b52994a23b1363951dcc7254014e4329f0399bca2819e3"
+
+[[files]]
+file = "kubejs/assets/discerning_the_eldritch/lang/ja_jp.json"
+hash = "1b324429e941c42196ee0533ab13528cd5a25517dcdb991ebfe61fc3adc71e50"
+
+[[files]]
+file = "kubejs/assets/effortlessbuilding/lang/ja_jp.json"
+hash = "605d0abb8cde0a4651bc1e46ace99bad23e760bda5eda338ae34822efd7fa684"
+
+[[files]]
+file = "kubejs/assets/efn/lang/ja_jp.json"
+hash = "f923dc6d5700a1673f1d7145351ec722aa9542d6b2e9c0345ef026b2cc94e792"
+
+[[files]]
+file = "kubejs/assets/ekotsk/lang/ja_jp.json"
+hash = "b662cb996d14851a37cd98d98ef79caa9cde1700a9ba798314cfca15c3ab9170"
+
+[[files]]
+file = "kubejs/assets/entityculling/lang/ja_jp.json"
+hash = "144c7346c3e13f6d15653649f2b6bebec8d18940b683efcc89e39d258cc3473c"
+
+[[files]]
+file = "kubejs/assets/epicfight/lang/ja_jp.json"
+hash = "a87fd977fee5c477d1e7b50f62cfa35e1929831a08cb676aa61b0c00d50cd400"
+
+[[files]]
+file = "kubejs/assets/epicfight_awaken/lang/ja_jp.json"
+hash = "637f34f524733f1a5103a58eddcda8e50e6e2018179830cb677ccb8d9c09b289"
+
+[[files]]
+file = "kubejs/assets/epicfight_curios_compat/lang/ja_jp.json"
+hash = "daf31545858e68b6f14d1f333ff32012d6741026e4f8105c3e1f8fcb642ab148"
+
+[[files]]
+file = "kubejs/assets/epicfight_dd/lang/ja_jp.json"
+hash = "98845bd5736fe95572a9712d016181e63d7fb0735a734c917f60f6c7325d4ec4"
+
+[[files]]
+file = "kubejs/assets/epicfightoptimizer/lang/ja_jp.json"
+hash = "2531abab4122d0d1ad27a9e55074664b369cd1a95b48917143c39d9894357524"
+
+[[files]]
+file = "kubejs/assets/epicfightx/lang/ja_jp.json"
+hash = "35c803e4c198b754a25a2dd1f535b2c405e6574eb0388cddf99434538066fefa"
+
+[[files]]
+file = "kubejs/assets/epicfightxironsspellsmobs/lang/ja_jp.json"
+hash = "52081457153fdee965737b6d9633773012940d5a996775ec947f306897ba673a"
+
+[[files]]
+file = "kubejs/assets/esoteric_spell/lang/ja_jp.json"
+hash = "0f9291498afffa71987bf05c230e65cd5f447d9521a32912eb63befa86bc6e05"
+
+[[files]]
+file = "kubejs/assets/eunomia/lang/ja_jp.json"
+hash = "0b0b67ad0a9fc81ca52e34915a1739b8934b9f497128c9a559da5af1dd4fdd92"
+
+[[files]]
+file = "kubejs/assets/evolvedmekanism/lang/ja_jp.json"
+hash = "7fbc14cae57a396d9aa689da629422117f5350ab5b585be222b02baa4b80b81c"
+
+[[files]]
+file = "kubejs/assets/extendedae/ae2guide/_ja_jp/epp_intro/smart_annihilation_plane.md"
+hash = "18a636eb1ff99c797e931ca03d4dfc2bdd92f66acc670971ef32ae382d4df3bb"
+
+[[files]]
+file = "kubejs/assets/extendedae/ae2guide/_ja_jp/epp_intro/vacuum_interface.md"
+hash = "9c4a2b341d72fc62a7bd5f3a34a94c8676618af438959a09de928fcea60c9dec"
+
+[[files]]
+file = "kubejs/assets/extendedae/lang/ja_jp.json"
+hash = "39885347bea1bf3ce21b09a7301b7047a0e1c976d13a1c7547fe43f9ad35adde"
+
+[[files]]
+file = "kubejs/assets/fabric-convention-tags-v2/lang/ja_jp.json"
+hash = "1cbea0643860cae2f4b4c9dc5d6eb1da92dd90c4ae0da661c120c4c227fe07ea"
+
+[[files]]
+file = "kubejs/assets/fabric-data-attachment-api-v1/lang/ja_jp.json"
+hash = "8aa4f286ce2751387de513b776f1d25ff34cd6695509c4df7bc28e2d21b28229"
+
+[[files]]
+file = "kubejs/assets/fabric-resource-loader-v0/lang/ja_jp.json"
+hash = "5063afce263620e9aa0bb6d6759385a36c3a169a5bb7bb84750f2b99fafc1a28"
+
+[[files]]
+file = "kubejs/assets/farmers_spell/lang/ja_jp.json"
+hash = "4682449383bebfd522e76abf9b00c63db5407d6e92f87819034020626d85112f"
+
+[[files]]
+file = "kubejs/assets/farmersdelight/lang/ja_jp.json"
+hash = "e73e249c550d9f998c65071b5d4daa808c6b994a06f647a62ee024c79b2da361"
+
+[[files]]
+file = "kubejs/assets/flashback/lang/ja_jp.json"
+hash = "b92b01f43f7a713ba41c06a81765d8afe32df454ce998a9875e1f0982ee882e8"
+
+[[files]]
+file = "kubejs/assets/fluxnautics/lang/ja_jp.json"
+hash = "a2404aa025f0adb6d878b9065de1ebb7e51de7e37a6a1ce9e97276d6f3ef4694"
+
+[[files]]
+file = "kubejs/assets/flywheel/lang/ja_jp.json"
+hash = "208577a73f658e496e65458ecb7dd29b9c3a7a2e2b7dbce5ff842677d4897fd0"
+
+[[files]]
+file = "kubejs/assets/fragmentum/lang/ja_jp.json"
+hash = "3169c3dcafa35f6ae38f534b9aad73e4617339f44527b514d5dadaa81f9f5d57"
+
+[[files]]
+file = "kubejs/assets/gadgetsngizmos/lang/ja_jp.json"
+hash = "049664064e3309cafa77fb5666ad0d2724de75fed31c6589f698cbf4ea9e51d8"
+
+[[files]]
+file = "kubejs/assets/galosphere/lang/ja_jp.json"
+hash = "a32b48bbce277900ebc318824768261e6d8b9caf655d0ab865aec8888bc39fcd"
+
+[[files]]
+file = "kubejs/assets/galosphere_spellbooks/lang/ja_jp.json"
+hash = "3005366f85b0a921f3dbf3b62589b832e1f10e7fd2efaa6d4fdd73fe958281c8"
+
+[[files]]
+file = "kubejs/assets/gtbcs_spell_lib/lang/ja_jp.json"
+hash = "bd7d082094a8259e56d3ab881b19651af0a87ac27104939ee0b2b9c98605e167"
+
+[[files]]
+file = "kubejs/assets/guideme/lang/ja_jp.json"
+hash = "8ab71b583b2565cb3a0e5cc1e349031bcb22c04727857ddc58d6011fffaa2423"
+
+[[files]]
+file = "kubejs/assets/igleelib/lang/ja_jp.json"
+hash = "0939efef5a341dea0ae206cddbe133943b9bcbc9f512756a9e74bd36e803576f"
+
+[[files]]
+file = "kubejs/assets/ignissoulfires/lang/ja_jp.json"
+hash = "78c5ca715f3faa9af88c0275ab92696c4f9c46185867dae511e0a9331a743d5e"
+
+[[files]]
+file = "kubejs/assets/ignissoulfires_spellbooks/lang/ja_jp.json"
+hash = "68f3d4320b55816da1ed9da24af713415d5706cbb12363b009ad09dcbb373c36"
+
+[[files]]
+file = "kubejs/assets/integratedpatches/lang/ja_jp.json"
+hash = "f81f18a69c824e073b5ce31ab64b8d8675f683c6c3f934f484a452750d19b5a4"
+
+[[files]]
+file = "kubejs/assets/interiors/lang/ja_jp.json"
+hash = "3d1c773826430a74cc06cb86dac3c63c989afa3bf8a792d43ba90c7ee0358094"
+
+[[files]]
+file = "kubejs/assets/invincible/lang/ja_jp.json"
+hash = "37dd191b611f7c8d1eab1de07a59a2914b2b3c1b26eb3b4641cbcb1c42518d2c"
+
+[[files]]
+file = "kubejs/assets/invocore/lang/ja_jp.json"
+hash = "9afdd99123c2263850161464457e5a447764f47dc29fb435577bed8d537f05ee"
+
+[[files]]
+file = "kubejs/assets/iris/lang/ja_jp.json"
+hash = "8d265498d21deaec7445489b6e47de45e5dd3ee30a65e71b658f65ae65b63883"
+
+[[files]]
+file = "kubejs/assets/irons_lib/lang/ja_jp.json"
+hash = "69d227e5fd4ccff8555eb81df26754bb5371e0cb3040279d85bf8b58faa1e091"
+
+[[files]]
+file = "kubejs/assets/irons_patreon_lib/lang/ja_jp.json"
+hash = "34b9e73aaae36476b46c532bf1abb71f6047b53fae758698068af3510a539160"
+
+[[files]]
+file = "kubejs/assets/irons_spellbooks/lang/ja_jp.json"
+hash = "deaeca2d98def48adf89de4694700d80eca515acdc695b2523e5e1a3e4ce36ed"
+
+[[files]]
+file = "kubejs/assets/jade/lang/ja_jp.json"
+hash = "2fe1d5a2ebc6477d806480433314e5ee2a5578715d702696ff807be1938027e7"
+
+[[files]]
+file = "kubejs/assets/jadeaddons/lang/ja_jp.json"
+hash = "e5f6d4845142b577c0c3df3afdc89ca9c5d8690ed0043a0510e250d36555cdc3"
+
+[[files]]
+file = "kubejs/assets/jei/lang/ja_jp.json"
+hash = "aaf8f43b642e4ef7e988435a6cba988e21428c416ceea3838f5ab1c15b5e2aee"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/l2core/lang/ja_jp.json"
+hash = "022cf05a5597853da6fd6cf0a31d586b856e28f6d735b4858fc686602ce8dc3d"
+
+[[files]]
+file = "kubejs/assets/lattice/lang/ja_jp.json"
+hash = "3d2e9ad14cfd65c1f18f4e32100b8b5e97cc5b6b6d3b2fd60174cd185457bec8"
+
+[[files]]
+file = "kubejs/assets/legendary_monsters/lang/ja_jp.json"
+hash = "7b96b46891cb938539227de78427741e4b911ba64e3f7bd2f171dd5f434c39e9"
+
+[[files]]
+file = "kubejs/assets/legendary_spellbooks/lang/ja_jp.json"
+hash = "50a5b9b5c502c14214f69d2ee7b0914a06153bb124f0fee9340a3d9d471bbe27"
+
+[[files]]
+file = "kubejs/assets/lendersdelight/lang/ja_jp.json"
+hash = "cc0e406875094e2bd1877ae04679414234383d02f9e4e27bf6d6252b7d9bf997"
+
+[[files]]
+file = "kubejs/assets/leylines/lang/ja_jp.json"
+hash = "b78ba607b7ab9f8f3030506447aa7aa8e225397944e876e7b55b7b878b4b2dc7"
+
+[[files]]
+file = "kubejs/assets/lionfishapi/lang/ja_jp.json"
+hash = "04ae03b076795ccff52d35584f1c481fc1edc1011107f3b0789c252eb1cf60ff"
+
+[[files]]
+file = "kubejs/assets/lockonmovementfix/lang/ja_jp.json"
+hash = "b718de06e9b457531db4221fd62bb260c24940d6cbe272c84d3fc862dc08e968"
+
+[[files]]
+file = "kubejs/assets/lootr/lang/ja_jp.json"
+hash = "c6c6ea01bbd0b25738d80e4c728ce62268c0743d34d64fdfa2b60d2c78c34501"
+
+[[files]]
+file = "kubejs/assets/magistuarmory/lang/ja_jp.json"
+hash = "febe4ddf0c17997aec2f07b9b9226a59738e3da151aee4f0015504dd90151797"
+
+[[files]]
+file = "kubejs/assets/malilib/lang/ja_jp.json"
+hash = "66ce653b7072d3d7c556ce9e6bb3d72f857b2d569142547959a2044aebf685fc"
+
+[[files]]
+file = "kubejs/assets/maps3d/lang/ja_jp.json"
+hash = "ff5e01ea8abba1ab8a0481fc98cf585a9d9b809b237d59b5d93bfa9637684ef8"
+
+[[files]]
+file = "kubejs/assets/megacells/ae2guide/_ja_jp/bulk_cell.md"
+hash = "b92e1090ded68a9fc2a62e7cdd500f5f2694856384a6f0d62cf4f58693df803e"
+
+[[files]]
+file = "kubejs/assets/megacells/ae2guide/_ja_jp/crafting.md"
+hash = "141216b5d00d88d0dc60f077635fa29e65d98d2822e0bc55ff6106db74a91047"
+
+[[files]]
+file = "kubejs/assets/megacells/ae2guide/_ja_jp/energy.md"
+hash = "bd5a945952752a37106ee6497ce628135627ea964891f0089b7f2f0bac230fe0"
+
+[[files]]
+file = "kubejs/assets/megacells/ae2guide/_ja_jp/extras.md"
+hash = "0e40fd4d209ce5c55bcccb65c47ec1dd6827d98b2d9a74088e2a4edac7be6d5e"
+
+[[files]]
+file = "kubejs/assets/megacells/ae2guide/_ja_jp/index.md"
+hash = "b5a29c20cc079fa918a10c132c6cf9f08290d122ff207fd681ec7c5fdb7747c7"
+
+[[files]]
+file = "kubejs/assets/megacells/ae2guide/_ja_jp/radioactive_cell.md"
+hash = "c6219f1692efd624ea2fa4a167f79297c192e5fe303eb178acf4a4b5625cbaff"
+
+[[files]]
+file = "kubejs/assets/megacells/ae2guide/_ja_jp/storage.md"
+hash = "b6a413501abf069e1f1d740cf11d3fc8080f58e700c919a4b63eebdba986751d"
+
+[[files]]
+file = "kubejs/assets/megacells/lang/ja_jp.json"
+hash = "44575bf0a54924c5926b34a0baa054700079726a859da63b8ccf0a4340c5e0ed"
+
+[[files]]
+file = "kubejs/assets/mek_factory_info/lang/ja_jp.json"
+hash = "3a23964afd5c0a92d13ce7d218f8a3c8394564ad05326aa541241c7c013b89ab"
+
+[[files]]
+file = "kubejs/assets/mekalights/lang/ja_jp.json"
+hash = "2716b9ff0c75e896073372a2c576cb3bf16e3f51e94a460afa418701343d4981"
+
+[[files]]
+file = "kubejs/assets/mekanism/lang/ja_jp.json"
+hash = "1b222acd131d580ac45c5947f1c9c9d2a0e8fad921a30418a42dce5a9427a1e4"
+
+[[files]]
+file = "kubejs/assets/mekanism_card/lang/ja_jp.json"
+hash = "9ac7a4d47c135a1b15c36dd22abb8a81797e0e029229226ebe3d34959e0428d9"
+
+[[files]]
+file = "kubejs/assets/mekanism_ponders/lang/ja_jp.json"
+hash = "687fa78a80d9221e84b153e15fdd576280392df0a868ce4e8a8dbbdcd0c8b733"
+
+[[files]]
+file = "kubejs/assets/mekanismaaa/lang/ja_jp.json"
+hash = "31d00aab15621b440d7d8c2a2b2e6aa698ad70dcf1e04f797c6a7224981060c3"
+
+[[files]]
+file = "kubejs/assets/mekanismadditions/lang/ja_jp.json"
+hash = "b4054f00d3d1a94511cb0b7b21faf41353eaba8c628aaebf7af9defeb009cb58"
+
+[[files]]
+file = "kubejs/assets/mekanismcurios/lang/ja_jp.json"
+hash = "47b01f7432de9eeb82896b74877d6ff5176247eaf8c1f45053d89e95c092f7ff"
+
+[[files]]
+file = "kubejs/assets/mekanismelements/lang/ja_jp.json"
+hash = "0cb179553beb5335eca39290227600c144cfe68be8d1f3fce6875dc7b5a6ffd6"
+
+[[files]]
+file = "kubejs/assets/mekanismgenerators/lang/ja_jp.json"
+hash = "a7303960e5dcd1a61160abba432ec5c6ea98c424f1e9ca285f2306f1f187e5b6"
+
+[[files]]
+file = "kubejs/assets/mekanismstackprocessor/lang/ja_jp.json"
+hash = "c24eb07ea695be8c7372c0505bc921cd490d77b95ef5ac0b9a1305947813cb08"
+
+[[files]]
+file = "kubejs/assets/mekanismtools/lang/ja_jp.json"
+hash = "92889120c3c97da1daf95a6f2245fd998fc67e0fbf1ad7646fd1027837a6b272"
+
+[[files]]
+file = "kubejs/assets/mekenergistics/lang/ja_jp.json"
+hash = "e0b8806eae69b6f59e3906409727d440cf9d66874fdad12dbe37fb513d5981e7"
+
+[[files]]
+file = "kubejs/assets/mekmm/lang/ja_jp.json"
+hash = "ab7a31c40f84cbee3ab4c2e73506792bf7f45df63f67ea3b4d8dbfe77c3aae2d"
+
+[[files]]
+file = "kubejs/assets/mekmonitors/lang/ja_jp.json"
+hash = "e733866a33cd21c0416d635a557b851756c5c11c96eef0565b430b22a9256ec7"
+
+[[files]]
+file = "kubejs/assets/memorysettings/lang/ja_jp.json"
+hash = "63bed1d1da98bf5f62ed46b3076df96aeb4831ac2b81cc9bce607e0d7dc6b943"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/ja_jp.json"
+hash = "f21866c549649883d1a225feb70927e5cd249d6cd6ff8ad790f245105367054b"
+
+[[files]]
+file = "kubejs/assets/modernfix/lang/ja_jp.json"
+hash = "fe461c2176b6543a508af0595e5a2c735cdf89d92a6673ef9be1c6c1aa6a8792"
+
+[[files]]
+file = "kubejs/assets/moonlight/lang/ja_jp.json"
+hash = "87b70fd68a79b460a2f3840c96ba8e947d0f9b81f8eb1dcb77a6af49e45bfa1b"
+
+[[files]]
+file = "kubejs/assets/moreculling/lang/ja_jp.json"
+hash = "ba847bd867771656b415f7f9a39b46611ce50f85785ec3895396f29d2563e2c5"
+
+[[files]]
+file = "kubejs/assets/moremekanismprocessing/lang/ja_jp.json"
+hash = "0b11fa955ee8f007edbf9a8d5b68f0822bcd920f8b8a0df753c8d65556dc160c"
+
+[[files]]
+file = "kubejs/assets/morethermalevaporation/lang/ja_jp.json"
+hash = "9302487afecdf45511a17e85d631fda29338d96bef73b654e4d1870be3f62b1d"
+
+[[files]]
+file = "kubejs/assets/mowzies_cataclysm/lang/ja_jp.json"
+hash = "0a1f947360130955a53bd5db8b55ea63eadebd2355eb7f53cebdbf3232ccd6d0"
+
+[[files]]
+file = "kubejs/assets/mowziesmobs/lang/ja_jp.json"
+hash = "60cbd7436ff46fd565b6d5ab7695807b56641ec6acf704148a750f3cb7118d49"
+
+[[files]]
+file = "kubejs/assets/nvidium/lang/ja_jp.json"
+hash = "314f9b3825548ee9da503b084e1f1d979a9666649492d6b2c802ddd66377f1b1"
+
+[[files]]
+file = "kubejs/assets/offroad/lang/ja_jp.json"
+hash = "896e993eae95474810af01f5bc19d78b53f9033508d7e7e162b0e3fbaa40454c"
+
+[[files]]
+file = "kubejs/assets/partyhud/lang/ja_jp.json"
+hash = "f6055cd3eb3d6b7a29498d24b4443b2abe6b1311a5d8f98f8eb488225b2708c9"
+
+[[files]]
+file = "kubejs/assets/patchouli/lang/ja_jp.json"
+hash = "b7a7f4e6bd2afa253bfe41c6eba5804b9e0f4b07c21a02db128a6f38aa062107"
+
+[[files]]
+file = "kubejs/assets/placebo/lang/ja_jp.json"
+hash = "96c1caaab35f891ef5320a76489291a14770107643bc759b1f78aa172ca4e94b"
+
+[[files]]
+file = "kubejs/assets/polymorph/lang/ja_jp.json"
+hash = "2d450b6c166ba299388c667a2508c160842d0c46e7539daa36daaf8149cb4ded"
+
+[[files]]
+file = "kubejs/assets/ponder/lang/ja_jp.json"
+hash = "6b19d9329b3561be092289aa53f2668f03b114af78cb65803a4c4fc10586c48e"
+
+[[files]]
+file = "kubejs/assets/prometheus/lang/ja_jp.json"
+hash = "7ac48048f2475b375df1f2d6120e1e384768dde5f2ab01dc739c1cfb24d817f2"
+
+[[files]]
+file = "kubejs/assets/puffish_attributes/lang/ja_jp.json"
+hash = "b1553b5d1aa089446133a1f750fc92b0888310dc1e04fa20498eaa3c991f145b"
+
+[[files]]
+file = "kubejs/assets/puffish_skills/lang/ja_jp.json"
+hash = "71fb914eff78830332625585f6632d90d2e43c93a525b2c26f7108d2556ec34c"
+
+[[files]]
+file = "kubejs/assets/quark/lang/ja_jp.json"
+hash = "7bf36b79f35c3d056be174a3683a32be45461d0113e6db170ce512bee6003d7a"
+
+[[files]]
+file = "kubejs/assets/reeses-sodium-options/lang/ja_jp.json"
+hash = "3fb96bd71263520af3c0757cbb586f80754e82a818d16db0e679645535f5ef27"
+
+[[files]]
+file = "kubejs/assets/refm/lang/ja_jp.json"
+hash = "3c0efc9be302f43be5061ba8887763f3a0fb6618e9620efb8de50bea868dfc89"
+
+[[files]]
+file = "kubejs/assets/relics/lang/ja_jp.json"
+hash = "8cd8568e8169b2ff609db5cb5a497a37498b7be8058546f8dbd330fe3af9c1ec"
+
+[[files]]
+file = "kubejs/assets/reliquified_irons_spells_and_spellbooks/lang/ja_jp.json"
+hash = "6caa3e7a740a08185896be7f89d4c228051344fd0f5b58dce56149cbb1ff28d1"
+
+[[files]]
+file = "kubejs/assets/reliquified_lenders_cataclysm/lang/ja_jp.json"
+hash = "b3f6596d52bea3bcf9e8cf65a79a4582f89ab7b0a343cee35a6f5912db61ff41"
+
+[[files]]
+file = "kubejs/assets/reliquified_lenders_cataclysm_new_relics_fix/lang/ja_jp.json"
+hash = "497b120f5b8b5c1ccea4b16373cc5ea834cc4535d3c26050d3f34b2d52d81d1c"
+
+[[files]]
+file = "kubejs/assets/replicatemekanism/lang/ja_jp.json"
+hash = "048ae90df43c02178f6c77404fff95bb200d0f3965027dcdc0eeb04db5527d50"
+
+[[files]]
+file = "kubejs/assets/replication/lang/ja_jp.json"
+hash = "7ff5abeb04bd027a82c5ee2dbe9fce9049f882a6d9e962d41eb10913b17779cb"
+
+[[files]]
+file = "kubejs/assets/resourcefulconfig/lang/ja_jp.json"
+hash = "42af3f2b59961f76acfa764933171cbd5ef727b7f9a2ccf2d8c391e99e67050b"
+
+[[files]]
+file = "kubejs/assets/revive_me/lang/ja_jp.json"
+hash = "613cf9f748519ba84a33b86625f521ce85887c11324e846b5db6671535c0de6a"
+
+[[files]]
+file = "kubejs/assets/sable/lang/ja_jp.json"
+hash = "8f84baf410ab40ab379148e47e3fcd66c77a3fa38adb158234221071101891ea"
+
+[[files]]
+file = "kubejs/assets/shulkerboxtooltip/lang/ja_jp.json"
+hash = "ba81a1329cad27a608aa774144784bcc41b64cdc016fcad01b1cb95a3569d569"
+
+[[files]]
+file = "kubejs/assets/simulated/lang/ja_jp.json"
+hash = "9ab28f35cd269281735c89867bce5048eb1e78fc99da4adb81cee40d5ddfeba7"
+
+[[files]]
+file = "kubejs/assets/sl_library/lang/ja_jp.json"
+hash = "04de4877e2674899c9d440f41a21dc8f9a599f81ef05ef16e8274b5f7453ff95"
+
+[[files]]
+file = "kubejs/assets/slm_codex/lang/ja_jp.json"
+hash = "3a0c78cb120decc65f0099d23cbdd51b41d0bffa93090f7ec261035dd2efe1f2"
+
+[[files]]
+file = "kubejs/assets/slm_elements/lang/ja_jp.json"
+hash = "b873421594ea81729b097c19a69e18dd3953e0b0acd8a33523aef2a5c1204f4c"
+
+[[files]]
+file = "kubejs/assets/slm_epicfight/lang/ja_jp.json"
+hash = "3e8f41dd5bdccd91427a6b5e1ca6ba335872c7846ef162b316d8ee46c1c44bdf"
+
+[[files]]
+file = "kubejs/assets/sodium/lang/ja_jp.json"
+hash = "be689683f3b366f4c34066276b4e5d48a2ce07b940ace1f24e09d40b93cdebe9"
+
+[[files]]
+file = "kubejs/assets/somakespells/lang/ja_jp.json"
+hash = "e50ad9730964d7a140c7b77072891f50f2bf12ebac64ba330d8308ca0e53e0c9"
+
+[[files]]
+file = "kubejs/assets/statustabs/lang/ja_jp.json"
+hash = "8c8124d5b1e328e3cc75d106858663e36b023d3aa68d56d467ee8e620ba3897a"
+
+[[files]]
+file = "kubejs/assets/stellarview/lang/ja_jp.json"
+hash = "52336b95932c7b515cfa87b362cc3a0030b41bd7927f3ad5c8aa821247da1f65"
+
+[[files]]
+file = "kubejs/assets/structure_layout_optimizer/lang/ja_jp.json"
+hash = "d6fa840c17e9c3cb4648271976d19bda8dc5749ee88b18511984e7105ee61870"
+
+[[files]]
+file = "kubejs/assets/supplementaries/lang/ja_jp.json"
+hash = "714c832612751e25b6ece3c2612c85164c9c2e9c758ec98b0af546d874f01734"
+
+[[files]]
+file = "kubejs/assets/thanasmekanismlights/lang/ja_jp.json"
+hash = "aa5130298f116009556ab5ce8314c6cf95f37f8f26e949516fc323ac0154f628"
+
+[[files]]
+file = "kubejs/assets/trender/lang/ja_jp.json"
+hash = "8388c3e992229dab9b970b9164c623b862fe06dda26abe2a346c2945fcc07248"
+
+[[files]]
+file = "kubejs/assets/veil/lang/ja_jp.json"
+hash = "4177cf07b368d39bff012902eef5ac412a0e9d2736326f352eef2a8363196e0f"
+
+[[files]]
+file = "kubejs/assets/wind_spellbooks/lang/ja_jp.json"
+hash = "9c064a6ba9d486450a8b0acea253d22976e786c289a77d363cc8b88ae286700b"
+
+[[files]]
+file = "kubejs/assets/wom/lang/ja_jp.json"
+hash = "d3e062eefb215ddebc1a2d010aef5b2416ed41d5548f71967f6b3a01d8fe8f6d"
+
+[[files]]
+file = "kubejs/assets/zeta/lang/ja_jp.json"
+hash = "660a19ca5d19dc8a07bede7bf06650d568775e456fb944c5756de4415f7d214a"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"

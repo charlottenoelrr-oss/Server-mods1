@@ -1,0 +1,21 @@
+{
+  "advancement.simulated.root": "Create Simulated",
+  "itemGroup.simulated.group": "Create Simulated",
+  "simulated.contraption_diagram.mass": "%s kpg",
+  "simulated.extra_kinetics.information": "情報: %s",
+  "simulated.gui.assembly.exception.sameSubLevel": "同じ Simulated のからくりの上には分解できません!",
+  "simulated.key.alt": "Alt",
+  "simulated.merging_glue.invalid_directions.down_down": "下向きの面どうしは接着できません!",
+  "simulated.merging_glue.invalid_directions.horizontal_vertical": "水平の面と垂直の面は接着できません!",
+  "simulated.merging_glue.invalid_directions.up_up": "上向きの面どうしは接着できません!",
+  "simulated.ponder.analog_transmission.text_3": "10 RPM",
+  "simulated.ponder.analog_transmission.text_5": "4 RPM",
+  "simulated.ponder.analog_transmission.text_7": "64 RPM",
+  "simulated.ponder.shared.rpm16": "16 RPM",
+  "simulated.simulated_section.simulated": "Simulated",
+  "simulated.unit.floating": "%s kpg",
+  "simulated.unit.mass": "%s kpg",
+  "stat.simulated.format.meals": "%s 食",
+  "stat.simulated.format.short_stories": "%s 本の短編",
+  "stat.simulated.portable_engines_fed": "燃料を与えた携帯エンジン"
+}

@@ -1,0 +1,9 @@
+{
+  "item.legendary_monsters.music_disc_obliterator.desc": "Ubjuara0 - Obliterator",
+  "item.legendary_monsters.music_disc_possessed_paladin.desc": "Makai Symphony - Collapsing Kingdom",
+  "item.legendary_monsters.music_disc_advance.desc": "Light Canvas - Advance",
+  "creativetab.legendary_monsters": "Legendary Monsters",
+  "advancements.legendary_monsters.legendary_monsters_root.title": "Legendary Monsters",
+  "death.attack.legendary_monsters.shadow": "%s は %s に灰にされた",
+  "legendary_monsters.message.pet_guard_enable": " §3ガード§fモード有効"
+}

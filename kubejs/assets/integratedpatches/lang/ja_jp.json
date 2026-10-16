@@ -1,0 +1,12 @@
+{
+  "itemGroup.integratedpatches": "サンプルMODのタブ",
+  "block.integratedpatches.example_block": "サンプルブロック",
+  "item.integratedpatches.example_item": "サンプルアイテム",
+  "integratedpatches.configuration.title": "integrated patches の設定",
+  "integratedpatches.configuration.section.integratedpatches.common.toml": "integrated patches の設定",
+  "integratedpatches.configuration.section.integratedpatches.common.toml.title": "integrated patches の設定",
+  "integratedpatches.configuration.items": "アイテムの一覧",
+  "integratedpatches.configuration.logDirtBlock": "土ブロックをログに出す",
+  "integratedpatches.configuration.magicNumberIntroduction": "魔法の数の文字",
+  "integratedpatches.configuration.magicNumber": "魔法の数"
+}

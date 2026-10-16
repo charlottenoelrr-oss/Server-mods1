@@ -1,0 +1,12 @@
+{
+  "text.trender.name": "Trender",
+  "text.trender.tab.general_options": "設定",
+  "text.trender.style": "UIの見た目",
+  "text.trender.style.tooltip": "tr7zw の全てのMODのUIの見た目を変えます。",
+  "text.trender.style.MODERN": "モダン",
+  "text.trender.style.MODERN_DARK": "モダン(暗い)",
+  "text.trender.style.VANILLA_OLD": "昔のバニラ",
+  "text.trender.style.VANILLA_MODERN": "モダンなバニラ",
+  "text.trender.sendstacktraces": "スタックトレースを送る",
+  "text.trender.sendstacktraces.tooltip": "有効にすると、ログやゲームのクラッシュのうち tr7zw のMODを含むスタックトレースを、バグを早く直すため Sentry (Sentry.io) でMODの作者に送ります。個人情報は集めも送りもしません。(オンにした後はゲームを再起動してください)"
+}

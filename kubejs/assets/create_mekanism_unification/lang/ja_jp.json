@@ -1,0 +1,15 @@
+{
+  "modmenu.descriptionTranslation.create_mekanism_unification": "Mekanism 10.7.x 用の Create x Mekanism の鉱石処理の互換。",
+  "chemical.create_mekanism_unification.dirty_zinc": "汚れた亜鉛のスラリー",
+  "chemical.create_mekanism_unification.clean_zinc": "清浄な亜鉛のスラリー",
+  "chemical.create_mekanism_unification.dirty_reggarfonite": "汚れたレガーフォナイトのスラリー",
+  "chemical.create_mekanism_unification.clean_reggarfonite": "清浄なレガーフォナイトのスラリー",
+  "chemical.create_mekanism_unification.dirty_platinum": "汚れたプラチナのスラリー",
+  "chemical.create_mekanism_unification.clean_platinum": "清浄なプラチナのスラリー",
+  "chemical.create_mekanism_unification.dirty_nickel": "汚れたニッケルのスラリー",
+  "chemical.create_mekanism_unification.clean_nickel": "清浄なニッケルのスラリー",
+  "chemical.create_mekanism_unification.dirty_aluminum": "汚れたアルミニウムのスラリー",
+  "chemical.create_mekanism_unification.clean_aluminum": "清浄なアルミニウムのスラリー",
+  "chemical.create_mekanism_unification.dirty_cobalt": "汚れたコバルトのスラリー",
+  "chemical.create_mekanism_unification.clean_cobalt": "清浄なコバルトのスラリー"
+}

@@ -1,0 +1,10 @@
+{
+  "l2core.configuration.addEnchantmentDescription": "エンチャントの説明を追加",
+  "l2core.configuration.addEnchantmentDescription.tooltip": "使える値: DISABLE、SHIFT_ONLY、ALWAYS",
+  "l2core.configuration.overlayZVal": "アイテムの文字の重ね表示の高さ",
+  "l2core.configuration.overlayZVal.tooltip": "範囲: -1000000 〜 1000000",
+  "l2core.configuration.section.l2configs.l2core.client.toml": "L2Core のクライアントの設定",
+  "l2core.configuration.section.l2configs.l2core.client.toml.title": "L2Core のクライアントの設定",
+  "l2core.configuration.title": "L2Core の設定",
+  "l2core.title": "L2Core"
+}

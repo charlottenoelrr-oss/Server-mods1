@@ -1,0 +1,11 @@
+{
+  "commands.polymorph.conflicts.starting": "レシピの競合を探しています...",
+  "commands.polymorph.conflicts.success": "競合の可能性が %d 件見つかりました。詳しくは logs/conflicts.log を見てください。",
+  "polymorph.networking.failed": "Polymorph の通信の失敗: %s",
+  "polymorph_plus.tutorial.conflict": "レシピが競合しています!矢印をクリックして選んでください。",
+  "polymorph_plus.tutorial.select": "出力をクリックするとレシピを切り替えます。",
+  "polymorph_plus.tutorial.pin": "ヒント: 矢印を右クリックするとパネルを開いたまま固定します。",
+  "polymorph_plus.tutorial.scroll": "競合が7件より多くあります!スクロールするか横の矢印をクリックして見てください。",
+  "polymorph_plus.tutorial.prefer": "結果を Shift + クリックすると、常にその結果を優先します。星が選ばれたものの印です。",
+  "polymorph_plus.tutorial.cycle": "ヒント: 結果のスロットで Shift を押しながらスクロールすると、これを開かずに切り替えられます。"
+}

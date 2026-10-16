@@ -1,0 +1,20 @@
+{
+  "item.cataclysm_weaponery.ignitium_pickaxe.description_1": "§d能力: 右クリックするとプレイヤーに採掘速度上昇を与える。",
+  "item.cataclysm_weaponery.ignitium_shovel": "白熱のスコップ",
+  "item.cataclysm_weaponery.ignitium_pickaxe.description_0": "§2ツルハシ",
+  "item.cataclysm_weaponery.ignitium_hoe.description_0": "§2クワ",
+  "item.cataclysm_weaponery.ignitium_pickaxe": "冥界の掘り手",
+  "item.cataclysm_weaponery.ignitium_hoe.description_1": "§d能力: スニークしながら右クリックすると火の玉を撃つ。",
+  "item.cataclysm_weaponery.ignitium_hoe": "ネザーの刈り手",
+  "advancements.farming_time.descr": "イグニチウムのクワをクラフトする | §aこの進捗を達成すると 400 経験値を得る。",
+  "item.cataclysm_weaponery.ignitium_sword.description_0": "§2剣",
+  "item.cataclysm_weaponery.ignitium_sword.description_1": "§6手に持っていると耐火の効果。",
+  "item.cataclysm_weaponery.ignitium_sword.description_2": "§d能力: 右クリックするとウィザーの頭蓋骨を撃つ。",
+  "item.cataclysm_weaponery.ignitium_shovel.description_1": "§d能力: 土か草ブロックを右クリックすると、すぐに 2x3 の土の壁を作る。",
+  "advancements.farming_time.title": "農作業の時間!",
+  "item.cataclysm_weaponery.ignitium_shovel.description_0": "§2シャベル",
+  "item.cataclysm_weaponery.ignitium_axe": "深紅のハンマー",
+  "item.cataclysm_weaponery.ignitium_sword": "§8ウィザーの魂",
+  "item_group.cataclysm_weaponery.cataclysm_weaponery": "Cataclysm Weaponery",
+  "item.cataclysm_weaponery.ignitium_axe.description_0": "§2斧"
+}

@@ -1,0 +1,19 @@
+{
+  "block.replication.creative_matter_tank": "クリエイティブの物質タンク",
+  "item.replication.creative_memory_chip": "クリエイティブのメモリチップ",
+  "item.replication.replicator_enclosure": "複製機の筐体",
+  "item.replication.replicator_motor": "複製機のモーター",
+  "itemGroup.replication": "Replication",
+  "replication.false": "いいえ",
+  "replication.infinite": "無限",
+  "replication.true": "はい",
+  "tooltip.replication.tank.priority": "優先度:",
+  "tooltip.replication.tank.void_excess": "余りを捨てる",
+  "tooltip.replication_enclosure.energy": "複製機のエネルギー消費を %s 増やす",
+  "tooltip.replication_enclosure.speed": "複製機の速さを %s 上げる",
+  "tooltip.replication_motor.acceleration": "今の加速の倍率:",
+  "tooltip.replication_motor.failure_chance": "今の失敗の確率:",
+  "tooltip.replication_motor.variable": "可変速度コントローラー",
+  "tooltip.titanium.facing_handler.output": "出力",
+  "tooltip.titanium.tank.empty": "空"
+}

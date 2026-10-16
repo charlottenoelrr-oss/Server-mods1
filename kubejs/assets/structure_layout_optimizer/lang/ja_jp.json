@@ -1,0 +1,8 @@
+{
+  "config.structure_layout_optimizer.title": "Structure Layout Optimizer",
+  "config.structure_layout_optimizer.desc": "ジグソーの生成を最適化する試み",
+  "config.structure_layout_optimizer.link.bug_report": "バグを報告",
+  "config.structure_layout_optimizer.link.license": "ライセンス",
+  "config.structure_layout_optimizer.deduplicate_shuffled_template_pool_element_list": "シャッフルしたテンプレートプールの要素の一覧の重複を除く",
+  "config.structure_layout_optimizer.deduplicate_shuffled_template_pool_element_list.desc": "テンプレートプールの重みに対するこのMODの既定の最適化よりも、構造物の配置を少しだけ速く生成する別の方法を使うかどうか。この方法は、構造物がテンプレートプールから集める部品の一覧に重複が無いように変えることで働きます。\n構造物の生成は壊れませんが、この設定がオフのときとは構造物の配置が変わります(バニラのシード値との一致が崩れます)。多くの構造物のMODがテンプレートプールにとても大きな重みを使っている大きなMODパックでは、速さのためにその代償を払う価値があるかもしれません。\n\n長所: 重みの大きいテンプレートプールの構造物で、少し性能が上がる。\n短所: 構造物の配置がバニラのシード値と一致しなくなる。(配置が壊れるのではなく、違うだけ)"
+}

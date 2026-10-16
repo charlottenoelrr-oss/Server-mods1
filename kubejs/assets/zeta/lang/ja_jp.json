@@ -1,0 +1,13 @@
+{
+  "zeta.misc.mod_disabled": "無効。有効にするには %s を入れてください。",
+  "zeta.jei.hint_preamble": "[Zeta]\n",
+  "zeta.gui.config.save": "変更を保存",
+  "zeta.gui.config.header": "%s の設定",
+  "zeta.gui.config.default": "既定に戻す",
+  "zeta.gui.config.discard": "変更を破棄",
+  "zeta.gui.config.subcategories": "------- 下位の分類 -------",
+  "zeta.gui.config.onechild": "1 個の子",
+  "zeta.gui.config.nchildren": "%d 個の子",
+  "zeta.gui.config.defaultvalue": "既定: %s",
+  "zeta.gui.config.missingaddon": "この分類に必要な追加のMODがありません"
+}

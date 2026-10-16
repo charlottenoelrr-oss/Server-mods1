@@ -1,0 +1,9 @@
+{
+  "block.applied_apothic_enchanting.infinite_library": "無限のエンチャント書庫",
+  "gui.applied_apothic_enchanting.library_storage": "Apothic のエンチャント書庫",
+  "item.applied_apothic_enchanting.creative_enchantment_storage_cell": "MEクリエイティブエンチャントストレージセル",
+  "itemGroup.applied_apothic_enchanting": "Applied Apothic Enchanting",
+  "tooltip.applied_apothic_enchanting.creative_enchantment_cell.configure": "MEセル作業台でエンチャントの本を使って設定する",
+  "tooltip.applied_apothic_enchanting.creative_enchantment_cell.levels": "設定した各エンチャントのレベル1〜31の本が無限にある",
+  "tooltip.applied_apothic_enchanting.creative_enchantment_cell.types": "設定したエンチャントの種類: %s"
+}

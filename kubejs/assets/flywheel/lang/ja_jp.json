@@ -1,0 +1,14 @@
+{
+  "argument.flywheel_backend.id.unknown": "不明なバックエンド「%s」",
+  "command.flywheel.backend.get": "今の Flywheel のバックエンドは「%s」です",
+  "command.flywheel.backend.set": "Flywheel のバックエンドを「%s」にしました",
+  "command.flywheel.backend.set.unavailable": "指定したバックエンド「%s」は使えません",
+  "command.flywheel.limit_updates.get.off": "更新の制限は今無効です",
+  "command.flywheel.limit_updates.get.on": "更新の制限は今有効です",
+  "command.flywheel.limit_updates.set.off": "更新の制限を無効にしました",
+  "command.flywheel.limit_updates.set.on": "更新の制限を有効にしました",
+  "command.flywheel.use_light_directions.get.off": "光の方向を使っていません",
+  "command.flywheel.use_light_directions.get.on": "光の方向を使っています",
+  "command.flywheel.use_light_directions.set.off": "光の方向をオフにしました",
+  "command.flywheel.use_light_directions.set.on": "光の方向をオンにしました"
+}

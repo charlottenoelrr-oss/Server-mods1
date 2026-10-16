@@ -1,0 +1,9 @@
+{
+  "modmenu.nameTranslation.jade": "Jade",
+  "config.jade.item_mod_name_extra_msg": "modid",
+  "jade.typeNameEntity": "%s (%s)",
+  "config.jade.plugin_jade.registry_name.special.poi": "POI: %s",
+  "jade.fluid.more_tanks": "ほか %s 個のタンク",
+  "jade.theme.jade.top": "One Probe",
+  "jade.theme.jade.create": "Create"
+}

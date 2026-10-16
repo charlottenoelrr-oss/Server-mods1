@@ -1,0 +1,17 @@
+{
+  "text.puffish_skills.buy_point": "ポイントを買う",
+  "tooltip.puffish_skills.cost": "コスト: %s",
+  "toast.puffish_skills.missing_config.description": "スキルツリーがありません。1つ追加してください。",
+  "command.puffish_skills.no_level": "ID %s の分類ではレベルが有効になっていません",
+  "command.puffish_skills.experience.get.success": "%3$s は分類 %2$s で %1$s の経験値を持っています",
+  "command.puffish_skills.level.add.success.single": "%3$s の分類 %2$s に %1$s レベルを加えました",
+  "command.puffish_skills.level.add.success.multiple": "%3$s 人のプレイヤーの分類 %2$s に %1$s レベルを加えました",
+  "command.puffish_skills.level.set.success.single": "%3$s の分類 %2$s のレベルを %1$s にしました",
+  "command.puffish_skills.level.set.success.multiple": "%3$s 人のプレイヤーの分類 %2$s のレベルを %1$s にしました",
+  "command.puffish_skills.level.get.success": "%3$s は分類 %2$s でレベル %1$s です",
+  "command.puffish_skills.points.get.success": "%3$s は分類 %2$s で %1$s ポイント持っています",
+  "command.puffish_skills.category.open.success.single": "%2$s に分類 %1$s の画面を開きました",
+  "command.puffish_skills.category.open.success.multiple": "%2$s 人のプレイヤーに分類 %1$s の画面を開きました",
+  "command.puffish_skills.open.success.single": "%s にスキルの画面を開きました",
+  "command.puffish_skills.open.success.multiple": "%s 人のプレイヤーにスキルの画面を開きました"
+}

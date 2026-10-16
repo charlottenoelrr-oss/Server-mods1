@@ -1,0 +1,7 @@
+{
+  "moreculling.title": "MoreCulling",
+  "moreculling.config.category.leaves": "葉のカリング",
+  "moreculling.config.category.item_frame": "額縁のカリング",
+  "moreculling.config.option.paintingCulling": "絵画のカリング",
+  "moreculling.config.option.paintingCulling.tooltip": "絵画の裏面と内側の面をカリングする"
+}

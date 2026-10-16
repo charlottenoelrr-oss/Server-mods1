@@ -1,0 +1,9 @@
+{
+  "chemical.mekanismelements.methanol": "メタノール",
+  "chemical.mekanismelements.methylamine": "メチルアミン",
+  "chemical.mekanismelements.methylammonium_lead_iodide": "ヨウ化鉛メチルアンモニウム",
+  "constants.mekanismelements.mod_name": "Mekanism: Elements",
+  "container.mekanismelements.adsorption_type_seawater_metal_extractor": "吸着式海水金属抽出機",
+  "description.mekanismelements.chemical_demolition_machine": "化学物質を使って素材を分解する機械。",
+  "item.mekanismelements.dust_yttrium": "イットリウムの粉"
+}

@@ -1,0 +1,5 @@
+{
+  "pack.source.fabricmod": "Fabric のMOD",
+  "pack.name.fabricMod": "Fabric のMOD「%s」",
+  "pack.name.fabricMod.subPack": "Fabric のMOD「%s」(%s)"
+}

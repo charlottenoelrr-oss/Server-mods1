@@ -1,0 +1,8 @@
+{
+  "prometheus:fire_source_tags": "Prometheus の火の発生源",
+  "prometheus_dynamic_fire_source_tags": "火の発生源に正しいタグを付ける",
+  "prometheus:campfire_tags": "Prometheus の焚き火",
+  "prometheus_dynamic_campfire_tags": "焚き火に正しいタグを付ける",
+  "prometheus:fire_charge_tags": "Prometheus のファイヤーチャージ",
+  "prometheus_dynamic_fire_charge_tags": "ファイヤーチャージに正しいタグを付ける"
+}

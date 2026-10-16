@@ -1,0 +1,14 @@
+{
+  "text.cloth-config.error_cannot_save": "エラー!",
+  "text.cloth-config.boolean.value.true": "§aはい",
+  "text.cloth-config.boolean.value.false": "§cいいえ",
+  "text.cloth-config.dropdown.value.unknown": "§c候補はありません",
+  "text.cloth-config.disabled_tooltip": "無効(条件を満たしていません)",
+  "modifier.cloth-config.alt": "Alt + %s",
+  "modifier.cloth-config.ctrl": "Ctrl + %s",
+  "modifier.cloth-config.shift": "Shift + %s",
+  "category.cloth-config.testing": "設定のデモ",
+  "text.cloth-config.testing.1": "MODの開発者で %1$s を使いたいですか?%2$s で始めましょう。%3$s こともできます。",
+  "text.cloth-config.testing.2": "Cloth Config の Wiki",
+  "text.cloth-config.testing.3": "特に理由もなく Minecraft の設定ファイルを開くにはここをクリック"
+}

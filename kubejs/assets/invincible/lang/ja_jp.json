@@ -1,0 +1,13 @@
+{
+  "key.invincible.key1": "主な操作",
+  "key.invincible.key2": "副の操作",
+  "key.invincible.key3": "特殊能力1",
+  "key.invincible.key4": "特殊能力2",
+  "key.invincible.key1.description": "普段はメインの攻撃や主な戦闘の操作をする。",
+  "key.invincible.key2.description": "よくガード・照準・副の戦闘の操作に使う。",
+  "key.invincible.key3.description": "使えるとき、特殊能力や別のスキルを発動する。",
+  "key.invincible.key4.description": "割り当てられていれば、追加の特殊能力や補助の能力を使う。",
+  "key.invincible.category": "Invincible Lib の操作",
+  "tips.invincible.charge": "KEY2 を長押しでチャージ。",
+  "commands.invincible.reload": "[Invincible Lib]: スキルを再読み込みしました!"
+}

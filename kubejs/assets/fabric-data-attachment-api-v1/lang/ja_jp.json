@@ -1,0 +1,13 @@
+{
+  "fabric-data-attachment-api-v1.unknown-target.attachment-identifier": "アタッチメントのID: %s",
+  "fabric-data-attachment-api-v1.unknown-target.block-entity-position": "ブロックエンティティの位置: %s",
+  "fabric-data-attachment-api-v1.unknown-target.chunk-position": "チャンクの位置: %s",
+  "fabric-data-attachment-api-v1.unknown-target.entity-network-id": "エンティティのネットワークID: %s",
+  "fabric-data-attachment-api-v1.unknown-target.target-type": "対象の種類: %s",
+  "fabric-data-attachment-api-v1.unknown-target.target-type.block-entity": "ブロックエンティティ",
+  "fabric-data-attachment-api-v1.unknown-target.target-type.chunk": "チャンク",
+  "fabric-data-attachment-api-v1.unknown-target.target-type.entity": "エンティティ",
+  "fabric-data-attachment-api-v1.unknown-target.target-type.world": "ワールド",
+  "fabric-data-attachment-api-v1.unknown-target.title": "不明な対象のアタッチメントの変更を受け取りました!",
+  "fabric-data-attachment-api-v1.unknown-target.world": "ワールド: %s"
+}

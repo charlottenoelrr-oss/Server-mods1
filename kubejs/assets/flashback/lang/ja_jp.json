@@ -1,0 +1,15 @@
+{
+  "flashback.option.recording.record_bobby_chunks": "Bobby のチャンクを記録",
+  "flashback.option.recording.record_bobby_chunks.description": "見えている Bobby のチャンクをリプレイに直接記録する",
+  "flashback.advanced.ignored_custom_packets": "無視するカスタムペイロード",
+  "flashback.advanced.ignored_custom_packets.description": "無視するMODのカスタムペイロード。主に問題のあるMODを回避するのに役立つ",
+  "flashback.kilobytes": "%skB",
+  "flashback.megabytes": "%sMB",
+  "flashback.ssaa": "SSAA",
+  "flashback.hide_all_spectators": "全ての観戦者を隠す",
+  "flashback.hidden_because_spectator": "「全ての観戦者を隠す」が有効なので隠れています",
+  "flashback.export_disable_fullscreen": "全画面だと書き出しでいろいろな問題が起きます。書き出す前に全画面を無効にしてください",
+  "flashback.error_moving_to_output": "出力先にファイルを書き込むときにエラーが起きました。たいてい、選んだフォルダへの書き込み権限が無いのが原因です。書き出したものは代わりに一時フォルダに残しています",
+  "flashback.visuals.gui": "GUI",
+  "flashback.aspect_ratio.16_by_9": "16:9 (HDTV)"
+}

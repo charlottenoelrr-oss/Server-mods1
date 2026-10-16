@@ -1,0 +1,20 @@
+{
+  "item.alexs_caves_spellbooks.dread_robes_boots": "恐怖のブーツ",
+  "item.alexs_caves_spellbooks.dread_robes_leggings": "恐怖のレギンス",
+  "item.alexs_caves_spellbooks.dread_robes_chestplate": "恐怖の鎧",
+  "item.alexs_caves_spellbooks.dread_robes_helmet": "恐怖のフード",
+  "item.alexs_caves_spellbooks.primordial_mage_leggings": "原初の魔術師のトーガ",
+  "item.alexs_caves_spellbooks.primordial_mage_chestplate": "原初の魔術師の鎧",
+  "item.alexs_caves_spellbooks.primordial_mage_helmet": "原初の魔術師のヘルメット",
+  "item.alexs_caves_spellbooks.vallumraptor_hide": "ヴァルムラプトルの皮",
+  "item.alexs_caves_spellbooks.elder_vallumraptor_hide": "長老ヴァルムラプトルの皮",
+  "item.alexs_caves_spellbooks.dinosaurium": "ダイノサウリウム",
+  "spell.alexs_caves_spellbooks.summon_vesper": "ヴェスパー召喚",
+  "spell.alexs_caves_spellbooks.summon_grottoceratops": "グロトケラトプス召喚",
+  "spell.alexs_caves_spellbooks.aspect_of_tremorsaurus": "トレモサウルスの相",
+  "creativetab.alexs_caves_spellbooks_tab": "Alex's Caves Spellbooks",
+  "entity.alexs_caves_spellbooks.summoned_vesper": "召喚されたヴェスパー",
+  "entity.alexs_caves_spellbooks.summoned_grottoceratops": "召喚されたグロトケラトプス",
+  "advancements.alexs_caves_spellbooks.dinosaurium.title": "ダイノサウリウム",
+  "advancements.alexs_caves_spellbooks.dinosaurium.description": "古代のダイノサウリウムを手に入れる。"
+}

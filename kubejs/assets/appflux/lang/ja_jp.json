@@ -1,0 +1,18 @@
+{
+  "itemGroup.af": "Applied Flux",
+  "item.appflux.fe_1k_portable_cell": "1k 携帯FEセル",
+  "item.appflux.fe_4k_portable_cell": "4k 携帯FEセル",
+  "item.appflux.fe_16k_portable_cell": "16k 携帯FEセル",
+  "item.appflux.fe_64k_portable_cell": "64k 携帯FEセル",
+  "item.appflux.fe_256k_portable_cell": "256k 携帯FEセル",
+  "item.appflux.fe_1m_portable_cell": "1M ME携帯セル",
+  "item.appflux.fe_4m_portable_cell": "4M ME携帯セル",
+  "item.appflux.fe_16m_portable_cell": "16M ME携帯セル",
+  "item.appflux.fe_64m_portable_cell": "64M ME携帯セル",
+  "item.appflux.fe_256m_portable_cell": "256M ME携帯セル",
+  "gui.appflux.flux_accessor": "フラックスアクセサー",
+  "gui.appflux.flux_accessor.fast_on": "高速モード: オン",
+  "gui.appflux.flux_accessor.fast_off": "高速モード: オフ",
+  "gui.appflux.flux_accessor.warn": "高速モードではラグが出ることがあります。",
+  "group.fe_portable_cells.name": "携帯FEセル"
+}

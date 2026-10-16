@@ -1,0 +1,15 @@
+{
+  "__commands": "コマンドの文字",
+  "__time_units": "ゲーム内に表示されることがある、いろいろな時間の単位の項目。",
+  "__months": "月の名前",
+  "__days": "曜日の名前",
+  "__moon_phases": "ゲーム内に出る月の満ち欠けの名前。",
+  "__fonts": "バニラの文字のフォントの非公式な言語の項目。",
+  "font.minecraft.default.preview": "The quick brown fox jumps over the lazy dog.",
+  "font.minecraft.alt.preview": "Majik fox cub solved the waspy dragons quiz",
+  "font.minecraft.illageralt": "イリジャーのアルファベット",
+  "font.minecraft.illageralt.preview": "Grumpy wizards make a toxic brew for the jovial queen.",
+  "font.minecraft.uniform": "一様",
+  "font.minecraft.uniform.preview": "The quick brown fox jumps over the lazy dog.",
+  "__Tags": "レシピビューアー用のタグの名前"
+}

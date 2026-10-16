@@ -1,0 +1,5 @@
+{
+  "misc.common_storage_lib.energy": "%s ⚡",
+  "misc.common_storage_lib.fluid": "%2$s の %1$s 🪣",
+  "misc.common_storage_lib.consume": "%s を消費"
+}

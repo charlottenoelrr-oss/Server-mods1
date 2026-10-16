@@ -1,0 +1,9 @@
+{
+  "materialType.moremekanismprocessing._comment1": "===== 素材の種類 =====",
+  "statedMaterial.moremekanismprocessing._comment1": "===== 規則 =====",
+  "statedMaterial.moremekanismprocessing._comment3": "%s は素材の種類(例: Cobalt, Silver)",
+  "statedMaterial.moremekanismprocessing._comment4": "    materialType.xxxxx から",
+  "statedMaterial.moremekanismprocessing._comment6": "アイテムの翻訳を書けば、この規則を上書きできる",
+  "statedMaterial.moremekanismprocessing._comment7": "    例) 'item.moremekanismprocessing.cobalt_ingot' : 'Blue Metal'",
+  "statedMaterial.moremekanismprocessing._comment8": "スラリーも同じ"
+}

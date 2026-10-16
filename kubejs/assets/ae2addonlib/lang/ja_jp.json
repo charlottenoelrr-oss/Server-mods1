@@ -1,0 +1,6 @@
+{
+  "gui.ae2addonlib.SetAmount": "量を設定",
+  "gui.tooltips.ae2addonlib.Disabled": "無効",
+  "gui.tooltips.ae2addonlib.Enabled": "有効",
+  "gui.tooltips.ae2addonlib.InvalidHexInput": "16進数の入力が正しくありません"
+}

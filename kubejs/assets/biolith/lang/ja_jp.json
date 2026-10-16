@@ -1,0 +1,21 @@
+{
+  "modmenu.descriptionTranslation.biolith": "Terraformers のワールド生成の道具",
+  "biolith.command.describe.header": "バイオームの値",
+  "biolith.command.describe.biome.vanilla": "バニラ/データのバイオーム: ",
+  "biolith.command.describe.biome.terrablender": "TerraBlender のバイオーム: ",
+  "biolith.command.describe.biome.moderner_beta": "Moderner Beta のバイオーム: ",
+  "biolith.command.describe.biome.replacement": "置き換えのバイオーム: ",
+  "biolith.command.describe.biome.sub": "選ばれたサブバイオーム: ",
+  "biolith.command.describe.biome.nearest": "最寄り: ",
+  "biolith.command.describe.biome.none": "(なし)",
+  "biolith.command.describe.biome.scale": "スケール",
+  "biolith.command.describe.nonPlayer": "実行者がプレイヤーではありません。エンティティか位置を指定してください。",
+  "biolith.command.describe.notOurs": "対象のディメンションは Biolith で変更されていません。",
+  "biolith.command.help": "コマンドの選択肢:\n  §9/biolith help§r - Biolith のコマンドの情報\n  §9/biolith describe§r - バイオームとノイズの情報",
+  "biolith.command.help.missing": "§e指定したコマンドのヘルプはありません。",
+  "biolith.command.help.describe": "§9/biolith describe [at (<entity>|<position>)]§r - ノイズとバイオームの選択の情報",
+  "biolith.command.hint": "§6(コマンドの情報は「§9/biolith help§6」を試してください...)",
+  "biolith.world.minecraft.the_end": "ジ・エンド",
+  "biolith.world.minecraft.the_nether": "ネザー",
+  "biolith.world.minecraft.overworld": "オーバーワールド"
+}

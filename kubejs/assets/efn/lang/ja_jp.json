@@ -1,0 +1,21 @@
+{
+  "item.efn.hf_blade": "§b§lHF-BLADE",
+  "item.efn.hf_blade.description1": "踊ろうぜ!",
+  "enchantment.efn.yamato_summoned_sword_end": "幻影剣・終",
+  "enchantment.efn.scythe_enhance": "紅月 - 魔人化",
+  "enchantment.efn.broad_blade_enhance": "ブロードブレード - 革命",
+  "enchantment.efn.yamato_summoned_sword_end.desc": "幻影剣が行動に合わせて自動で動く",
+  "enchantment.efn.scythe_enhance.desc": "エネルギーが最大のとき、一撃ごとに血の斬撃が響く。",
+  "enchantment.efn.broad_blade_enhance.desc": "ブロードブレードのパッシブ「革命」を有効にしました",
+  "skill.efn.broadblade.tooltip10": "処刑: 標的の体力が最大体力×0.2 以下のとき、特殊能力2のキーを押す",
+  "skill.efn.broadblade.tooltip11": "[§cロック中§r]: エンチャント「革命」が必要——革命: 攻撃が30%の確率で回避とガードを無視する。発動すると、標的の今の体力の5%の追加ダメージを与える",
+  "effect.efn.heavy_rain_stun": "豪雨のスタン",
+  "effect.efn.murasama_sheath": "鞘のチャージ",
+  "advancement.efn.obtain_hf_blade.title": "§b§l踊ろうぜ!",
+  "advancement.efn.obtain_hf_blade.description": "これは俺の剣じゃない……",
+  "advancement.efn.toast.hf_blade": "俺の剣は正義の道具だった",
+  "skill.epicfight.category.efn_arts": "夜の帳の技",
+  "skill.epicfight.category.efn_sekiro": "隻狼の技",
+  "skill.epicfight.category.efn_zansetsu": "ブレードモード",
+  "skill.epicfight.category.judgmentcut_end": "次元斬・絶"
+}
