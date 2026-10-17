@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.4.0.jar"
-hash = "6eed4d6a5ff1b3c862ae874380d83e8db944dd7a71dfb77b3a341158a1f30b73"
+file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.5.0.jar"
+hash = "79b7d5b7a2495baa8a4627063bd5b044398586fbff06ce4d8c2625d8d19034c9"
 
 [[files]]
 file = "RequiredMods/Always/Both/Adventure/statustabs-3.4.0.jar"
