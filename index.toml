@@ -2486,8 +2486,8 @@ file = "kubejs/startup_scripts/mek_gear_nerfs_damage.js"
 hash = "017e8de1090d58f138fb59681dc2bab1b3562c97668f56449c594b53bae0c2c4"
 
 [[files]]
-file = "mods/ServerManager-1.1.0.jar"
-hash = "45c405a657a41bdb1336b51e6262fa5008575ee2e039fb702f2dc8402688ea81"
+file = "mods/ServerManager-1.1.1.jar"
+hash = "e9fde1209048d72d8c8156b3bcde4096a03106e28c33c8f303d2b87aa4c38f86"
 
 [[files]]
 file = "mods/saturn.pw.toml"
