@@ -1,6 +1,6 @@
 name = "Cataclysm Weaponery"
 filename = "cataclysm_weaponery-3.0.0-neoforge-1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/S5OkaSK0/versions/WzymjSBK/cataclysm_weaponery-3.0.0-neoforge-1.21.1.jar"

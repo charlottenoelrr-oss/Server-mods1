@@ -1,1100 +1,1100 @@
 hash-format = "sha256"
 
 [[files]]
-file = "ServerMods/Adventure/aces-spell-utils.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/aces-spell-utils.pw.toml"
 hash = "2b69450e43952ddfa55a78ac5bba0c3a73b29cca2d05b57a5beecff62175fa32"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/alexs-caves-spellbooks.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/alexs-caves-spellbooks.pw.toml"
 hash = "549a50d49d87f7a765b4ab263ba5a42f92c53d5eae85b688d1f68cb8972313e5"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/alexs-caves-unofficial-port.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/alexs-caves-unofficial-port.pw.toml"
 hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/anadaptive-nemesis.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/anadaptive-nemesis.pw.toml"
 hash = "1d72a6a88f4502669361fc393dda85c3139317fb1b95db33b2334d97c65f54c1"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/apotheosis-balance-configurator.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/apotheosis-balance-configurator.pw.toml"
 hash = "4534c14c02e72d991a978aa7c92489eae55a883788b4c2317f869317b873ef8d"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/apotheosis-create-recipe.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/apotheosis-create-recipe.pw.toml"
 hash = "1ce3aaf14e7ccbafb8ab794c40979ad256ab67354dec93b54d67fec5a050b448"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/apotheosis.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/apotheosis.pw.toml"
 hash = "e154d7fb16dc7eb6ace7b88b3896955bb66f58c2daafe93c7ae3327ee418a509"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/apothic-attributes.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/apothic-attributes.pw.toml"
 hash = "8f5f05a72596ecc0dd11be483785c8a521e987dc2fe6d2fef212c2a382a0c779"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/apothic-cataclysm.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/apothic-cataclysm.pw.toml"
 hash = "6ed64ad042d5a67c1b742028a8465ad547d33611b80eaf22f0ff2d0b8435d2c3"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/apothic-category-compat.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/apothic-category-compat.pw.toml"
 hash = "11d385cc7dea81d22fc63d898b478caaae231c923df38f491dc064425c9c800c"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/apothic-compats.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/apothic-compats.pw.toml"
 hash = "d2c38ac301a32cfa02e7bb32c339508e1a49c496dda4e67c18d7c6056fd80e1e"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/apothic-enchanting.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/apothic-enchanting.pw.toml"
 hash = "0d3ca07f510b7674932be8e109f394ab23aa4cd1aee04020ea0d509a0d1dd619"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/apothic-spawners.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/apothic-spawners.pw.toml"
 hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/applied-apothic-enchanting.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/applied-apothic-enchanting.pw.toml"
 hash = "d317fc0c06570e2309e522982ad16e8227658a03bf4f261d60685f2636150a6d"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/aquamirae-epic-fight-compat.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/aquamirae-epic-fight-compat.pw.toml"
 hash = "dc5e96887ae96142be50803b0eff97e47c31b3bad25935f780f175b85b0c7150"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/aquamirae.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/aquamirae.pw.toml"
 hash = "a0e1131ed6d7fab5650544ee043831f5709eb80d3cf2ea31ce18d7427e5915a2"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/attributefix.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/attributefix.pw.toml"
 hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/attributes.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/attributes.pw.toml"
 hash = "11ab8a365c5bed4941664f25b31f51ee4db08885c49a0fce64cba5aa5555e2cc"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/average-dps.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/average-dps.pw.toml"
 hash = "fff5930d01417bbb6d18bbc1338d183dcf96f4037d45b1fdcb457e20cf145d33"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/borninchaos.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/borninchaos.pw.toml"
 hash = "a2c8cf1a4fc5faed55ca1f8d04f7abaa1c8282b9bcd70e1b3e607181923f48d9"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/bossesrise.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/bossesrise.pw.toml"
 hash = "d20e603af6e9156021a1b8db31edd187a089b2b21cd7f70fa7eb7507bf81dbf9"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/cataclysm-epicfight-stun-compat.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/cataclysm-epicfight-stun-compat.pw.toml"
 hash = "e912c09a0d30d673d05b2ddc32adb00173db27026545ba9bd126210445271597"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/cataclysm-ignis-soulfires.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/cataclysm-ignis-soulfires.pw.toml"
 hash = "8e876e0b73251b025366261f423e54c0b7381cfc489e243b9dc658e316e235d6"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/cataclysm-spellbooks.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/cataclysm-spellbooks.pw.toml"
 hash = "48a43f54f8e00b8c578aff25efcb824019016be3b432374df87a6e0960728aa5"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/cataclysm-weaponery.pw.toml"
-hash = "f3c14c773404e15db2c84447d23ee3f7e7b76e10bf312d4a4f3b71128d02fdc9"
+file = "RequiredMods/Always/Both/Adventure/cataclysm-weaponery.pw.toml"
+hash = "04520978642b6a7fd321703be0b072eb46a543ffd36ba698c1e865894ce25037"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/cataclysms-rise.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/cataclysms-rise.pw.toml"
 hash = "73d3203547b2b9a02081b70602485802f87aa1345f5c50a4e5c8c5551fbc25db"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/combat-evolution.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/combat-evolution.pw.toml"
 hash = "00b494a836f95058c4cd23c48230580f023789ac23be34c78502dabe5c1f4ae2"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/compatlink-epic-fight-weapons-compat.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/compatlink-epic-fight-weapons-compat.pw.toml"
 hash = "9e3e625cf3c2364e13e00cacce30759fc3200d3ec68707f06320c5ab96e91e57"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/dark-doppelganger.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/dark-doppelganger.pw.toml"
 hash = "8a939dfbe445b415a9ed3e9f1f9d9ceb44a3655869da2aa38fc053838b7aee41"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/discerning-the-eldritch.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/discerning-the-eldritch.pw.toml"
 hash = "eedfba7c42113671df742d7c3e264799e7a90c42068470ddadb2506c5d1db9e7"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/ekotsk-neoforge-1.21.1_1.5.0_CustomPatchR.jar"
+file = "RequiredMods/Always/Both/Adventure/ekotsk-neoforge-1.21.1_1.5.0_CustomPatchR.jar"
 hash = "86601f41bebd9f8cb75ada6f262744affe773a5bd8ffd12245d40484dea6f20d"
 
 [[files]]
-file = "ServerMods/Adventure/epic-fight-curios-compat-extended.pw.toml"
-hash = "6c7c75e5de2a0069e5ceaf9fa8bd773d551819eff8304bc55f6c0866a90ebadc"
-metafile = true
-
-[[files]]
-file = "ServerMods/Adventure/epic-fight-dawn-day.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epic-fight-dawn-day.pw.toml"
 hash = "ef4af0b6aa741f9a76b44c017dd04e63e8a9f170f66a585b451071c02d565995"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epic-fight-fps-optimizer.pw.toml"
-hash = "9efb24c17557c3832142dc40649705b95f5d121521312591a61b96e48c0d6f31"
-metafile = true
-
-[[files]]
-file = "ServerMods/Adventure/epic-fight-invincible-lib.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epic-fight-invincible-lib.pw.toml"
 hash = "679c9265f9a002834ec0972c8b2b95701e31870d3183e3de80b6963b302be08a"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epic-fight-mob-compats.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epic-fight-mob-compats.pw.toml"
 hash = "ede453d0a1803bde3fa90c5b5d12c8d2d27096bca2e4fc40075dd8061473d842"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epic-fight-mod-compat.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epic-fight-mod-compat.pw.toml"
 hash = "8f37f2db270c1256e91395300d301ce0a31bb079bec24800bb476d08498b870e"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epic-fight-rapier-moveset-addon.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epic-fight-rapier-moveset-addon.pw.toml"
 hash = "1bfdc596ebacf8abce5168506e413474a5706d1838d999c2103edbd8e935bca6"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epic-fight-x-relics-artifacs.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epic-fight-x-relics-artifacs.pw.toml"
 hash = "cd37a4209aa639aa1990dbdef4576c8c334880086612f3dc567dad48c00a8e26"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epic-fight.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epic-fight.pw.toml"
 hash = "8f25f6d5023d533e0d70b0375c36c176445251f431a9c8ebd63cf7f63e4c31da"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epic-knights-shields-armor-and-weapons.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epic-knights-shields-armor-and-weapons.pw.toml"
 hash = "14bd7ebbaa3c4f1336c63211caa6fc887f2904c587dcc35b9d8c9afaa3c2906f"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epic-rpg-boss-battle-mode.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epic-rpg-boss-battle-mode.pw.toml"
 hash = "753f684bd8cf1fa5b60904882425b396d8f2473164844cc59fd165c75b26b8c7"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epicfight-awaken.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epicfight-awaken.pw.toml"
 hash = "b46ce0a4df05910f2453687b66ce16bc3723d95a51c57ec8248b7b76de33f1f4"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epicfight-extra.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epicfight-extra.pw.toml"
 hash = "ae089af425d1c4e2d5c608ff99c4a7dac33d95dfa5e650387b376129af7b1dc2"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epicfight-global-stun.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epicfight-global-stun.pw.toml"
 hash = "79f7312a59033c0195016048a853ea3fbe19b9122bfd8b49202c560e993729c0"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epicfight-nightfall.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/epicfight-nightfall.pw.toml"
 hash = "2abe9c56bc40a99a4e87d1865eab72a731a748959637adf26418824d984d9b2f"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/epicfightcurioscompat.pw.toml"
-hash = "39ae49c63bbd3451554a26e66268f4ed38b51c949641442d7f6a193d15fa8d50"
-metafile = true
-
-[[files]]
-file = "ServerMods/Adventure/es-esoteric-spells-irons-spells-addon.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/es-esoteric-spells-irons-spells-addon.pw.toml"
 hash = "7c5d934857ff3d35a5c5d7ad8990fd0da9bc00f644f113306878aa3b7d6d3afe"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/farmers-spell.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/farmers-spell.pw.toml"
 hash = "f5615f6cd309a4ed2c6f1f86e7809acf560e0a26bc621448cf0be434578bb9e4"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/galosphere-spellbooks.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/galosphere-spellbooks.pw.toml"
 hash = "3050c7912020322abbe0eb955eaa49da7fb64f5b4dd70e8b33f42890cc2625cb"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/galosphere.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/galosphere.pw.toml"
 hash = "a87a4a2c45223994ce2024026d9c88b93712cf1fa915279d0ba5e8e7090b5583"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/gtbcs-geomancy-plus.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/gtbcs-geomancy-plus.pw.toml"
 hash = "2f5fbbb76c1c2d7f1ea2eba3537775b4c355f2d109e0d7bac7b3dc1df9875626"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/gtbcs-spelllib.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/gtbcs-spelllib.pw.toml"
 hash = "56284b68e384121e89d7e91eac3058c56c1184c76237442762b1ae1c8666fdde"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/ignis-soulfires-spellbooks.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/ignis-soulfires-spellbooks.pw.toml"
 hash = "9e5d4203cc9ce2baaf01db11ff4cfc105804441b062c978c6509213fd50d248b"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/integrated-mowzies-mobs.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/integrated-mowzies-mobs.pw.toml"
 hash = "9dd3defce2078341de1f362f85a0cf622014e4694ff4c17d94e24d509adc3dea"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/irons-apothic-invaders.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/irons-apothic-invaders.pw.toml"
 hash = "7137a38df33a37160fb76ce790254180788162022ac90457ee714c2515112225"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/irons-sable-compat.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/irons-sable-compat.pw.toml"
 hash = "a665bdf6f3474de320333bfa5056720dc7e107bd239eff9078df240ac0374abb"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/irons-spells-n-spellbooks-chronomancy.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/irons-spells-n-spellbooks-chronomancy.pw.toml"
 hash = "30c8e235b232599da1d2b000564606af3ecd178cb50e17280ecfeec12b29f810"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/irons-spells-n-spellbooks-dynamic-skill-trees.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/irons-spells-n-spellbooks-dynamic-skill-trees.pw.toml"
 hash = "16d067a8f294335dcf3f4858b7285e90f4da66d081e2cf941106c97a10baef80"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/irons-spells-n-spellbooks.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/irons-spells-n-spellbooks.pw.toml"
 hash = "4623bbc102dd3b7648a96569a1ab49b868774d46355b305ac40c4c79ad1c74e2"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/isskjs.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/isskjs.pw.toml"
 hash = "57db227711481c9b6fbc89a5ea04f2810c9f27035baa7f33437a80a94ae9609f"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/l_enders-cataclysm-delight.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/l_enders-cataclysm-delight.pw.toml"
 hash = "637e5b445b28d460884ce868948328ef512eb10ab2af60a86bd3e2c37ac49697"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/l_enders-cataclysm.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/l_enders-cataclysm.pw.toml"
 hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/legendary-monsters.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/legendary-monsters.pw.toml"
 hash = "5c4e00cc93b6cf4e37b98295186fb708aab0bcbd2c764579c1c0e22c8910330f"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/legendary-spellbooks.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/legendary-spellbooks.pw.toml"
 hash = "b67fd22da1d3268650162c8b07f07b65dbea1d87771580541c2ce1f4c2ad948f"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/leylines-irons-spells-n-spellbooks-addon.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/leylines-irons-spells-n-spellbooks-addon.pw.toml"
 hash = "6467de67e044ac9c7c368f27f802bd5535fa844e571ddbe096ac6f44ce555413"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/mowzies-cataclysm.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/mowzies-cataclysm.pw.toml"
 hash = "ad098b3920c466db203a22d2016efdcf8db9dd86c9397934692bc434a4278151"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/mowzies-mobs.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/mowzies-mobs.pw.toml"
 hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/mr1_patches-1.2.0.jar"
+file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.2.0.jar"
 hash = "ab0f54a3449e122a6cf197d592776a62be40de4470e168c0564238afb510a7b5"
 
 [[files]]
-file = "ServerMods/Adventure/party-hud.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/party-hud.pw.toml"
 hash = "2a982860d2d8c5e5e1764670f9ba9e5dcdf43ce1c5635634ac08f563ee12f918"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/pufferfishs-unofficial-additions.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/pufferfishs-unofficial-additions.pw.toml"
 hash = "3a37a1911cee7925936f8720012eb00bcf4fbae5771a0869e4ce61e405eac91b"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/relics-mod.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/relics-mod.pw.toml"
 hash = "5d2ebe2ac7d9436d1c5df0fbb2a1b975196d41a3090065b3c569aaac4fc11430"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/reliquified-irons-spells-n-spellbooks.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/reliquified-irons-spells-n-spellbooks.pw.toml"
 hash = "ceff68e5d936197e1354308be805de0ff70d9f1999bd107c52c2f02db5b55ace"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/reliquified-l-ender-s-cataclysm-new-relics-fix.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/reliquified-l-ender-s-cataclysm-new-relics-fix.pw.toml"
 hash = "7e994dc78e8ffe8447522f7afe4112e33ad35e1d600eb655022c8f646ebbef8a"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/reliquified-l-ender-s-cataclysm.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/reliquified-l-ender-s-cataclysm.pw.toml"
 hash = "ff5afd5570a5a3d921c7764d0c64f82eb0c87c7e2e3db3e53aa45d6b6b4edc47"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/revive-me.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/revive-me.pw.toml"
 hash = "f3378af75f8420ad23980c99f9ce1f3fe1b5d0313fca9ebe518d8bbe4f2bebd1"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/skills.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/skills.pw.toml"
 hash = "77e3c81c00c0a4c61aedea5e57760dac58f181788d670012e66f60614365def3"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/slm-codex.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/slm-codex.pw.toml"
 hash = "d3379c05c347e0b145d1fcd9a50b3cb056e977203d4bd40abb52a5381a6ed968"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/slm-elements.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/slm-elements.pw.toml"
 hash = "356a48e5c1d3446978561e2e0e867fb1bef9be9a90d04ccb4a06ff74f9370582"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/slm-epic-fight.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/slm-epic-fight.pw.toml"
 hash = "5e7721b7094be05fec421983030fd1680c572afb4b20d01252d9b43f2a5f26f7"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/slm-shader.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/slm-shader.pw.toml"
 hash = "50d2fd82ca82a524e4e2853911b422f3a114a14c56ef8d0e48201c186db81bad"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/somake-spells-irons-spells-addon.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/somake-spells-irons-spells-addon.pw.toml"
 hash = "8796f396e55b5c40d7e7ae16410ed04980c2abc59d0a732c4e87f9f000c15045"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/soul-fire-d.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/soul-fire-d.pw.toml"
 hash = "aa7a2c186bf1ce65441be06d1c9a5af18b054098e4bdc37273fb4e75f0d27fc5"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/statustabs-3.4.0.jar"
+file = "RequiredMods/Always/Both/Adventure/statustabs-3.4.0.jar"
 hash = "1fa164de08596f997c1104d947d70fd11a00a67f1dca8cf87854511aad311705"
 
 [[files]]
-file = "ServerMods/Adventure/weapons-of-miracles.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/weapons-of-miracles.pw.toml"
 hash = "495590cc80aa0e87f82da883e32b0166e6bbb5ffa8a3c5e71cdf72a87a0b6434"
 metafile = true
 
 [[files]]
-file = "ServerMods/Adventure/winds-spellbooks.pw.toml"
+file = "RequiredMods/Always/Both/Adventure/winds-spellbooks.pw.toml"
 hash = "e174ded612bdae826523460c671f0486e68b769007c41cb892fab4b22809ac02"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/ad-astra-giselle-addon.pw.toml"
+file = "RequiredMods/Always/Both/industry/ad-astra-giselle-addon.pw.toml"
 hash = "76b0b436c7a47689c9a9eaf1b064dfb27b3a79347323839e4be0d78a3296d705"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/ad-astra-more-structures.pw.toml"
+file = "RequiredMods/Always/Both/industry/ad-astra-more-structures.pw.toml"
 hash = "2f128f899a60f56f732a41b33792f78cff3f32d16f901ec9217ea373c4e74853"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/ad-astra.pw.toml"
+file = "RequiredMods/Always/Both/industry/ad-astra.pw.toml"
 hash = "5386763a89493ea2c4ab581e66ace9317641e4c6c5f094769b13e83b1f6be7aa"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/adastra-stellarview-compatibility.pw.toml"
-hash = "dc67b46734649bbf382a22dcae1522cf65ab1450d2029b62b9878aba1b41e300"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/advancedae.pw.toml"
+file = "RequiredMods/Always/Both/industry/advancedae.pw.toml"
 hash = "44791600b6d51fed024525689166334f8e3bc97cce2acef9190f244319ea6cf8"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/ae2-jei-integration.pw.toml"
-hash = "ca8c7d2232f0f667c25c22dd404aaa0c0b521278142aa15df550d79a1ca25f5b"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/ae2-qol-client.pw.toml"
-hash = "d613025b9f782e2e55c871109877fb1db35586553653401876e33770f69e7efb"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/ae2-things-forge.pw.toml"
+file = "RequiredMods/Always/Both/industry/ae2-things-forge.pw.toml"
 hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/ae2.pw.toml"
+file = "RequiredMods/Always/Both/industry/ae2.pw.toml"
 hash = "bcc34f607a107a148928c80c8fdef326170975df392ce7f476a47df956b1fc5c"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/amendments.pw.toml"
+file = "RequiredMods/Always/Both/industry/amendments.pw.toml"
 hash = "a3c9b772845b9dab436aa5ba14b9596b314006ced8fbd2a6b0286dc0c70cf220"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/appflux.pw.toml"
+file = "RequiredMods/Always/Both/industry/appflux.pw.toml"
 hash = "c6aaee790b0cf08c2e71859e267c698fa454137d6afae3bd653f4744e955f40c"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/applied-energistics-2-wireless-terminals.pw.toml"
+file = "RequiredMods/Always/Both/industry/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "0b00e3fcc86a4ab7744269fc576bb23180a29dc0e44954511907a8b5386e3f53"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/applied-mekanistics.pw.toml"
+file = "RequiredMods/Always/Both/industry/applied-mekanistics.pw.toml"
 hash = "bd25db756e368a27d83240e4345e4cc26d0237943ef0ca56603db1de4e0818f3"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/applied-replicatics.pw.toml"
+file = "RequiredMods/Always/Both/industry/applied-replicatics.pw.toml"
 hash = "a79f46006a8f3b829d1215a716a131d92792cee322f65cb5b93419a4d2a02a1e"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/better-advanced-tooltips.pw.toml"
-hash = "d9f912d43efb74c5ed07a3a9ef1cb078cec2bcdf369e05637d698e84f1fb67d6"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/carry-on.pw.toml"
+file = "RequiredMods/Always/Both/industry/carry-on.pw.toml"
 hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/controlling.pw.toml"
-hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/create-aeronautics-gadgets-and-gizmos.pw.toml"
+file = "RequiredMods/Always/Both/industry/create-aeronautics-gadgets-and-gizmos.pw.toml"
 hash = "b800fcd5be778384de27dcfe3250e7d391b2aff3bb6364e3f54e7ae261daf9ba"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/create-aeronautics-mekanism-compatibility-continued.pw.toml"
+file = "RequiredMods/Always/Both/industry/create-aeronautics-mekanism-compatibility-continued.pw.toml"
 hash = "c82f7db4df6d8fa9f6077c37ed08d8080dd7c9c5cd9824f5db92733ecc108503"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/create-aeronautics-mekanism-weight.pw.toml"
+file = "RequiredMods/Always/Both/industry/create-aeronautics-mekanism-weight.pw.toml"
 hash = "0a6599167b54d0cd95e4c1fb392d808961e95b6745f62175265bfb3841bd5002"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/create-aeronautics.pw.toml"
+file = "RequiredMods/Always/Both/industry/create-aeronautics.pw.toml"
 hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/create-aeroworks.pw.toml"
+file = "RequiredMods/Always/Both/industry/create-aeroworks.pw.toml"
 hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/create-mekanism-unification.pw.toml"
+file = "RequiredMods/Always/Both/industry/create-mekanism-unification.pw.toml"
 hash = "ef7967e28200cb7449d711c26bede8967a4a4a51740efdd06e5b0bb47724f6be"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/create.pw.toml"
+file = "RequiredMods/Always/Both/industry/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/effortless-building.pw.toml"
+file = "RequiredMods/Always/Both/industry/effortless-building.pw.toml"
 hash = "acca756841ee5e088eaec9474758e402247965f3adf6d7ccd612bb715aa836c9"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/evolved-mekanism.pw.toml"
+file = "RequiredMods/Always/Both/industry/evolved-mekanism.pw.toml"
 hash = "7473e2d1255dcc6a300ca58e821a87f255f16a032ffa868338297759a2cb961c"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/ex-pattern-provider.pw.toml"
+file = "RequiredMods/Always/Both/industry/ex-pattern-provider.pw.toml"
 hash = "58c8a64f256889552536342d3544d6a957a6dbf0cf9f22ebf7f2c493acf34c0e"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/farmers-delight.pw.toml"
+file = "RequiredMods/Always/Both/industry/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/fluxnautics.pw.toml"
+file = "RequiredMods/Always/Both/industry/fluxnautics.pw.toml"
 hash = "0abddd474efdb5948cdbb3ed80b34a108083ccfb442fbf5b9b081040ceaf4be0"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/forgematica.pw.toml"
-hash = "24c4a1b6574271181dee4c36fca49fab0cba30e8f5ec6851cb2dc05453bde0b4"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/in-control.pw.toml"
+file = "RequiredMods/Always/Both/industry/in-control.pw.toml"
 hash = "8311cf201aa8d3c5d0c0291194f3c76d825591122b7ccf4f2fea08f6b39af526"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/interiors.pw.toml"
+file = "RequiredMods/Always/Both/industry/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/jade-addons-forge.pw.toml"
-hash = "4daf78e705cdc347af08e9068a655b2d8f30ee8f23b632bc53a37d439a13d2ff"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/jade.pw.toml"
-hash = "b603d3cbdecf7fcbff5cde2cc76b77ec044f3d9aa75bdd5b15eb35ee0d33f71c"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/jei.pw.toml"
+file = "RequiredMods/Always/Both/industry/jei.pw.toml"
 hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/leaves-be-gone.pw.toml"
+file = "RequiredMods/Always/Both/industry/leaves-be-gone.pw.toml"
 hash = "583a335211bc3a21bb379394344b67d64bffea421e7f7942c254903e1d607814"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/lootr.pw.toml"
+file = "RequiredMods/Always/Both/industry/lootr.pw.toml"
 hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/maps3d.pw.toml"
-hash = "8801c2895fc4359994a4806e239656e9846b17c51c59dcdf2acd76a326a54a7c"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/mega.pw.toml"
+file = "RequiredMods/Always/Both/industry/mega.pw.toml"
 hash = "c9f9996ced5f4abf2ab982bb2521bef1798cf1fc6d6ebc435e38075894921efe"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mek-energistics.pw.toml"
+file = "RequiredMods/Always/Both/industry/mek-energistics.pw.toml"
 hash = "bd6d9165458902d11d0a85b5316bd1e6bb0c91d4a156e1fbdd8e9aec8d9971d3"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-ad-astra-ores.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-ad-astra-ores.pw.toml"
 hash = "94591555025e0b9077f7b400081db629db02c0e3d256396d8799bd4ff0174862"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-card.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-card.pw.toml"
 hash = "7792e76a085d8c00d85f3d7654e7033ab0ce21a1b3e1929c10bfbf005b92c531"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-curios.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-curios.pw.toml"
 hash = "3a7ce2df47a9b6c03297457530338541b6b50b10f784cd560172d675ac61fb8e"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-elements.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-elements.pw.toml"
 hash = "8864677d51cb409a9967f53d424270bac400019c3c16f3a0cf8f9735cdeb7511"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-empowered-core.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-empowered-core.pw.toml"
 hash = "0a94d95835243b8c07f7ba0b2f47a80a9910bb2f959864c3d78d9454d559a1c4"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-factory-information.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-factory-information.pw.toml"
 hash = "1bea663dc4dc8550145ef5908a858c7c72b26533cfb27cddbef85f99f4a6404a"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-generators.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-generators.pw.toml"
 hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-mekalights.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-mekalights.pw.toml"
 hash = "3e7810cc79eb9ab4f6873f8ec6e1b614070bf1b4bd119348f10a4a7acd6b45c4"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-monitors.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-monitors.pw.toml"
 hash = "185415a0dbeafd314fec36f5c10e7019396c299e0ddbdcfb9f1683e865c31a30"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-ponders.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-ponders.pw.toml"
 hash = "0fe6fc9c9856e71a16d7dd2402e03405cdc6faf9200c88c2425059da136659ee"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-stack-processor.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-stack-processor.pw.toml"
 hash = "876eb562c9fcfa887d33f12ec6ddba93226ae2c76134eebce74c4fb660c0cef2"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-tools.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-tools.pw.toml"
 hash = "efafea92ef966ffe7c3c31209b643a9bbcccb3a8a5a02347b49ff50e015980fe"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism-water-generator-rebuild.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism-water-generator-rebuild.pw.toml"
 hash = "fa78d841d825fdcb87085ac971f5a444d476765659f549e40b5308e466ea77a1"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanism.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanism.pw.toml"
 hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mekanismmoremachine.pw.toml"
+file = "RequiredMods/Always/Both/industry/mekanismmoremachine.pw.toml"
 hash = "2998025f99be79a3b4813b687c83e7c4964cbc1a424c4a35dd20e08a7a594b51"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/more-mekanism-processing.pw.toml"
+file = "RequiredMods/Always/Both/industry/more-mekanism-processing.pw.toml"
 hash = "c4c833c881e3a9b0de7333be6de247ccb78175f66640d69ac722dd402a95e782"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/morethermalevaporation.pw.toml"
+file = "RequiredMods/Always/Both/industry/morethermalevaporation.pw.toml"
 hash = "5d4b1bc85357aa66e3a8a3332e6fc6c391ba85d676c443c91e9aa02222bcaa7c"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/mouse-tweaks.pw.toml"
-hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/polymorph_plus.pw.toml"
+file = "RequiredMods/Always/Both/industry/polymorph_plus.pw.toml"
 hash = "2da4641721d95737e26196a078bc9b38e708d828f4ee15d781a7e7b02f32513d"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/polymorphic-ae2.pw.toml"
+file = "RequiredMods/Always/Both/industry/polymorphic-ae2.pw.toml"
 hash = "8f20b460f4e963a30281cae3ac4b8d543ef12a2fb75a05ddfbe0eaebb58204ff"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/quark.pw.toml"
+file = "RequiredMods/Always/Both/industry/quark.pw.toml"
 hash = "6390e31a740d60ba3a66edaf86f5e2788b7d03ff18fd43580f12f665e25f73f9"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/replicatemekanism.pw.toml"
+file = "RequiredMods/Always/Both/industry/replicatemekanism.pw.toml"
 hash = "deee5d414c7c00e3cd5148c5c0fa9ec96e9270e0dfc9743e335987f720bab7ab"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/replication.pw.toml"
+file = "RequiredMods/Always/Both/industry/replication.pw.toml"
 hash = "958afff17e942f3491abfcf49702dd146505a02e1055b4fdfde01962ca61706e"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/sable.pw.toml"
+file = "RequiredMods/Always/Both/industry/sable.pw.toml"
 hash = "fadb5c9cfe145e51992894fe57209fc8f1696ef892ee9702a24c6205f042e9b2"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/searchables.pw.toml"
-hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/shulkerboxtooltip.pw.toml"
-hash = "4cf3d3d7e5f4df819d5b67ab0b278a6baffdf880e2a2c9c4d0105fbfe3986376"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/stellar-view-mixin-renderer.pw.toml"
-hash = "5f34670b690b3a34f3d001fbbf2fc61ae401b920a468db2dd7cc968185202402"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/stellarview.pw.toml"
-hash = "bfbae645c9ab19d3e3b5ef5bc0929774462da167f76d2cbcda117b80f9dc55e3"
-metafile = true
-
-[[files]]
-file = "ServerMods/industry/supplementaries.pw.toml"
+file = "RequiredMods/Always/Both/industry/supplementaries.pw.toml"
 hash = "b88bbb62ccc2222c4736899745678d83e2dff37bf29ceff94cca94a90a7b68fe"
 metafile = true
 
 [[files]]
-file = "ServerMods/industry/zannaghs-armor-hider.pw.toml"
-hash = "6c89d4d125ca11acf11bdb74b2470b112c85c29d22166976a1794575d973a211"
-metafile = true
-
-[[files]]
-file = "ServerMods/library/aaa-particles.pw.toml"
+file = "RequiredMods/Always/Both/library/aaa-particles.pw.toml"
 hash = "9a81f91e288bfa2cb0cdaebe775fe0aed2348ea3b18564ec2b45658ec0abd412"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/almanac.pw.toml"
+file = "RequiredMods/Always/Both/library/almanac.pw.toml"
 hash = "c65748ba4e13309eeba1dae2dfb348ad9b6348a093dc02a901e3e5a2a6110b0d"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/architectury-api.pw.toml"
+file = "RequiredMods/Always/Both/library/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/azurelib.pw.toml"
+file = "RequiredMods/Always/Both/library/azurelib.pw.toml"
 hash = "85d9232d28042bd0f78d97e6fc8a84ce09dacd13a8b3d46be3199888d39f5ad9"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/bookshelf-lib.pw.toml"
+file = "RequiredMods/Always/Both/library/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/citadel-1.21.1-port.pw.toml"
+file = "RequiredMods/Always/Both/library/citadel-1.21.1-port.pw.toml"
 hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/cloth-config.pw.toml"
+file = "RequiredMods/Always/Both/library/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/cobweb.pw.toml"
+file = "RequiredMods/Always/Both/library/cobweb.pw.toml"
 hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/common-storage-lib.pw.toml"
+file = "RequiredMods/Always/Both/library/common-storage-lib.pw.toml"
 hash = "973d189eb0bb8a514bebc50e78bdbcc5f9e7b3d4869b3a9718ca63ca3afff215"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/cupboard.pw.toml"
+file = "RequiredMods/Always/Both/library/cupboard.pw.toml"
 hash = "55f8f5c6152e6c0ceb79d38ca741910665754d1ce0755234b09318923e586e43"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/curios.pw.toml"
+file = "RequiredMods/Always/Both/library/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/eunomia.pw.toml"
+file = "RequiredMods/Always/Both/library/eunomia.pw.toml"
 hash = "d3db274b42cd1147c531ccff427ccc5676a5a04592055a0b7f2b3a86ae54d7fa"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/fragmentum.pw.toml"
+file = "RequiredMods/Always/Both/library/fragmentum.pw.toml"
 hash = "20a6fed49a56d88d939ce6990ae7088faa80887e6baeef317aa11d53a398db40"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/geckolib.pw.toml"
+file = "RequiredMods/Always/Both/library/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/glodium.pw.toml"
+file = "RequiredMods/Always/Both/library/glodium.pw.toml"
 hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/guideme.pw.toml"
+file = "RequiredMods/Always/Both/library/guideme.pw.toml"
 hash = "bc3920a3fb291a8bc8df9717233e54dd1c909b65528afbe1b617373c7b4b38c0"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/iglee-library.pw.toml"
+file = "RequiredMods/Always/Both/library/iglee-library.pw.toml"
 hash = "2148b44cf26025607d1a73a03e5e4a0b3a7f05b1c7442736eccc1ed64de985cd"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/integrated-api.pw.toml"
+file = "RequiredMods/Always/Both/library/integrated-api.pw.toml"
 hash = "91e64f115f316af85a1162f327d2b14b4669e6f6dffafc468f633be4317cf3b4"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/integrated-patches.pw.toml"
+file = "RequiredMods/Always/Both/library/integrated-patches.pw.toml"
 hash = "6bcee0b532f103b2470994eb5225c65f07ce19cf192c9f1508628ece757278c9"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/invocore-utility-mod.pw.toml"
+file = "RequiredMods/Always/Both/library/invocore-utility-mod.pw.toml"
 hash = "ea6933f4da94e3f5cd4979942de988fc4713d40cb938c88061b4d367d13c7d2c"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/irons-lib.pw.toml"
+file = "RequiredMods/Always/Both/library/irons-lib.pw.toml"
 hash = "93f7a09e0d9a05c31b55bb9725545c49dc68067556a98d470e4f405bdbf3b25c"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/kotlin-for-forge.pw.toml"
+file = "RequiredMods/Always/Both/library/kotlin-for-forge.pw.toml"
 hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/kubejs-mekanism.pw.toml"
+file = "RequiredMods/Always/Both/library/kubejs-mekanism.pw.toml"
 hash = "828f12a754a929bf2e955cf9d0acca4cbe305f172e94c556fe9b0704bcaff7e0"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/kubejs.pw.toml"
+file = "RequiredMods/Always/Both/library/kubejs.pw.toml"
 hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/lionfish-api.pw.toml"
+file = "RequiredMods/Always/Both/library/lionfish-api.pw.toml"
 hash = "64acab1580ca6edd8b1dd185e914aeee7aa551a88a7cd7f0f9370a82aaadfef6"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/mafglib.pw.toml"
-hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
-metafile = true
-
-[[files]]
-file = "ServerMods/library/mezzconfig.pw.toml"
+file = "RequiredMods/Always/Both/library/mezzconfig.pw.toml"
 hash = "cf5d87f046590b99d92096a79f6ea2f456290ba5d423c256f06674d2d10a1592"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/moonlight.pw.toml"
+file = "RequiredMods/Always/Both/library/moonlight.pw.toml"
 hash = "709bfedec583aee1370ad11210b75a454b1e3f10c0a1da7fe25abd1c28a8681d"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/patchouli.pw.toml"
+file = "RequiredMods/Always/Both/library/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/placebo.pw.toml"
+file = "RequiredMods/Always/Both/library/placebo.pw.toml"
 hash = "d94791108548d174758d587440c656f1a56884083fa3151bf90b515126482435"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/playeranimator.pw.toml"
+file = "RequiredMods/Always/Both/library/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/prickle.pw.toml"
+file = "RequiredMods/Always/Both/library/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/prometheus-api.pw.toml"
+file = "RequiredMods/Always/Both/library/prometheus-api.pw.toml"
 hash = "edef74673c04f649fce7fdb438ae12cf5f9aa6416df471f362043f7a09204113"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/puzzles-lib.pw.toml"
+file = "RequiredMods/Always/Both/library/puzzles-lib.pw.toml"
 hash = "0a04f1d0b86262c6dfdbd14e0493d7f4786f24054a95a07ff7b41a7870bb258d"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/resourceful-config.pw.toml"
+file = "RequiredMods/Always/Both/library/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/resourceful-lib.pw.toml"
+file = "RequiredMods/Always/Both/library/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/rhino.pw.toml"
+file = "RequiredMods/Always/Both/library/rhino.pw.toml"
 hash = "673de9cae75d2ad02796368939384de0d7238cf5c782975d71848a2187f753e7"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/shatterbyte-lib.pw.toml"
+file = "RequiredMods/Always/Both/library/shatterbyte-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/sl-library.pw.toml"
+file = "RequiredMods/Always/Both/library/sl-library.pw.toml"
 hash = "09c2e1067f041bebae2c246c6e578f3c348b1f1762662fd894dd6606d978b1ab"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/titanium.pw.toml"
+file = "RequiredMods/Always/Both/library/titanium.pw.toml"
 hash = "f0a7b5302b5238964306a522238f623274aee1c639198c04dc543ac759132215"
 metafile = true
 
 [[files]]
-file = "ServerMods/library/zeta.pw.toml"
+file = "RequiredMods/Always/Both/library/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/acedium-sodiumized.pw.toml"
-hash = "9caca1dcd9aed66875a350be1d24c3a1b9c04244a52c60a7bb8ffec65783c54c"
-metafile = true
-
-[[files]]
-file = "ServerMods/performance/alltheleaks.pw.toml"
+file = "RequiredMods/Always/Both/performance/alltheleaks.pw.toml"
 hash = "c71a37f05849d41b3b2a883c55afc4d32de7e05beff02b6f94a833be0c59635c"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/badoptimizations.pw.toml"
-hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
-metafile = true
-
-[[files]]
-file = "ServerMods/performance/chunky.pw.toml"
+file = "RequiredMods/Always/Both/performance/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/connectivity.pw.toml"
+file = "RequiredMods/Always/Both/performance/connectivity.pw.toml"
 hash = "89340330d49ebf646a46af0da4cd457c98e0dca4337490981421d86bfcd2fd94"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/createbetterfps.pw.toml"
-hash = "b6a535a801939a78f255203f7b28319773becca20cc88348f8764f4078816300"
-metafile = true
-
-[[files]]
-file = "ServerMods/performance/entityculling.pw.toml"
-hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
-metafile = true
-
-[[files]]
-file = "ServerMods/performance/ferrite-core.pw.toml"
+file = "RequiredMods/Always/Both/performance/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/immediatelyfast.pw.toml"
-hash = "4601b9be31b6e131dca8a148c974d015444bcac7c82fcb66fbd8751a67933a5d"
-metafile = true
-
-[[files]]
-file = "ServerMods/performance/iris.pw.toml"
-hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
-metafile = true
-
-[[files]]
-file = "ServerMods/performance/krypton-fnp.pw.toml"
+file = "RequiredMods/Always/Both/performance/krypton-fnp.pw.toml"
 hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/lithium.pw.toml"
+file = "RequiredMods/Always/Both/performance/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/lmd.pw.toml"
+file = "RequiredMods/Always/Both/performance/lmd.pw.toml"
 hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/mekanism-gear-optimizer.pw.toml"
+file = "RequiredMods/Always/Both/performance/mekanism-gear-optimizer.pw.toml"
 hash = "d221ce52cade00ce3cc74ccb02773f792a1630e1166d73ca458f395a694689db"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/memory-settings.pw.toml"
-hash = "ca63f9498f0a53edd110a391ddc345562fea1602bf8ecb70f09b50fa456a4d17"
-metafile = true
-
-[[files]]
-file = "ServerMods/performance/modernfix.pw.toml"
+file = "RequiredMods/Always/Both/performance/modernfix.pw.toml"
 hash = "d10fbef1555f5277563b9cbf7683811ac0f38c1af41646e6ce5c3aaa2149425d"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/moreculling.pw.toml"
-hash = "d6183e3e5f6f98aa2dc8dec2491ca2a4802262007f75781ef449296f7d9671ba"
-metafile = true
-
-[[files]]
-file = "ServerMods/performance/noisiumed.pw.toml"
+file = "RequiredMods/Always/Both/performance/noisiumed.pw.toml"
 hash = "d38b97da42ffdb3f14f6a3d02da73926f2804717dcac62d58bbf8425134fd534"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/packet-fixer.pw.toml"
+file = "RequiredMods/Always/Both/performance/packet-fixer.pw.toml"
 hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/reeses-sodium-options.pw.toml"
-hash = "8690379014fbba53059759936c7deb4d62aabc7a2006da3d45929dc582b119b7"
-metafile = true
-
-[[files]]
-file = "ServerMods/performance/servercore.pw.toml"
+file = "RequiredMods/Always/Both/performance/servercore.pw.toml"
 hash = "860d3b3e2c407980ece69e51896fb5e2e1ffcdb63b6956d440f331cf73777c83"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/spark.pw.toml"
+file = "RequiredMods/Always/Both/performance/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
-file = "ServerMods/performance/structure-layout-optimizer.pw.toml"
+file = "RequiredMods/Always/Both/performance/structure-layout-optimizer.pw.toml"
 hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/Adventure/epic-fight-curios-compat-extended.pw.toml"
+hash = "6c7c75e5de2a0069e5ceaf9fa8bd773d551819eff8304bc55f6c0866a90ebadc"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/Adventure/epic-fight-fps-optimizer.pw.toml"
+hash = "9efb24c17557c3832142dc40649705b95f5d121521312591a61b96e48c0d6f31"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/Adventure/epicfightcurioscompat.pw.toml"
+hash = "39ae49c63bbd3451554a26e66268f4ed38b51c949641442d7f6a193d15fa8d50"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/adastra-stellarview-compatibility.pw.toml"
+hash = "dc67b46734649bbf382a22dcae1522cf65ab1450d2029b62b9878aba1b41e300"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/ae2-jei-integration.pw.toml"
+hash = "ca8c7d2232f0f667c25c22dd404aaa0c0b521278142aa15df550d79a1ca25f5b"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/ae2-qol-client.pw.toml"
+hash = "d613025b9f782e2e55c871109877fb1db35586553653401876e33770f69e7efb"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/better-advanced-tooltips.pw.toml"
+hash = "d9f912d43efb74c5ed07a3a9ef1cb078cec2bcdf369e05637d698e84f1fb67d6"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/forgematica.pw.toml"
+hash = "24c4a1b6574271181dee4c36fca49fab0cba30e8f5ec6851cb2dc05453bde0b4"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/jade-addons-forge.pw.toml"
+hash = "4daf78e705cdc347af08e9068a655b2d8f30ee8f23b632bc53a37d439a13d2ff"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/jade.pw.toml"
+hash = "b603d3cbdecf7fcbff5cde2cc76b77ec044f3d9aa75bdd5b15eb35ee0d33f71c"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/maps3d.pw.toml"
+hash = "8801c2895fc4359994a4806e239656e9846b17c51c59dcdf2acd76a326a54a7c"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/shulkerboxtooltip.pw.toml"
+hash = "4cf3d3d7e5f4df819d5b67ab0b278a6baffdf880e2a2c9c4d0105fbfe3986376"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/stellar-view-mixin-renderer.pw.toml"
+hash = "5f34670b690b3a34f3d001fbbf2fc61ae401b920a468db2dd7cc968185202402"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/stellarview.pw.toml"
+hash = "bfbae645c9ab19d3e3b5ef5bc0929774462da167f76d2cbcda117b80f9dc55e3"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/industry/zannaghs-armor-hider.pw.toml"
+hash = "6c89d4d125ca11acf11bdb74b2470b112c85c29d22166976a1794575d973a211"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/library/mafglib.pw.toml"
+hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/performance/acedium-sodiumized.pw.toml"
+hash = "9caca1dcd9aed66875a350be1d24c3a1b9c04244a52c60a7bb8ffec65783c54c"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/performance/badoptimizations.pw.toml"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/performance/createbetterfps.pw.toml"
+hash = "b6a535a801939a78f255203f7b28319773becca20cc88348f8764f4078816300"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/performance/entityculling.pw.toml"
+hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/performance/immediatelyfast.pw.toml"
+hash = "4601b9be31b6e131dca8a148c974d015444bcac7c82fcb66fbd8751a67933a5d"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/performance/iris.pw.toml"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/performance/memory-settings.pw.toml"
+hash = "ca63f9498f0a53edd110a391ddc345562fea1602bf8ecb70f09b50fa456a4d17"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/performance/moreculling.pw.toml"
+hash = "d6183e3e5f6f98aa2dc8dec2491ca2a4802262007f75781ef449296f7d9671ba"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Always/Clients/performance/reeses-sodium-options.pw.toml"
+hash = "8690379014fbba53059759936c7deb4d62aabc7a2006da3d45929dc582b119b7"
 metafile = true
 
 [[files]]
@@ -2486,8 +2486,8 @@ file = "kubejs/startup_scripts/mek_gear_nerfs_damage.js"
 hash = "017e8de1090d58f138fb59681dc2bab1b3562c97668f56449c594b53bae0c2c4"
 
 [[files]]
-file = "mods/RENServer-1.1.0.jar"
-hash = "84e045756fa2f1a6b45cc558d991d67af41b911310707288008c607dffabee9a"
+file = "mods/ServerManager-1.0.0.jar"
+hash = "441781e833a62c42164ffc099eec6897ba3f960213bfbabeef6d2f8d4a290788"
 
 [[files]]
 file = "mods/saturn.pw.toml"
