@@ -559,11 +559,6 @@ hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/anadaptive-nemesis.pw.toml"
-hash = "1d72a6a88f4502669361fc393dda85c3139317fb1b95db33b2334d97c65f54c1"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Test/Both/Adventure/apotheosis-balance-configurator.pw.toml"
 hash = "4534c14c02e72d991a978aa7c92489eae55a883788b4c2317f869317b873ef8d"
 metafile = true
