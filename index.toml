@@ -1,416 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/aces-spell-utils.pw.toml"
-hash = "2b69450e43952ddfa55a78ac5bba0c3a73b29cca2d05b57a5beecff62175fa32"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/alexs-caves-spellbooks.pw.toml"
-hash = "549a50d49d87f7a765b4ab263ba5a42f92c53d5eae85b688d1f68cb8972313e5"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/alexs-caves-unofficial-port.pw.toml"
-hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/anadaptive-nemesis.pw.toml"
-hash = "1d72a6a88f4502669361fc393dda85c3139317fb1b95db33b2334d97c65f54c1"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/apotheosis-balance-configurator.pw.toml"
-hash = "4534c14c02e72d991a978aa7c92489eae55a883788b4c2317f869317b873ef8d"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/apotheosis-create-recipe.pw.toml"
-hash = "1ce3aaf14e7ccbafb8ab794c40979ad256ab67354dec93b54d67fec5a050b448"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/apotheosis.pw.toml"
-hash = "e154d7fb16dc7eb6ace7b88b3896955bb66f58c2daafe93c7ae3327ee418a509"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/apothic-attributes.pw.toml"
-hash = "8f5f05a72596ecc0dd11be483785c8a521e987dc2fe6d2fef212c2a382a0c779"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/apothic-cataclysm.pw.toml"
-hash = "6ed64ad042d5a67c1b742028a8465ad547d33611b80eaf22f0ff2d0b8435d2c3"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/apothic-category-compat.pw.toml"
-hash = "11d385cc7dea81d22fc63d898b478caaae231c923df38f491dc064425c9c800c"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/apothic-compats.pw.toml"
-hash = "d2c38ac301a32cfa02e7bb32c339508e1a49c496dda4e67c18d7c6056fd80e1e"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/apothic-enchanting.pw.toml"
-hash = "0d3ca07f510b7674932be8e109f394ab23aa4cd1aee04020ea0d509a0d1dd619"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/apothic-spawners.pw.toml"
-hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/applied-apothic-enchanting.pw.toml"
-hash = "d317fc0c06570e2309e522982ad16e8227658a03bf4f261d60685f2636150a6d"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/aquamirae-epic-fight-compat.pw.toml"
-hash = "dc5e96887ae96142be50803b0eff97e47c31b3bad25935f780f175b85b0c7150"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/aquamirae.pw.toml"
-hash = "a0e1131ed6d7fab5650544ee043831f5709eb80d3cf2ea31ce18d7427e5915a2"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/attributefix.pw.toml"
-hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/attributes.pw.toml"
-hash = "11ab8a365c5bed4941664f25b31f51ee4db08885c49a0fce64cba5aa5555e2cc"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/average-dps.pw.toml"
-hash = "fff5930d01417bbb6d18bbc1338d183dcf96f4037d45b1fdcb457e20cf145d33"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/borninchaos.pw.toml"
-hash = "a2c8cf1a4fc5faed55ca1f8d04f7abaa1c8282b9bcd70e1b3e607181923f48d9"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/bossesrise.pw.toml"
-hash = "d20e603af6e9156021a1b8db31edd187a089b2b21cd7f70fa7eb7507bf81dbf9"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/cataclysm-epicfight-stun-compat.pw.toml"
-hash = "e912c09a0d30d673d05b2ddc32adb00173db27026545ba9bd126210445271597"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/cataclysm-ignis-soulfires.pw.toml"
-hash = "8e876e0b73251b025366261f423e54c0b7381cfc489e243b9dc658e316e235d6"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/cataclysm-spellbooks.pw.toml"
-hash = "48a43f54f8e00b8c578aff25efcb824019016be3b432374df87a6e0960728aa5"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/cataclysm-weaponery.pw.toml"
-hash = "04520978642b6a7fd321703be0b072eb46a543ffd36ba698c1e865894ce25037"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/cataclysms-rise.pw.toml"
-hash = "73d3203547b2b9a02081b70602485802f87aa1345f5c50a4e5c8c5551fbc25db"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/combat-evolution.pw.toml"
-hash = "00b494a836f95058c4cd23c48230580f023789ac23be34c78502dabe5c1f4ae2"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/compatlink-epic-fight-weapons-compat.pw.toml"
-hash = "9e3e625cf3c2364e13e00cacce30759fc3200d3ec68707f06320c5ab96e91e57"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/dark-doppelganger.pw.toml"
-hash = "8a939dfbe445b415a9ed3e9f1f9d9ceb44a3655869da2aa38fc053838b7aee41"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/discerning-the-eldritch.pw.toml"
-hash = "eedfba7c42113671df742d7c3e264799e7a90c42068470ddadb2506c5d1db9e7"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/ekotsk-neoforge-1.21.1_1.5.0_CustomPatchR.jar"
-hash = "86601f41bebd9f8cb75ada6f262744affe773a5bd8ffd12245d40484dea6f20d"
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epic-fight-dawn-day.pw.toml"
-hash = "ef4af0b6aa741f9a76b44c017dd04e63e8a9f170f66a585b451071c02d565995"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epic-fight-invincible-lib.pw.toml"
-hash = "679c9265f9a002834ec0972c8b2b95701e31870d3183e3de80b6963b302be08a"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epic-fight-mob-compats.pw.toml"
-hash = "ede453d0a1803bde3fa90c5b5d12c8d2d27096bca2e4fc40075dd8061473d842"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epic-fight-mod-compat.pw.toml"
-hash = "8f37f2db270c1256e91395300d301ce0a31bb079bec24800bb476d08498b870e"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epic-fight-rapier-moveset-addon.pw.toml"
-hash = "1bfdc596ebacf8abce5168506e413474a5706d1838d999c2103edbd8e935bca6"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epic-fight-x-relics-artifacs.pw.toml"
-hash = "cd37a4209aa639aa1990dbdef4576c8c334880086612f3dc567dad48c00a8e26"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epic-fight.pw.toml"
-hash = "8f25f6d5023d533e0d70b0375c36c176445251f431a9c8ebd63cf7f63e4c31da"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epic-knights-shields-armor-and-weapons.pw.toml"
-hash = "14bd7ebbaa3c4f1336c63211caa6fc887f2904c587dcc35b9d8c9afaa3c2906f"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epic-rpg-boss-battle-mode.pw.toml"
-hash = "753f684bd8cf1fa5b60904882425b396d8f2473164844cc59fd165c75b26b8c7"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epicfight-awaken.pw.toml"
-hash = "b46ce0a4df05910f2453687b66ce16bc3723d95a51c57ec8248b7b76de33f1f4"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epicfight-extra.pw.toml"
-hash = "ae089af425d1c4e2d5c608ff99c4a7dac33d95dfa5e650387b376129af7b1dc2"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epicfight-global-stun.pw.toml"
-hash = "79f7312a59033c0195016048a853ea3fbe19b9122bfd8b49202c560e993729c0"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/epicfight-nightfall.pw.toml"
-hash = "2abe9c56bc40a99a4e87d1865eab72a731a748959637adf26418824d984d9b2f"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/es-esoteric-spells-irons-spells-addon.pw.toml"
-hash = "7c5d934857ff3d35a5c5d7ad8990fd0da9bc00f644f113306878aa3b7d6d3afe"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/farmers-spell.pw.toml"
-hash = "f5615f6cd309a4ed2c6f1f86e7809acf560e0a26bc621448cf0be434578bb9e4"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/galosphere-spellbooks.pw.toml"
-hash = "3050c7912020322abbe0eb955eaa49da7fb64f5b4dd70e8b33f42890cc2625cb"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/galosphere.pw.toml"
-hash = "a87a4a2c45223994ce2024026d9c88b93712cf1fa915279d0ba5e8e7090b5583"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/gtbcs-geomancy-plus.pw.toml"
-hash = "2f5fbbb76c1c2d7f1ea2eba3537775b4c355f2d109e0d7bac7b3dc1df9875626"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/gtbcs-spelllib.pw.toml"
-hash = "56284b68e384121e89d7e91eac3058c56c1184c76237442762b1ae1c8666fdde"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/ignis-soulfires-spellbooks.pw.toml"
-hash = "9e5d4203cc9ce2baaf01db11ff4cfc105804441b062c978c6509213fd50d248b"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/integrated-mowzies-mobs.pw.toml"
-hash = "9dd3defce2078341de1f362f85a0cf622014e4694ff4c17d94e24d509adc3dea"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/irons-apothic-invaders.pw.toml"
-hash = "7137a38df33a37160fb76ce790254180788162022ac90457ee714c2515112225"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/irons-sable-compat.pw.toml"
-hash = "a665bdf6f3474de320333bfa5056720dc7e107bd239eff9078df240ac0374abb"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/irons-spells-n-spellbooks-chronomancy.pw.toml"
-hash = "30c8e235b232599da1d2b000564606af3ecd178cb50e17280ecfeec12b29f810"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/irons-spells-n-spellbooks-dynamic-skill-trees.pw.toml"
-hash = "16d067a8f294335dcf3f4858b7285e90f4da66d081e2cf941106c97a10baef80"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/irons-spells-n-spellbooks.pw.toml"
-hash = "4623bbc102dd3b7648a96569a1ab49b868774d46355b305ac40c4c79ad1c74e2"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/isskjs.pw.toml"
-hash = "57db227711481c9b6fbc89a5ea04f2810c9f27035baa7f33437a80a94ae9609f"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/l_enders-cataclysm-delight.pw.toml"
-hash = "637e5b445b28d460884ce868948328ef512eb10ab2af60a86bd3e2c37ac49697"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/l_enders-cataclysm.pw.toml"
-hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/legendary-monsters.pw.toml"
-hash = "5c4e00cc93b6cf4e37b98295186fb708aab0bcbd2c764579c1c0e22c8910330f"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/legendary-spellbooks.pw.toml"
-hash = "b67fd22da1d3268650162c8b07f07b65dbea1d87771580541c2ce1f4c2ad948f"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/leylines-irons-spells-n-spellbooks-addon.pw.toml"
-hash = "6467de67e044ac9c7c368f27f802bd5535fa844e571ddbe096ac6f44ce555413"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/mowzies-cataclysm.pw.toml"
-hash = "ad098b3920c466db203a22d2016efdcf8db9dd86c9397934692bc434a4278151"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/mowzies-mobs.pw.toml"
-hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.2.0.jar"
-hash = "ab0f54a3449e122a6cf197d592776a62be40de4470e168c0564238afb510a7b5"
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/party-hud.pw.toml"
-hash = "2a982860d2d8c5e5e1764670f9ba9e5dcdf43ce1c5635634ac08f563ee12f918"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/pufferfishs-unofficial-additions.pw.toml"
-hash = "3a37a1911cee7925936f8720012eb00bcf4fbae5771a0869e4ce61e405eac91b"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/relics-mod.pw.toml"
-hash = "5d2ebe2ac7d9436d1c5df0fbb2a1b975196d41a3090065b3c569aaac4fc11430"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/reliquified-irons-spells-n-spellbooks.pw.toml"
-hash = "ceff68e5d936197e1354308be805de0ff70d9f1999bd107c52c2f02db5b55ace"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/reliquified-l-ender-s-cataclysm-new-relics-fix.pw.toml"
-hash = "7e994dc78e8ffe8447522f7afe4112e33ad35e1d600eb655022c8f646ebbef8a"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/reliquified-l-ender-s-cataclysm.pw.toml"
-hash = "ff5afd5570a5a3d921c7764d0c64f82eb0c87c7e2e3db3e53aa45d6b6b4edc47"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/revive-me.pw.toml"
-hash = "f3378af75f8420ad23980c99f9ce1f3fe1b5d0313fca9ebe518d8bbe4f2bebd1"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/skills.pw.toml"
-hash = "77e3c81c00c0a4c61aedea5e57760dac58f181788d670012e66f60614365def3"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/slm-codex.pw.toml"
-hash = "d3379c05c347e0b145d1fcd9a50b3cb056e977203d4bd40abb52a5381a6ed968"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/slm-elements.pw.toml"
-hash = "356a48e5c1d3446978561e2e0e867fb1bef9be9a90d04ccb4a06ff74f9370582"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/slm-epic-fight.pw.toml"
-hash = "5e7721b7094be05fec421983030fd1680c572afb4b20d01252d9b43f2a5f26f7"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/slm-shader.pw.toml"
-hash = "50d2fd82ca82a524e4e2853911b422f3a114a14c56ef8d0e48201c186db81bad"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/somake-spells-irons-spells-addon.pw.toml"
-hash = "8796f396e55b5c40d7e7ae16410ed04980c2abc59d0a732c4e87f9f000c15045"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/soul-fire-d.pw.toml"
-hash = "aa7a2c186bf1ce65441be06d1c9a5af18b054098e4bdc37273fb4e75f0d27fc5"
-metafile = true
+file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.3.0.jar"
+hash = "90fcdc8c91b21260c3ed23ae7d9ebdcaf8233cde235b8e24d324a4892fc1080d"
 
 [[files]]
 file = "RequiredMods/Always/Both/Adventure/statustabs-3.4.0.jar"
 hash = "1fa164de08596f997c1104d947d70fd11a00a67f1dca8cf87854511aad311705"
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/weapons-of-miracles.pw.toml"
-hash = "495590cc80aa0e87f82da883e32b0166e6bbb5ffa8a3c5e71cdf72a87a0b6434"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/Adventure/winds-spellbooks.pw.toml"
-hash = "e174ded612bdae826523460c671f0486e68b769007c41cb892fab4b22809ac02"
-metafile = true
 
 [[files]]
 file = "RequiredMods/Always/Both/industry/ad-astra-giselle-addon.pw.toml"
@@ -440,11 +36,6 @@ metafile = true
 [[files]]
 file = "RequiredMods/Always/Both/industry/ae2.pw.toml"
 hash = "bcc34f607a107a148928c80c8fdef326170975df392ce7f476a47df956b1fc5c"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/industry/amendments.pw.toml"
-hash = "a3c9b772845b9dab436aa5ba14b9596b314006ced8fbd2a6b0286dc0c70cf220"
 metafile = true
 
 [[files]]
@@ -508,11 +99,6 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Always/Both/industry/effortless-building.pw.toml"
-hash = "acca756841ee5e088eaec9474758e402247965f3adf6d7ccd612bb715aa836c9"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Always/Both/industry/evolved-mekanism.pw.toml"
 hash = "7473e2d1255dcc6a300ca58e821a87f255f16a032ffa868338297759a2cb961c"
 metafile = true
@@ -523,18 +109,8 @@ hash = "58c8a64f256889552536342d3544d6a957a6dbf0cf9f22ebf7f2c493acf34c0e"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Always/Both/industry/farmers-delight.pw.toml"
-hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Always/Both/industry/fluxnautics.pw.toml"
 hash = "0abddd474efdb5948cdbb3ed80b34a108083ccfb442fbf5b9b081040ceaf4be0"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/industry/in-control.pw.toml"
-hash = "8311cf201aa8d3c5d0c0291194f3c76d825591122b7ccf4f2fea08f6b39af526"
 metafile = true
 
 [[files]]
@@ -550,11 +126,6 @@ metafile = true
 [[files]]
 file = "RequiredMods/Always/Both/industry/leaves-be-gone.pw.toml"
 hash = "583a335211bc3a21bb379394344b67d64bffea421e7f7942c254903e1d607814"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/industry/lootr.pw.toml"
-hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
 metafile = true
 
 [[files]]
@@ -663,11 +234,6 @@ hash = "8f20b460f4e963a30281cae3ac4b8d543ef12a2fb75a05ddfbe0eaebb58204ff"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Always/Both/industry/quark.pw.toml"
-hash = "6390e31a740d60ba3a66edaf86f5e2788b7d03ff18fd43580f12f665e25f73f9"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Always/Both/industry/replicatemekanism.pw.toml"
 hash = "deee5d414c7c00e3cd5148c5c0fa9ec96e9270e0dfc9743e335987f720bab7ab"
 metafile = true
@@ -683,16 +249,6 @@ hash = "fadb5c9cfe145e51992894fe57209fc8f1696ef892ee9702a24c6205f042e9b2"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Always/Both/industry/supplementaries.pw.toml"
-hash = "b88bbb62ccc2222c4736899745678d83e2dff37bf29ceff94cca94a90a7b68fe"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/aaa-particles.pw.toml"
-hash = "9a81f91e288bfa2cb0cdaebe775fe0aed2348ea3b18564ec2b45658ec0abd412"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Always/Both/library/almanac.pw.toml"
 hash = "c65748ba4e13309eeba1dae2dfb348ad9b6348a093dc02a901e3e5a2a6110b0d"
 metafile = true
@@ -703,28 +259,8 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Always/Both/library/azurelib.pw.toml"
-hash = "85d9232d28042bd0f78d97e6fc8a84ce09dacd13a8b3d46be3199888d39f5ad9"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/bookshelf-lib.pw.toml"
-hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/citadel-1.21.1-port.pw.toml"
-hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Always/Both/library/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/cobweb.pw.toml"
-hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
 metafile = true
 
 [[files]]
@@ -748,11 +284,6 @@ hash = "d3db274b42cd1147c531ccff427ccc5676a5a04592055a0b7f2b3a86ae54d7fa"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Always/Both/library/fragmentum.pw.toml"
-hash = "20a6fed49a56d88d939ce6990ae7088faa80887e6baeef317aa11d53a398db40"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Always/Both/library/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -773,26 +304,6 @@ hash = "2148b44cf26025607d1a73a03e5e4a0b3a7f05b1c7442736eccc1ed64de985cd"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Always/Both/library/integrated-api.pw.toml"
-hash = "91e64f115f316af85a1162f327d2b14b4669e6f6dffafc468f633be4317cf3b4"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/integrated-patches.pw.toml"
-hash = "6bcee0b532f103b2470994eb5225c65f07ce19cf192c9f1508628ece757278c9"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/invocore-utility-mod.pw.toml"
-hash = "ea6933f4da94e3f5cd4979942de988fc4713d40cb938c88061b4d367d13c7d2c"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/irons-lib.pw.toml"
-hash = "93f7a09e0d9a05c31b55bb9725545c49dc68067556a98d470e4f405bdbf3b25c"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Always/Both/library/kotlin-for-forge.pw.toml"
 hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
 metafile = true
@@ -808,43 +319,8 @@ hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Always/Both/library/lionfish-api.pw.toml"
-hash = "64acab1580ca6edd8b1dd185e914aeee7aa551a88a7cd7f0f9370a82aaadfef6"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Always/Both/library/mezzconfig.pw.toml"
 hash = "cf5d87f046590b99d92096a79f6ea2f456290ba5d423c256f06674d2d10a1592"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/moonlight.pw.toml"
-hash = "709bfedec583aee1370ad11210b75a454b1e3f10c0a1da7fe25abd1c28a8681d"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/patchouli.pw.toml"
-hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/placebo.pw.toml"
-hash = "d94791108548d174758d587440c656f1a56884083fa3151bf90b515126482435"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/playeranimator.pw.toml"
-hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/prickle.pw.toml"
-hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/prometheus-api.pw.toml"
-hash = "edef74673c04f649fce7fdb438ae12cf5f9aa6416df471f362043f7a09204113"
 metafile = true
 
 [[files]]
@@ -868,23 +344,8 @@ hash = "673de9cae75d2ad02796368939384de0d7238cf5c782975d71848a2187f753e7"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Always/Both/library/shatterbyte-lib.pw.toml"
-hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/sl-library.pw.toml"
-hash = "09c2e1067f041bebae2c246c6e578f3c348b1f1762662fd894dd6606d978b1ab"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Always/Both/library/titanium.pw.toml"
 hash = "f0a7b5302b5238964306a522238f623274aee1c639198c04dc543ac759132215"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Both/library/zeta.pw.toml"
-hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
@@ -955,21 +416,6 @@ metafile = true
 [[files]]
 file = "RequiredMods/Always/Both/performance/structure-layout-optimizer.pw.toml"
 hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Clients/Adventure/epic-fight-curios-compat-extended.pw.toml"
-hash = "6c7c75e5de2a0069e5ceaf9fa8bd773d551819eff8304bc55f6c0866a90ebadc"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Clients/Adventure/epic-fight-fps-optimizer.pw.toml"
-hash = "9efb24c17557c3832142dc40649705b95f5d121521312591a61b96e48c0d6f31"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Always/Clients/Adventure/epicfightcurioscompat.pw.toml"
-hash = "39ae49c63bbd3451554a26e66268f4ed38b51c949641442d7f6a193d15fa8d50"
 metafile = true
 
 [[files]]
@@ -1095,6 +541,560 @@ metafile = true
 [[files]]
 file = "RequiredMods/Always/Clients/performance/reeses-sodium-options.pw.toml"
 hash = "8690379014fbba53059759936c7deb4d62aabc7a2006da3d45929dc582b119b7"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/aces-spell-utils.pw.toml"
+hash = "2b69450e43952ddfa55a78ac5bba0c3a73b29cca2d05b57a5beecff62175fa32"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/alexs-caves-spellbooks.pw.toml"
+hash = "549a50d49d87f7a765b4ab263ba5a42f92c53d5eae85b688d1f68cb8972313e5"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/alexs-caves-unofficial-port.pw.toml"
+hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/anadaptive-nemesis.pw.toml"
+hash = "1d72a6a88f4502669361fc393dda85c3139317fb1b95db33b2334d97c65f54c1"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/apotheosis-balance-configurator.pw.toml"
+hash = "4534c14c02e72d991a978aa7c92489eae55a883788b4c2317f869317b873ef8d"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/apotheosis-create-recipe.pw.toml"
+hash = "1ce3aaf14e7ccbafb8ab794c40979ad256ab67354dec93b54d67fec5a050b448"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/apotheosis.pw.toml"
+hash = "e154d7fb16dc7eb6ace7b88b3896955bb66f58c2daafe93c7ae3327ee418a509"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/apothic-attributes.pw.toml"
+hash = "8f5f05a72596ecc0dd11be483785c8a521e987dc2fe6d2fef212c2a382a0c779"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/apothic-cataclysm.pw.toml"
+hash = "6ed64ad042d5a67c1b742028a8465ad547d33611b80eaf22f0ff2d0b8435d2c3"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/apothic-category-compat.pw.toml"
+hash = "11d385cc7dea81d22fc63d898b478caaae231c923df38f491dc064425c9c800c"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/apothic-compats.pw.toml"
+hash = "d2c38ac301a32cfa02e7bb32c339508e1a49c496dda4e67c18d7c6056fd80e1e"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/apothic-enchanting.pw.toml"
+hash = "0d3ca07f510b7674932be8e109f394ab23aa4cd1aee04020ea0d509a0d1dd619"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/apothic-spawners.pw.toml"
+hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/applied-apothic-enchanting.pw.toml"
+hash = "d317fc0c06570e2309e522982ad16e8227658a03bf4f261d60685f2636150a6d"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/aquamirae-epic-fight-compat.pw.toml"
+hash = "dc5e96887ae96142be50803b0eff97e47c31b3bad25935f780f175b85b0c7150"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/aquamirae.pw.toml"
+hash = "a0e1131ed6d7fab5650544ee043831f5709eb80d3cf2ea31ce18d7427e5915a2"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/attributefix.pw.toml"
+hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/attributes.pw.toml"
+hash = "11ab8a365c5bed4941664f25b31f51ee4db08885c49a0fce64cba5aa5555e2cc"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/average-dps.pw.toml"
+hash = "fff5930d01417bbb6d18bbc1338d183dcf96f4037d45b1fdcb457e20cf145d33"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/borninchaos.pw.toml"
+hash = "a2c8cf1a4fc5faed55ca1f8d04f7abaa1c8282b9bcd70e1b3e607181923f48d9"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/bossesrise.pw.toml"
+hash = "d20e603af6e9156021a1b8db31edd187a089b2b21cd7f70fa7eb7507bf81dbf9"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/cataclysm-epicfight-stun-compat.pw.toml"
+hash = "e912c09a0d30d673d05b2ddc32adb00173db27026545ba9bd126210445271597"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/cataclysm-ignis-soulfires.pw.toml"
+hash = "8e876e0b73251b025366261f423e54c0b7381cfc489e243b9dc658e316e235d6"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/cataclysm-spellbooks.pw.toml"
+hash = "48a43f54f8e00b8c578aff25efcb824019016be3b432374df87a6e0960728aa5"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/cataclysm-weaponery.pw.toml"
+hash = "04520978642b6a7fd321703be0b072eb46a543ffd36ba698c1e865894ce25037"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/cataclysms-rise.pw.toml"
+hash = "73d3203547b2b9a02081b70602485802f87aa1345f5c50a4e5c8c5551fbc25db"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/combat-evolution.pw.toml"
+hash = "00b494a836f95058c4cd23c48230580f023789ac23be34c78502dabe5c1f4ae2"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/compatlink-epic-fight-weapons-compat.pw.toml"
+hash = "9e3e625cf3c2364e13e00cacce30759fc3200d3ec68707f06320c5ab96e91e57"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/dark-doppelganger.pw.toml"
+hash = "8a939dfbe445b415a9ed3e9f1f9d9ceb44a3655869da2aa38fc053838b7aee41"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/discerning-the-eldritch.pw.toml"
+hash = "eedfba7c42113671df742d7c3e264799e7a90c42068470ddadb2506c5d1db9e7"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/ekotsk-neoforge-1.21.1_1.5.0_CustomPatchR.jar"
+hash = "86601f41bebd9f8cb75ada6f262744affe773a5bd8ffd12245d40484dea6f20d"
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-dawn-day.pw.toml"
+hash = "ef4af0b6aa741f9a76b44c017dd04e63e8a9f170f66a585b451071c02d565995"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-invincible-lib.pw.toml"
+hash = "679c9265f9a002834ec0972c8b2b95701e31870d3183e3de80b6963b302be08a"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-mob-compats.pw.toml"
+hash = "ede453d0a1803bde3fa90c5b5d12c8d2d27096bca2e4fc40075dd8061473d842"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-mod-compat.pw.toml"
+hash = "8f37f2db270c1256e91395300d301ce0a31bb079bec24800bb476d08498b870e"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-rapier-moveset-addon.pw.toml"
+hash = "1bfdc596ebacf8abce5168506e413474a5706d1838d999c2103edbd8e935bca6"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-x-relics-artifacs.pw.toml"
+hash = "cd37a4209aa639aa1990dbdef4576c8c334880086612f3dc567dad48c00a8e26"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight.pw.toml"
+hash = "8f25f6d5023d533e0d70b0375c36c176445251f431a9c8ebd63cf7f63e4c31da"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "14bd7ebbaa3c4f1336c63211caa6fc887f2904c587dcc35b9d8c9afaa3c2906f"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-rpg-boss-battle-mode.pw.toml"
+hash = "753f684bd8cf1fa5b60904882425b396d8f2473164844cc59fd165c75b26b8c7"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epicfight-awaken.pw.toml"
+hash = "b46ce0a4df05910f2453687b66ce16bc3723d95a51c57ec8248b7b76de33f1f4"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epicfight-extra.pw.toml"
+hash = "ae089af425d1c4e2d5c608ff99c4a7dac33d95dfa5e650387b376129af7b1dc2"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epicfight-global-stun.pw.toml"
+hash = "79f7312a59033c0195016048a853ea3fbe19b9122bfd8b49202c560e993729c0"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epicfight-nightfall.pw.toml"
+hash = "2abe9c56bc40a99a4e87d1865eab72a731a748959637adf26418824d984d9b2f"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/es-esoteric-spells-irons-spells-addon.pw.toml"
+hash = "7c5d934857ff3d35a5c5d7ad8990fd0da9bc00f644f113306878aa3b7d6d3afe"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/farmers-spell.pw.toml"
+hash = "f5615f6cd309a4ed2c6f1f86e7809acf560e0a26bc621448cf0be434578bb9e4"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/galosphere-spellbooks.pw.toml"
+hash = "3050c7912020322abbe0eb955eaa49da7fb64f5b4dd70e8b33f42890cc2625cb"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/galosphere.pw.toml"
+hash = "a87a4a2c45223994ce2024026d9c88b93712cf1fa915279d0ba5e8e7090b5583"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/gtbcs-geomancy-plus.pw.toml"
+hash = "2f5fbbb76c1c2d7f1ea2eba3537775b4c355f2d109e0d7bac7b3dc1df9875626"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/gtbcs-spelllib.pw.toml"
+hash = "56284b68e384121e89d7e91eac3058c56c1184c76237442762b1ae1c8666fdde"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/ignis-soulfires-spellbooks.pw.toml"
+hash = "9e5d4203cc9ce2baaf01db11ff4cfc105804441b062c978c6509213fd50d248b"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/integrated-mowzies-mobs.pw.toml"
+hash = "9dd3defce2078341de1f362f85a0cf622014e4694ff4c17d94e24d509adc3dea"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/irons-apothic-invaders.pw.toml"
+hash = "7137a38df33a37160fb76ce790254180788162022ac90457ee714c2515112225"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/irons-sable-compat.pw.toml"
+hash = "a665bdf6f3474de320333bfa5056720dc7e107bd239eff9078df240ac0374abb"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/irons-spells-n-spellbooks-chronomancy.pw.toml"
+hash = "30c8e235b232599da1d2b000564606af3ecd178cb50e17280ecfeec12b29f810"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/irons-spells-n-spellbooks-dynamic-skill-trees.pw.toml"
+hash = "16d067a8f294335dcf3f4858b7285e90f4da66d081e2cf941106c97a10baef80"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/irons-spells-n-spellbooks.pw.toml"
+hash = "4623bbc102dd3b7648a96569a1ab49b868774d46355b305ac40c4c79ad1c74e2"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/isskjs.pw.toml"
+hash = "57db227711481c9b6fbc89a5ea04f2810c9f27035baa7f33437a80a94ae9609f"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/l_enders-cataclysm-delight.pw.toml"
+hash = "637e5b445b28d460884ce868948328ef512eb10ab2af60a86bd3e2c37ac49697"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/l_enders-cataclysm.pw.toml"
+hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/legendary-monsters.pw.toml"
+hash = "5c4e00cc93b6cf4e37b98295186fb708aab0bcbd2c764579c1c0e22c8910330f"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/legendary-spellbooks.pw.toml"
+hash = "b67fd22da1d3268650162c8b07f07b65dbea1d87771580541c2ce1f4c2ad948f"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/leylines-irons-spells-n-spellbooks-addon.pw.toml"
+hash = "6467de67e044ac9c7c368f27f802bd5535fa844e571ddbe096ac6f44ce555413"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/mowzies-cataclysm.pw.toml"
+hash = "ad098b3920c466db203a22d2016efdcf8db9dd86c9397934692bc434a4278151"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/mowzies-mobs.pw.toml"
+hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/party-hud.pw.toml"
+hash = "2a982860d2d8c5e5e1764670f9ba9e5dcdf43ce1c5635634ac08f563ee12f918"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/pufferfishs-unofficial-additions.pw.toml"
+hash = "3a37a1911cee7925936f8720012eb00bcf4fbae5771a0869e4ce61e405eac91b"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/relics-mod.pw.toml"
+hash = "5d2ebe2ac7d9436d1c5df0fbb2a1b975196d41a3090065b3c569aaac4fc11430"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/reliquified-irons-spells-n-spellbooks.pw.toml"
+hash = "ceff68e5d936197e1354308be805de0ff70d9f1999bd107c52c2f02db5b55ace"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/reliquified-l-ender-s-cataclysm-new-relics-fix.pw.toml"
+hash = "7e994dc78e8ffe8447522f7afe4112e33ad35e1d600eb655022c8f646ebbef8a"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/reliquified-l-ender-s-cataclysm.pw.toml"
+hash = "ff5afd5570a5a3d921c7764d0c64f82eb0c87c7e2e3db3e53aa45d6b6b4edc47"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/revive-me.pw.toml"
+hash = "f3378af75f8420ad23980c99f9ce1f3fe1b5d0313fca9ebe518d8bbe4f2bebd1"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/skills.pw.toml"
+hash = "77e3c81c00c0a4c61aedea5e57760dac58f181788d670012e66f60614365def3"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/slm-codex.pw.toml"
+hash = "d3379c05c347e0b145d1fcd9a50b3cb056e977203d4bd40abb52a5381a6ed968"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/slm-elements.pw.toml"
+hash = "356a48e5c1d3446978561e2e0e867fb1bef9be9a90d04ccb4a06ff74f9370582"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/slm-epic-fight.pw.toml"
+hash = "5e7721b7094be05fec421983030fd1680c572afb4b20d01252d9b43f2a5f26f7"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/slm-shader.pw.toml"
+hash = "50d2fd82ca82a524e4e2853911b422f3a114a14c56ef8d0e48201c186db81bad"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/somake-spells-irons-spells-addon.pw.toml"
+hash = "8796f396e55b5c40d7e7ae16410ed04980c2abc59d0a732c4e87f9f000c15045"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/soul-fire-d.pw.toml"
+hash = "aa7a2c186bf1ce65441be06d1c9a5af18b054098e4bdc37273fb4e75f0d27fc5"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/weapons-of-miracles.pw.toml"
+hash = "495590cc80aa0e87f82da883e32b0166e6bbb5ffa8a3c5e71cdf72a87a0b6434"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/winds-spellbooks.pw.toml"
+hash = "e174ded612bdae826523460c671f0486e68b769007c41cb892fab4b22809ac02"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/industry/amendments.pw.toml"
+hash = "a3c9b772845b9dab436aa5ba14b9596b314006ced8fbd2a6b0286dc0c70cf220"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/industry/effortless-building.pw.toml"
+hash = "acca756841ee5e088eaec9474758e402247965f3adf6d7ccd612bb715aa836c9"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/industry/farmers-delight.pw.toml"
+hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/industry/in-control.pw.toml"
+hash = "8311cf201aa8d3c5d0c0291194f3c76d825591122b7ccf4f2fea08f6b39af526"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/industry/lootr.pw.toml"
+hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/industry/quark.pw.toml"
+hash = "6390e31a740d60ba3a66edaf86f5e2788b7d03ff18fd43580f12f665e25f73f9"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/industry/supplementaries.pw.toml"
+hash = "b88bbb62ccc2222c4736899745678d83e2dff37bf29ceff94cca94a90a7b68fe"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/aaa-particles.pw.toml"
+hash = "9a81f91e288bfa2cb0cdaebe775fe0aed2348ea3b18564ec2b45658ec0abd412"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/azurelib.pw.toml"
+hash = "85d9232d28042bd0f78d97e6fc8a84ce09dacd13a8b3d46be3199888d39f5ad9"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/bookshelf-lib.pw.toml"
+hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/citadel-1.21.1-port.pw.toml"
+hash = "80d7af83c244304212b8d95ab2e3525b3eeae02f31e41474c2cdec2f4d370723"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/cobweb.pw.toml"
+hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/fragmentum.pw.toml"
+hash = "20a6fed49a56d88d939ce6990ae7088faa80887e6baeef317aa11d53a398db40"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/integrated-api.pw.toml"
+hash = "91e64f115f316af85a1162f327d2b14b4669e6f6dffafc468f633be4317cf3b4"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/integrated-patches.pw.toml"
+hash = "6bcee0b532f103b2470994eb5225c65f07ce19cf192c9f1508628ece757278c9"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/invocore-utility-mod.pw.toml"
+hash = "ea6933f4da94e3f5cd4979942de988fc4713d40cb938c88061b4d367d13c7d2c"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/irons-lib.pw.toml"
+hash = "93f7a09e0d9a05c31b55bb9725545c49dc68067556a98d470e4f405bdbf3b25c"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/lionfish-api.pw.toml"
+hash = "64acab1580ca6edd8b1dd185e914aeee7aa551a88a7cd7f0f9370a82aaadfef6"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/moonlight.pw.toml"
+hash = "709bfedec583aee1370ad11210b75a454b1e3f10c0a1da7fe25abd1c28a8681d"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/placebo.pw.toml"
+hash = "d94791108548d174758d587440c656f1a56884083fa3151bf90b515126482435"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/prometheus-api.pw.toml"
+hash = "edef74673c04f649fce7fdb438ae12cf5f9aa6416df471f362043f7a09204113"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/shatterbyte-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/sl-library.pw.toml"
+hash = "09c2e1067f041bebae2c246c6e578f3c348b1f1762662fd894dd6606d978b1ab"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Clients/Adventure/epic-fight-curios-compat-extended.pw.toml"
+hash = "6c7c75e5de2a0069e5ceaf9fa8bd773d551819eff8304bc55f6c0866a90ebadc"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Clients/Adventure/epic-fight-fps-optimizer.pw.toml"
+hash = "9efb24c17557c3832142dc40649705b95f5d121521312591a61b96e48c0d6f31"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Clients/Adventure/epicfightcurioscompat.pw.toml"
+hash = "39ae49c63bbd3451554a26e66268f4ed38b51c949641442d7f6a193d15fa8d50"
 metafile = true
 
 [[files]]
@@ -2486,8 +2486,8 @@ file = "kubejs/startup_scripts/mek_gear_nerfs_damage.js"
 hash = "017e8de1090d58f138fb59681dc2bab1b3562c97668f56449c594b53bae0c2c4"
 
 [[files]]
-file = "mods/ServerManager-1.0.0.jar"
-hash = "441781e833a62c42164ffc099eec6897ba3f960213bfbabeef6d2f8d4a290788"
+file = "mods/ServerManager-1.1.0.jar"
+hash = "45c405a657a41bdb1336b51e6262fa5008575ee2e039fb702f2dc8402688ea81"
 
 [[files]]
 file = "mods/saturn.pw.toml"
