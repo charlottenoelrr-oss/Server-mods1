@@ -773,6 +773,10 @@ hash = "f5615f6cd309a4ed2c6f1f86e7809acf560e0a26bc621448cf0be434578bb9e4"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/Adventure/friend_rings-1.1.0.jar"
+hash = "e28a0be7b0d4cc8921042bdb85b14c4c973f36ea531e16578ed62a329ee8c90b"
+
+[[files]]
 file = "RequiredMods/Test/Both/Adventure/galosphere-spellbooks.pw.toml"
 hash = "3050c7912020322abbe0eb955eaa49da7fb64f5b4dd70e8b33f42890cc2625cb"
 metafile = true
