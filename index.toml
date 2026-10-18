@@ -689,10 +689,6 @@ hash = "eedfba7c42113671df742d7c3e264799e7a90c42068470ddadb2506c5d1db9e7"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/ekotsk-neoforge-1.21.1_1.5.0_CustomPatchR.jar"
-hash = "86601f41bebd9f8cb75ada6f262744affe773a5bd8ffd12245d40484dea6f20d"
-
-[[files]]
 file = "RequiredMods/Test/Both/Adventure/epic-fight-dawn-day.pw.toml"
 hash = "ef4af0b6aa741f9a76b44c017dd04e63e8a9f170f66a585b451071c02d565995"
 metafile = true
@@ -725,11 +721,6 @@ metafile = true
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/epic-fight.pw.toml"
 hash = "8f25f6d5023d533e0d70b0375c36c176445251f431a9c8ebd63cf7f63e4c31da"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Test/Both/Adventure/epic-knights-shields-armor-and-weapons.pw.toml"
-hash = "14bd7ebbaa3c4f1336c63211caa6fc887f2904c587dcc35b9d8c9afaa3c2906f"
 metafile = true
 
 [[files]]
@@ -934,11 +925,6 @@ metafile = true
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/soul-fire-d.pw.toml"
 hash = "aa7a2c186bf1ce65441be06d1c9a5af18b054098e4bdc37273fb4e75f0d27fc5"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Test/Both/Adventure/weapons-of-miracles.pw.toml"
-hash = "495590cc80aa0e87f82da883e32b0166e6bbb5ffa8a3c5e71cdf72a87a0b6434"
 metafile = true
 
 [[files]]
@@ -1965,10 +1951,6 @@ file = "kubejs/assets/efn/lang/ja_jp.json"
 hash = "f923dc6d5700a1673f1d7145351ec722aa9542d6b2e9c0345ef026b2cc94e792"
 
 [[files]]
-file = "kubejs/assets/ekotsk/lang/ja_jp.json"
-hash = "b662cb996d14851a37cd98d98ef79caa9cde1700a9ba798314cfca15c3ab9170"
-
-[[files]]
 file = "kubejs/assets/entityculling/lang/ja_jp.json"
 hash = "144c7346c3e13f6d15653649f2b6bebec8d18940b683efcc89e39d258cc3473c"
 
@@ -2179,10 +2161,6 @@ hash = "b718de06e9b457531db4221fd62bb260c24940d6cbe272c84d3fc862dc08e968"
 [[files]]
 file = "kubejs/assets/lootr/lang/ja_jp.json"
 hash = "c6c6ea01bbd0b25738d80e4c728ce62268c0743d34d64fdfa2b60d2c78c34501"
-
-[[files]]
-file = "kubejs/assets/magistuarmory/lang/ja_jp.json"
-hash = "febe4ddf0c17997aec2f07b9b9226a59738e3da151aee4f0015504dd90151797"
 
 [[files]]
 file = "kubejs/assets/malilib/lang/ja_jp.json"
@@ -2465,16 +2443,20 @@ file = "kubejs/assets/wind_spellbooks/lang/ja_jp.json"
 hash = "9c064a6ba9d486450a8b0acea253d22976e786c289a77d363cc8b88ae286700b"
 
 [[files]]
-file = "kubejs/assets/wom/lang/ja_jp.json"
-hash = "d3e062eefb215ddebc1a2d010aef5b2416ed41d5548f71967f6b3a01d8fe8f6d"
-
-[[files]]
 file = "kubejs/assets/zeta/lang/ja_jp.json"
 hash = "660a19ca5d19dc8a07bede7bf06650d568775e456fb944c5756de4415f7d214a"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/client_scripts/mr1_hide_lava_generator.js"
+hash = "35583deac763925060c2a7eb859a2e7e160fcf383fd3016e46c83ff3068ba08c"
+
+[[files]]
+file = "kubejs/server_scripts/mr1_remove_lava_generator.js"
+hash = "9b2077dcbaf04af919dbf48a97ad5e9fce7c51a1b3589fe06ce6ddcbf4c6ce34"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
