@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.5.0.jar"
-hash = "79b7d5b7a2495baa8a4627063bd5b044398586fbff06ce4d8c2625d8d19034c9"
+file = "RequiredMods/Always/Both/Adventure/interfacesystem-4.0.3.jar"
+hash = "6b567508ab3cf3e7860c18c0abed71213c077f2b08a5752bc4846865c981cee4"
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/statustabs-3.4.0.jar"
-hash = "1fa164de08596f997c1104d947d70fd11a00a67f1dca8cf87854511aad311705"
+file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.5.0.jar"
+hash = "79b7d5b7a2495baa8a4627063bd5b044398586fbff06ce4d8c2625d8d19034c9"
 
 [[files]]
 file = "RequiredMods/Always/Both/industry/ad-astra-giselle-addon.pw.toml"
@@ -634,6 +634,10 @@ hash = "fff5930d01417bbb6d18bbc1338d183dcf96f4037d45b1fdcb457e20cf145d33"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.0.0.jar"
+hash = "d090e4b0887b61638b4e81cef63a484a6bada7cc034f6fe22939ca253ad6f72d"
+
+[[files]]
 file = "RequiredMods/Test/Both/Adventure/borninchaos.pw.toml"
 hash = "a2c8cf1a4fc5faed55ca1f8d04f7abaa1c8282b9bcd70e1b3e607181923f48d9"
 metafile = true
@@ -938,6 +942,10 @@ hash = "a3c9b772845b9dab436aa5ba14b9596b314006ced8fbd2a6b0286dc0c70cf220"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/industry/basesystem-1.3.0.jar"
+hash = "a09c9611c0817f33c9f4b9d4d6fdd63daf350ac44ef6e4134b4e8710ab12a8b1"
+
+[[files]]
 file = "RequiredMods/Test/Both/industry/effortless-building.pw.toml"
 hash = "acca756841ee5e088eaec9474758e402247965f3adf6d7ccd612bb715aa836c9"
 metafile = true
@@ -1093,10 +1101,6 @@ hash = "f824a7030b4ee227a9a733452f35d8936ba274d2fd587715ea6eba894a4b628f"
 [[files]]
 file = "config/obscuria/aquamirae-early.json"
 hash = "95a6ce1a5c2bfdfc3c2842a171b34ddbbd69536c54521edce3086db3b4b4134c"
-
-[[files]]
-file = "config/statustabs-client.toml"
-hash = "59faf1ef806a3fe46a91db43d189fe91de276d25a10b6d67f24507e7498d7a17"
 
 [[files]]
 file = "kubejs/assets/aces_spell_utils/lang/ja_jp.json"
@@ -2415,10 +2419,6 @@ file = "kubejs/assets/somakespells/lang/ja_jp.json"
 hash = "e50ad9730964d7a140c7b77072891f50f2bf12ebac64ba330d8308ca0e53e0c9"
 
 [[files]]
-file = "kubejs/assets/statustabs/lang/ja_jp.json"
-hash = "8c8124d5b1e328e3cc75d106858663e36b023d3aa68d56d467ee8e620ba3897a"
-
-[[files]]
 file = "kubejs/assets/stellarview/lang/ja_jp.json"
 hash = "52336b95932c7b515cfa87b362cc3a0030b41bd7927f3ad5c8aa821247da1f65"
 
@@ -2467,8 +2467,8 @@ file = "kubejs/startup_scripts/mek_gear_nerfs_damage.js"
 hash = "017e8de1090d58f138fb59681dc2bab1b3562c97668f56449c594b53bae0c2c4"
 
 [[files]]
-file = "mods/ServerManager-1.1.1.jar"
-hash = "e9fde1209048d72d8c8156b3bcde4096a03106e28c33c8f303d2b87aa4c38f86"
+file = "mods/ServerManager-1.1.3.jar"
+hash = "ee213994e28458dd2994f23375f6b23acb16db72ca17fba11ef9e1d19d3c124f"
 
 [[files]]
 file = "mods/saturn.pw.toml"
