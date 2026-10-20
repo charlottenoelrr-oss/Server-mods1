@@ -1,0 +1,13 @@
+name = "[AN]Adaptive Nemesis"
+filename = "adaptive_nemesis-1.0.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/anacxDIl/versions/WLLqtI7A/adaptive_nemesis-1.0.17.jar"
+hash-format = "sha512"
+hash = "79f6e83590b46dee2798855f855e98df3bcf3f7fd8a86058a4b9525b4af5f1b88a8f9c6b20d1659936528379d813ea7f0dad45542730f8cb231a5e29b48e6555"
+
+[update]
+[update.modrinth]
+mod-id = "anacxDIl"
+version = "WLLqtI7A"

@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/interfacesystem-4.0.3.jar"
-hash = "6b567508ab3cf3e7860c18c0abed71213c077f2b08a5752bc4846865c981cee4"
+file = "RequiredMods/Always/Both/Adventure/interfacesystem-4.2.0.jar"
+hash = "404295e65427afc790e4751289c671c9a89c9218486ee0f8e58dafaf35c9db71"
 
 [[files]]
 file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.5.0.jar"
@@ -559,6 +559,11 @@ hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/Adventure/anadaptive-nemesis.pw.toml"
+hash = "1d72a6a88f4502669361fc393dda85c3139317fb1b95db33b2334d97c65f54c1"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Test/Both/Adventure/apotheosis-balance-configurator.pw.toml"
 hash = "4534c14c02e72d991a978aa7c92489eae55a883788b4c2317f869317b873ef8d"
 metafile = true
@@ -634,8 +639,8 @@ hash = "fff5930d01417bbb6d18bbc1338d183dcf96f4037d45b1fdcb457e20cf145d33"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlesystem-1.0.0.jar"
-hash = "d090e4b0887b61638b4e81cef63a484a6bada7cc034f6fe22939ca253ad6f72d"
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.0.1.jar"
+hash = "8e9b8713ae48a1394233e6522eb7e6fa5d0eef889078cd7d168e895f75b301f0"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/borninchaos.pw.toml"
@@ -715,6 +720,11 @@ metafile = true
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/epic-fight-rapier-moveset-addon.pw.toml"
 hash = "1bfdc596ebacf8abce5168506e413474a5706d1838d999c2103edbd8e935bca6"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-weapons-compat.pw.toml"
+hash = "c9e4d07449aa9a7feba0ecbe707b04a997e9f2480478efd57ecbd0059453328b"
 metafile = true
 
 [[files]]
@@ -897,6 +907,11 @@ hash = "f3378af75f8420ad23980c99f9ce1f3fe1b5d0313fca9ebe518d8bbe4f2bebd1"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/Adventure/simply-swords.pw.toml"
+hash = "f11837c4f049aeb3b7ceb086f4c7b1347bfad1826f47722cbdc8b2b38df0067e"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Test/Both/Adventure/skills.pw.toml"
 hash = "77e3c81c00c0a4c61aedea5e57760dac58f181788d670012e66f60614365def3"
 metafile = true
@@ -1006,6 +1021,11 @@ hash = "20a6fed49a56d88d939ce6990ae7088faa80887e6baeef317aa11d53a398db40"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/library/fzzy-config.pw.toml"
+hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Test/Both/library/integrated-api.pw.toml"
 hash = "91e64f115f316af85a1162f327d2b14b4669e6f6dffafc468f633be4317cf3b4"
 metafile = true
@@ -1066,6 +1086,11 @@ hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/library/simply-tooltips.pw.toml"
+hash = "c0fc5806a57b80b1e06733df7dabd18d0e61d11b66ed09470fa7f5bb175b3238"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Test/Both/library/sl-library.pw.toml"
 hash = "09c2e1067f041bebae2c246c6e578f3c348b1f1762662fd894dd6606d978b1ab"
 metafile = true
@@ -1091,6 +1116,10 @@ hash = "39ae49c63bbd3451554a26e66268f4ed38b51c949641442d7f6a193d15fa8d50"
 metafile = true
 
 [[files]]
+file = "config/adaptive_nemesis-server.toml"
+hash = "cab0ba4ea72e294c07d5e9954248cf47bc418bb17ad714eddcf0dcb8229938d6"
+
+[[files]]
 file = "config/block_factorys_bosses-client.toml"
 hash = "62fec4a03a61e3aeca95a57c1cf95b75839a858eb0a7415ab224a3777d1923fc"
 
@@ -1101,6 +1130,10 @@ hash = "f824a7030b4ee227a9a733452f35d8936ba274d2fd587715ea6eba894a4b628f"
 [[files]]
 file = "config/obscuria/aquamirae-early.json"
 hash = "95a6ce1a5c2bfdfc3c2842a171b34ddbbd69536c54521edce3086db3b4b4134c"
+
+[[files]]
+file = "config/reviveme/reviveme-common.toml"
+hash = "e2892a412d058c8006e05e3ae50fed61ffabaada017246a4828cde72c21844c0"
 
 [[files]]
 file = "kubejs/assets/aces_spell_utils/lang/ja_jp.json"
