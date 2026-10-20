@@ -639,8 +639,12 @@ hash = "fff5930d01417bbb6d18bbc1338d183dcf96f4037d45b1fdcb457e20cf145d33"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlesystem-1.0.1.jar"
-hash = "8e9b8713ae48a1394233e6522eb7e6fa5d0eef889078cd7d168e895f75b301f0"
+file = "RequiredMods/Test/Both/Adventure/battlecontent-1.0.0.jar"
+hash = "2a3c26c12d05fb499aafa0e4223d08999240a0642705f75aaf90e93cbe746114"
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.1.0.jar"
+hash = "29259ffb61897deedc874e38c978368af2ae9facb8aa5d95bbec8c4e3227d3ef"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/better-lock-on.pw.toml"
@@ -962,8 +966,8 @@ hash = "a3c9b772845b9dab436aa5ba14b9596b314006ced8fbd2a6b0286dc0c70cf220"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/industry/basesystem-1.3.0.jar"
-hash = "a09c9611c0817f33c9f4b9d4d6fdd63daf350ac44ef6e4134b4e8710ab12a8b1"
+file = "RequiredMods/Test/Both/industry/basesystem-1.3.1.jar"
+hash = "1f6ca11c017a31c3e79c1216cfdabe349f99392c3fcc335bca2d6ca64ecc2ac5"
 
 [[files]]
 file = "RequiredMods/Test/Both/industry/effortless-building.pw.toml"
