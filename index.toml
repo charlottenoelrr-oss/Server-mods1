@@ -643,6 +643,11 @@ file = "RequiredMods/Test/Both/Adventure/battlesystem-1.0.1.jar"
 hash = "8e9b8713ae48a1394233e6522eb7e6fa5d0eef889078cd7d168e895f75b301f0"
 
 [[files]]
+file = "RequiredMods/Test/Both/Adventure/better-lock-on.pw.toml"
+hash = "ca62ca1a7ef0eddd70dc26c707bb0f41b92aca85c7f7695e5535cccd352e9173"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Test/Both/Adventure/borninchaos.pw.toml"
 hash = "a2c8cf1a4fc5faed55ca1f8d04f7abaa1c8282b9bcd70e1b3e607181923f48d9"
 metafile = true
@@ -1108,6 +1113,10 @@ metafile = true
 [[files]]
 file = "config/adaptive_nemesis-server.toml"
 hash = "cab0ba4ea72e294c07d5e9954248cf47bc418bb17ad714eddcf0dcb8229938d6"
+
+[[files]]
+file = "config/betterlockon_client.toml"
+hash = "eae318598666a78493c39561098e94e0b9f0694de1524763e5155faaa9a197ac"
 
 [[files]]
 file = "config/block_factorys_bosses-client.toml"
@@ -1876,6 +1885,10 @@ hash = "74fc96e04bfd92c5fa73d2913a46da5b07f1ab201caf7cbef7bc9592dd90e8a4"
 [[files]]
 file = "kubejs/assets/betteradvancedtooltips/lang/ja_jp.json"
 hash = "71ae94c4cce71e8423e2bd5f8378fba4cf4c7f86046a13c9dbaaf7615d65a05a"
+
+[[files]]
+file = "kubejs/assets/betterlockon/lang/ja_jp.json"
+hash = "62035666b73b611d1332ffc6a379a463585f448118aaf731ed0693d730899776"
 
 [[files]]
 file = "kubejs/assets/biolith/lang/ja_jp.json"
