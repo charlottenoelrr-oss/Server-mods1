@@ -1127,6 +1127,10 @@ file = "config/block_factorys_bosses-server.toml"
 hash = "f824a7030b4ee227a9a733452f35d8936ba274d2fd587715ea6eba894a4b628f"
 
 [[files]]
+file = "config/epicfight-client.toml"
+hash = "ba7c8de2bc4fd130f0ca9861bbbe26375ceb8757ef79fceeda85a78fba3e2cfa"
+
+[[files]]
 file = "config/obscuria/aquamirae-early.json"
 hash = "95a6ce1a5c2bfdfc3c2842a171b34ddbbd69536c54521edce3086db3b4b4134c"
 
