@@ -643,8 +643,8 @@ file = "RequiredMods/Test/Both/Adventure/battlecontent-1.0.0.jar"
 hash = "2a3c26c12d05fb499aafa0e4223d08999240a0642705f75aaf90e93cbe746114"
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlesystem-1.7.0.jar"
-hash = "a70d53890757e972c3152d6005f8a49110ae719b8ee4438b426b3f3bef107d17"
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.9.1.jar"
+hash = "e0d68962b95861af99d1deb20d510531a09e91f2f0fa6fae887a3007419ebd10"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/better-lock-on.pw.toml"
