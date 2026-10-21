@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/interfacesystem-4.2.1.jar"
-hash = "6d24e964ba0a606a6030e0ad694fe5331b06f9bb10136f5151a679eba8e31658"
+file = "RequiredMods/Always/Both/Adventure/interfacesystem-4.3.0.jar"
+hash = "e0344ba3b4cd537dff1619057b06cba0d7b6b654fab69944da18353f122fb15b"
 
 [[files]]
 file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.5.0.jar"
@@ -643,8 +643,8 @@ file = "RequiredMods/Test/Both/Adventure/battlecontent-1.0.0.jar"
 hash = "2a3c26c12d05fb499aafa0e4223d08999240a0642705f75aaf90e93cbe746114"
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlesystem-1.1.0.jar"
-hash = "29259ffb61897deedc874e38c978368af2ae9facb8aa5d95bbec8c4e3227d3ef"
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.7.0.jar"
+hash = "a70d53890757e972c3152d6005f8a49110ae719b8ee4438b426b3f3bef107d17"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/better-lock-on.pw.toml"
@@ -1132,7 +1132,7 @@ hash = "f824a7030b4ee227a9a733452f35d8936ba274d2fd587715ea6eba894a4b628f"
 
 [[files]]
 file = "config/epicfight-client.toml"
-hash = "ba7c8de2bc4fd130f0ca9861bbbe26375ceb8757ef79fceeda85a78fba3e2cfa"
+hash = "6ba2fa2af1791ef32db209acc385fa85c5e6124cfbd90374fefd5a1da066b4ce"
 
 [[files]]
 file = "config/obscuria/aquamirae-early.json"

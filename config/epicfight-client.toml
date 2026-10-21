@@ -67,10 +67,10 @@ provider = "NULL"
 		lock_on_range = 20
 
 	[ingame.ui]
-		stamina_bar_x = 120
-		stamina_bar_y = 10
+		stamina_bar_x = -59
+		stamina_bar_y = 56
 		#Allowed Values: LEFT, RIGHT, CENTER
-		stamina_bar_x_base = "RIGHT"
+		stamina_bar_x_base = "CENTER"
 		#Allowed Values: TOP, BOTTOM, CENTER
 		stamina_bar_y_base = "BOTTOM"
 		weapon_innate_x = 42
