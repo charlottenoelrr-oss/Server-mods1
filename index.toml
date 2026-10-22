@@ -5,8 +5,8 @@ file = "RequiredMods/Always/Both/Adventure/interfacesystem-4.3.1.jar"
 hash = "8ae47b76d617c27b04ae1b3d6761c23e29998ce1d6adb3c10f9b3637a210bfbc"
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.5.0.jar"
-hash = "79b7d5b7a2495baa8a4627063bd5b044398586fbff06ce4d8c2625d8d19034c9"
+file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.6.0.jar"
+hash = "772fb5002773eb426869fcc66bea477cb21799b0f46df3debe6ff934c7ffcf7c"
 
 [[files]]
 file = "RequiredMods/Always/Both/industry/ad-astra-giselle-addon.pw.toml"
@@ -639,12 +639,12 @@ hash = "fff5930d01417bbb6d18bbc1338d183dcf96f4037d45b1fdcb457e20cf145d33"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlecontent-1.0.0.jar"
-hash = "2a3c26c12d05fb499aafa0e4223d08999240a0642705f75aaf90e93cbe746114"
+file = "RequiredMods/Test/Both/Adventure/battlecontent-1.3.2.jar"
+hash = "47d3ed66d8fee81199140a0d3e49d672b641aba143998a726576bddb2257cbfd"
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlesystem-1.10.0.jar"
-hash = "9e84befd96c3f627f8744610b35da883b490899e45fd9b85e1885e2efe2203c2"
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.12.0.jar"
+hash = "cb99d3b943ef0d0263b896ddcda45220c87d4c3a371e8fd8abab1b80c4b7a54c"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/better-lock-on.pw.toml"
@@ -1113,6 +1113,14 @@ metafile = true
 file = "RequiredMods/Test/Clients/Adventure/epicfightcurioscompat.pw.toml"
 hash = "39ae49c63bbd3451554a26e66268f4ed38b51c949641442d7f6a193d15fa8d50"
 metafile = true
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/apotheosis/gear_sets/cultist.json"
+hash = "88d34ef214eab1900764731f856aeee1a9c4af5e740c19354ec1f2bff008118e"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/apotheosis/gear_sets/various/cultist.json"
+hash = "88d34ef214eab1900764731f856aeee1a9c4af5e740c19354ec1f2bff008118e"
 
 [[files]]
 file = "config/adaptive_nemesis-server.toml"
