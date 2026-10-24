@@ -1196,6 +1196,22 @@ file = "config/epicfight-client.toml"
 hash = "6ba2fa2af1791ef32db209acc385fa85c5e6124cfbd90374fefd5a1da066b4ce"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/industry.snbt"
+hash = "ea136bdea429069594bdddf1392cf65f4145ae99b945fa3bd7b39b36bc8cc372"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "bd7a2d1d226bac30c6762936f7cf9575b8996f6dd86cc7f1cfaf42652da59f8f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "1aa3fec92b8af4166945bd692a50d232c4aa5fc2b5e5bb82db81dcb286433da5"
+
+[[files]]
 file = "config/obscuria/aquamirae-early.json"
 hash = "95a6ce1a5c2bfdfc3c2842a171b34ddbbd69536c54521edce3086db3b4b4134c"
 

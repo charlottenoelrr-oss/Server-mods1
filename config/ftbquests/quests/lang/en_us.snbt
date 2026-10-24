@@ -1,0 +1,30 @@
+{
+	"chapter.304AE0A3EC25CEFF.title": "工業と拠点"
+	"chapter.304AE0A3EC25CEFF.chapter_subtitle": ["1 段階目: 拠点を建て、工業を回し、飛行船を作る"]
+	"quest.25162DC7C01E817F.title": "はじめに"
+	"quest.25162DC7C01E817F.quest_desc": ["ようこそ!この章は工業と拠点づくりの道しるべです。", "今の OW(地上)は資源を取る場所で、2 段階目でリセットされます。建物は拠点(BaseVoid)に建てましょう。", "チェックを押して始めよう。"]
+	"quest.20B522AF1B8AB4A1.title": "拠点へ"
+	"quest.20B522AF1B8AB4A1.quest_desc": ["/base go(またはインベントリの Base タブ)で、拠点用の世界 BaseVoid へ行こう。", "5 秒の詠唱のあと移動します。"]
+	"quest.9E6ADD1FC314B2EC.title": "Create のはじまり"
+	"quest.9E6ADD1FC314B2EC.quest_desc": ["安山岩合金で安山岩ケーシングを作ろう。Create の機械の土台です。"]
+	"quest.BA04FE3A8FEB4E21.title": "回転の力"
+	"quest.BA04FE3A8FEB4E21.quest_desc": ["水車で回転力(SU)を作ろう。Create の機械はこれで動きます。"]
+	"quest.1F62C1D383FD26D6.title": "真鍮"
+	"quest.1F62C1D383FD26D6.quest_desc": ["ミキサーと加熱で真鍮を作ろう。高度な機械や船の部品に使います。"]
+	"quest.13CD31729021EE2E.title": "空へ"
+	"quest.13CD31729021EE2E.quest_desc": ["プロペラベアリングと気嚢(エンベロープ)で、飛行船づくりを始めよう。", "飛行船は 2 段階目の冒険の足になります。"]
+	"quest.FD468640DCDA3507.title": "Mekanism のはじまり"
+	"quest.FD468640DCDA3507.quest_desc": ["冶金吹込機を作ろう。Mekanism の合金づくりの入口です。"]
+	"quest.3F6DF92C990C3DBA.title": "鉱石を増やす"
+	"quest.3F6DF92C990C3DBA.quest_desc": ["濃縮室で鉱石を 2 倍にしよう。"]
+	"quest.FE43426208D2F2CB.title": "発電"
+	"quest.FE43426208D2F2CB.quest_desc": ["熱発電機で電気を作ろう。(溶岩生成機はこのサーバーでは作れません)"]
+	"quest.01D54C9B27354B9A.title": "AE2 のはじまり"
+	"quest.01D54C9B27354B9A.quest_desc": ["ケルタスクォーツの水晶を手に入れよう。"]
+	"quest.E83B32B48615DFE6.title": "ME ネットワーク"
+	"quest.E83B32B48615DFE6.quest_desc": ["ME コントローラーを作って、倉庫をネットワークにまとめよう。"]
+	"quest.C2F8F2C52CCDFADD.title": "自動クラフト"
+	"quest.C2F8F2C52CCDFADD.quest_desc": ["パターンプロバイダーで自動クラフトを組もう。"]
+	"quest.15B0257F7E662A7C.title": "新たな世界へ"
+	"quest.15B0257F7E662A7C.quest_desc": ["拠点・飛行船・工業の準備がそろった。", "リセットされた新しい世界へ、飛行船で冒険に出よう。"]
+}

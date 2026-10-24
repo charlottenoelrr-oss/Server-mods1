@@ -1,0 +1,105 @@
+{
+	id: "304AE0A3EC25CEFF"
+	filename: "industry"
+	group: ""
+	order_index: 0
+	icon: { id: "create:andesite_casing", count: 1 }
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quest_links: [ ]
+	quests: [
+		{
+			id: "25162DC7C01E817F"
+			x: 0.0d
+			y: 0.0d
+			dependencies: []
+			tasks: [{ id: "0F4246164B0B8692", type: "checkmark" }]
+		}
+		{
+			id: "20B522AF1B8AB4A1"
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["25162DC7C01E817F"]
+			tasks: [{ id: "884A3A85788799A7", type: "dimension", dimension: "basesystem:base_void" }]
+		}
+		{
+			id: "9E6ADD1FC314B2EC"
+			x: 0.0d
+			y: 2.0d
+			dependencies: ["25162DC7C01E817F"]
+			tasks: [{ id: "CB469E6734A12D2B", type: "item", item: { id: "create:andesite_casing", count: 1 } }]
+		}
+		{
+			id: "BA04FE3A8FEB4E21"
+			x: 2.0d
+			y: 2.0d
+			dependencies: ["9E6ADD1FC314B2EC"]
+			tasks: [{ id: "C3E96C6F388C3F53", type: "item", item: { id: "create:water_wheel", count: 1 } }]
+		}
+		{
+			id: "1F62C1D383FD26D6"
+			x: 4.0d
+			y: 2.0d
+			dependencies: ["BA04FE3A8FEB4E21"]
+			tasks: [{ id: "00F458A1409DE1B6", type: "item", item: { id: "create:brass_ingot", count: 1 } }]
+		}
+		{
+			id: "13CD31729021EE2E"
+			x: 6.0d
+			y: 2.0d
+			dependencies: ["1F62C1D383FD26D6"]
+			tasks: [{ id: "14E8A149FA05A97C", type: "item", item: { id: "aeronautics:propeller_bearing", count: 1 } }, { id: "C6C28D7B58488F51", type: "item", item: { id: "aeronautics:white_envelope", count: 1 } }]
+		}
+		{
+			id: "FD468640DCDA3507"
+			x: 0.0d
+			y: 4.0d
+			dependencies: ["25162DC7C01E817F"]
+			tasks: [{ id: "0709FAD90111B498", type: "item", item: { id: "mekanism:metallurgic_infuser", count: 1 } }]
+		}
+		{
+			id: "3F6DF92C990C3DBA"
+			x: 2.0d
+			y: 4.0d
+			dependencies: ["FD468640DCDA3507"]
+			tasks: [{ id: "726B3D118802E19A", type: "item", item: { id: "mekanism:enrichment_chamber", count: 1 } }]
+		}
+		{
+			id: "FE43426208D2F2CB"
+			x: 4.0d
+			y: 4.0d
+			dependencies: ["3F6DF92C990C3DBA"]
+			tasks: [{ id: "8EE582AAB8E4A65C", type: "item", item: { id: "mekanismgenerators:heat_generator", count: 1 } }]
+		}
+		{
+			id: "01D54C9B27354B9A"
+			x: 0.0d
+			y: 6.0d
+			dependencies: ["25162DC7C01E817F"]
+			tasks: [{ id: "6AFDFC1DF07EA06D", type: "item", item: { id: "ae2:certus_quartz_crystal", count: 1 } }]
+		}
+		{
+			id: "E83B32B48615DFE6"
+			x: 2.0d
+			y: 6.0d
+			dependencies: ["01D54C9B27354B9A"]
+			tasks: [{ id: "6C9C11A450760D69", type: "item", item: { id: "ae2:controller", count: 1 } }]
+		}
+		{
+			id: "C2F8F2C52CCDFADD"
+			x: 4.0d
+			y: 6.0d
+			dependencies: ["E83B32B48615DFE6"]
+			tasks: [{ id: "A1C300469B69C4C3", type: "item", item: { id: "ae2:pattern_provider", count: 1 } }]
+		}
+		{
+			id: "15B0257F7E662A7C"
+			x: 8.0d
+			y: 3.0d
+			dependencies: ["20B522AF1B8AB4A1", "13CD31729021EE2E", "FE43426208D2F2CB", "C2F8F2C52CCDFADD"]
+			tasks: [{ id: "234ED57D13CA12C3", type: "checkmark" }]
+			shape: "gear"
+			size: 2.0d
+		}
+	]
+}
