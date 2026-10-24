@@ -4,7 +4,7 @@
 # ゲームのフォルダは %APPDATA%\.minecraft_mr1(普段のマイクラとは分ける)
 
 $ErrorActionPreference = 'Stop'
-$NeoForgeVersion = '21.1.259'
+$NeoForgeVersion = '21.1.262'
 $VersionId = "neoforge-$NeoForgeVersion"
 $PackUrl = 'https://raw.githubusercontent.com/charlottenoelrr-oss/Server-mods1/main/pack.toml'
 $McDir = Join-Path $env:APPDATA '.minecraft'
