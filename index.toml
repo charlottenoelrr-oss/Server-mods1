@@ -9,6 +9,11 @@ file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.7.0.jar"
 hash = "d44ec130bdaa9425d135d6283fb77bcdbfcb481b220d7a833e1a3e14b1046d5a"
 
 [[files]]
+file = "RequiredMods/Always/Both/Adventure/party-hud.pw.toml"
+hash = "2a982860d2d8c5e5e1764670f9ba9e5dcdf43ce1c5635634ac08f563ee12f918"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Always/Both/Adventure/questsystem-1.1.0.jar"
 hash = "0d66affc789596662bb32cbb10465182ac93016317d6cbf3b1daa3e90134dfc1"
 
@@ -956,11 +961,6 @@ metafile = true
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/mowzies-mobs.pw.toml"
 hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Test/Both/Adventure/party-hud.pw.toml"
-hash = "2a982860d2d8c5e5e1764670f9ba9e5dcdf43ce1c5635634ac08f563ee12f918"
 metafile = true
 
 [[files]]
