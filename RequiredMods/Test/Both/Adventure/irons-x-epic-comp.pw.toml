@@ -1,0 +1,13 @@
+name = "Iron Spells  X Epic Fight"
+filename = "irons-spells-epicfight-armor-compat-1.7.2-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "216b22089c786791a1278988a310820e9bda944c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9127582
+project-id = 1664976

@@ -924,6 +924,11 @@ hash = "4623bbc102dd3b7648a96569a1ab49b868774d46355b305ac40c4c79ad1c74e2"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/Adventure/irons-x-epic-comp.pw.toml"
+hash = "7c4f7c50c4340168cfac65b175bc3c82c989a907ca087c9df48121fbd8f0539f"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Test/Both/Adventure/isskjs.pw.toml"
 hash = "57db227711481c9b6fbc89a5ea04f2810c9f27035baa7f33437a80a94ae9609f"
 metafile = true
