@@ -1034,9 +1034,8 @@ hash = "b00c0688ca94ab1257b8f69b472c14ba49b62bdf77f5703d012687e545ae23b8"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/vynxs-expansion-irons-spells-addon.pw.toml"
-hash = "34607fde499ff4381b411b09a05f408b25d7adad666cef02c3995dda577f0ed1"
-metafile = true
+file = "RequiredMods/Test/Both/Adventure/vynxs_expansion-0.9.0.jar"
+hash = "13cb79b327007a22f36d7bf99bc9a5eb8eaebe7610d6aec49db154cc4bdb894e"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/winds-spellbooks.pw.toml"
