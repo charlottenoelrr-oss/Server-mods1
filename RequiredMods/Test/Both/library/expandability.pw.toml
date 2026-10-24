@@ -1,0 +1,13 @@
+name = "Expandability"
+filename = "expandability-neoforge-14.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X5dUUm4k/versions/OpnqfJde/expandability-neoforge-14.0.0.jar"
+hash-format = "sha512"
+hash = "3151080acdf8f846d9bc75bbfab9be6e7d982ff97957ed7e3daa749a7e58c421386605f61e46b6a4e84882f80e73ed5471f0340547d05febcdb93cfe2cc438bb"
+
+[update]
+[update.modrinth]
+mod-id = "X5dUUm4k"
+version = "OpnqfJde"

@@ -434,6 +434,11 @@ hash = "d613025b9f782e2e55c871109877fb1db35586553653401876e33770f69e7efb"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Always/Clients/industry/ae2-tooltip-fix.pw.toml"
+hash = "eddc1685b8e00dd7513ff81e29d1aa4c36ea85287852366aa7087eb867ee06fb"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Always/Clients/industry/better-advanced-tooltips.pw.toml"
 hash = "d9f912d43efb74c5ed07a3a9ef1cb078cec2bcdf369e05637d698e84f1fb67d6"
 metafile = true
@@ -624,6 +629,11 @@ hash = "a0e1131ed6d7fab5650544ee043831f5709eb80d3cf2ea31ce18d7427e5915a2"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/Adventure/asterism-arcanum-addon-for-irons-spells-and-spellbooks.pw.toml"
+hash = "4616b2cdf03834bd2b8d39b2afabc0a79f6a91de5633f175a9cc3f95e62ab666"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Test/Both/Adventure/attributefix.pw.toml"
 hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
@@ -707,6 +717,21 @@ hash = "eedfba7c42113671df742d7c3e264799e7a90c42068470ddadb2506c5d1db9e7"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-bks-armaments.pw.toml"
+hash = "cfaed0ff5a2cdc7a8ad91a4373f3c3c2f143d74d8c1858fad5366ca6c2d4d17f"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-bks-poise-stance.pw.toml"
+hash = "f8ec4c897b9762e51eb7172941425f3a5a34111bb9bbc5a8bfa79c2af2b5e097"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-bks-weapon-skills.pw.toml"
+hash = "e762dca01d9a3c77ef85ba14e2c6a7f7fe1cf2eed41b25290192b42355019ae7"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Test/Both/Adventure/epic-fight-dawn-day.pw.toml"
 hash = "ef4af0b6aa741f9a76b44c017dd04e63e8a9f170f66a585b451071c02d565995"
 metafile = true
@@ -729,6 +754,16 @@ metafile = true
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/epic-fight-rapier-moveset-addon.pw.toml"
 hash = "1bfdc596ebacf8abce5168506e413474a5706d1838d999c2103edbd8e935bca6"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-skill-tree.pw.toml"
+hash = "d9ff092ebd50d8f51113e435594b582bc0622a3c054d1d68c36bda74d10a12d6"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/epic-fight-sword-soaring.pw.toml"
+hash = "acb6cc48a15556907f10214a151f3a40bb992d81a1fb30d091a28dd8d3b64c99"
 metafile = true
 
 [[files]]
@@ -827,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/irons-spells-n-spellbooks-chronomancy.pw.toml"
-hash = "30c8e235b232599da1d2b000564606af3ecd178cb50e17280ecfeec12b29f810"
+hash = "24adcda44e9915e8ec1e8706d34912825beb6a38fc438169dd559028d0928720"
 metafile = true
 
 [[files]]
@@ -956,6 +991,11 @@ hash = "b00c0688ca94ab1257b8f69b472c14ba49b62bdf77f5703d012687e545ae23b8"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/Adventure/vynxs-expansion-irons-spells-addon.pw.toml"
+hash = "34607fde499ff4381b411b09a05f408b25d7adad666cef02c3995dda577f0ed1"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Test/Both/Adventure/winds-spellbooks.pw.toml"
 hash = "e174ded612bdae826523460c671f0486e68b769007c41cb892fab4b22809ac02"
 metafile = true
@@ -1022,6 +1062,11 @@ metafile = true
 [[files]]
 file = "RequiredMods/Test/Both/library/cobweb.pw.toml"
 hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/expandability.pw.toml"
+hash = "a2e42135fc3d50cf297323abab50d73767a4ab79722bba1efc67891e0a088319"
 metafile = true
 
 [[files]]

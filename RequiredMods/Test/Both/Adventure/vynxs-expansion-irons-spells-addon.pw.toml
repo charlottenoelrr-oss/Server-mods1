@@ -1,0 +1,13 @@
+name = "Vynx's Expansion - Iron's Spells Addon"
+filename = "vynxs_expansion-0.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7de468432ab8e7687240eb27f06fca9b99d2b282"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9243204
+project-id = 1719874
