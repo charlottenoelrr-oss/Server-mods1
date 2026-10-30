@@ -717,12 +717,12 @@ hash = "fff5930d01417bbb6d18bbc1338d183dcf96f4037d45b1fdcb457e20cf145d33"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlecontent-1.3.2.jar"
-hash = "47d3ed66d8fee81199140a0d3e49d672b641aba143998a726576bddb2257cbfd"
+file = "RequiredMods/Test/Both/Adventure/battlecontent-2.2.0.jar"
+hash = "67af431b7b6a09ad9579539e2c875b27e23517aca38e9628643cffb3bf4aef09"
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlesystem-1.12.0.jar"
-hash = "cb99d3b943ef0d0263b896ddcda45220c87d4c3a371e8fd8abab1b80c4b7a54c"
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.14.0.jar"
+hash = "1346bd5a2260e2f91768acdcde39eae428370d59b927fe29b95b0198352adbb4"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/better-lock-on.pw.toml"
@@ -783,6 +783,10 @@ metafile = true
 file = "RequiredMods/Test/Both/Adventure/discerning-the-eldritch.pw.toml"
 hash = "eedfba7c42113671df742d7c3e264799e7a90c42068470ddadb2506c5d1db9e7"
 metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/enemiessystem-0.1.0.jar"
+hash = "c5c0c2be07f3811c5fa84b09ccb65732c7348d295d8af4f30b90244a5465778e"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/epic-fight-dawn-day.pw.toml"
@@ -877,6 +881,10 @@ metafile = true
 file = "RequiredMods/Test/Both/Adventure/galosphere.pw.toml"
 hash = "a87a4a2c45223994ce2024026d9c88b93712cf1fa915279d0ba5e8e7090b5583"
 metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/Adventure/global_tier-1.0.1.jar"
+hash = "f37d75862f0368abd025e29060c3be17a63cfda4a808f19c07b26f16a40eadcd"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/gtbcs-geomancy-plus.pw.toml"
