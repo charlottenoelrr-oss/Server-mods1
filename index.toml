@@ -717,6 +717,11 @@ hash = "fff5930d01417bbb6d18bbc1338d183dcf96f4037d45b1fdcb457e20cf145d33"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/Adventure/axiom.pw.toml"
+hash = "d583458696a2d7917ecbac06f0455353a95f2d1a38ece9b71f20ed8ff556949d"
+metafile = true
+
+[[files]]
 file = "RequiredMods/Test/Both/Adventure/battlecontent-2.2.0.jar"
 hash = "67af431b7b6a09ad9579539e2c875b27e23517aca38e9628643cffb3bf4aef09"
 
@@ -1093,6 +1098,11 @@ metafile = true
 [[files]]
 file = "RequiredMods/Test/Both/library/expandability.pw.toml"
 hash = "567cbaa3eec8151eed80d01a72a898e15d02a93a13c5b5362b592e5ed8434675"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/forgified-fabric-api.pw.toml"
+hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
 metafile = true
 
 [[files]]
@@ -2596,8 +2606,13 @@ file = "kubejs/startup_scripts/mek_gear_nerfs_damage.js"
 hash = "017e8de1090d58f138fb59681dc2bab1b3562c97668f56449c594b53bae0c2c4"
 
 [[files]]
-file = "mods/ServerManager-1.1.3.jar"
-hash = "ee213994e28458dd2994f23375f6b23acb16db72ca17fba11ef9e1d19d3c124f"
+file = "mods/ServerManager-1.1.4.jar"
+hash = "03ce7459a01e819d8445eebec685b024f2d29ec0937e941f3a8d9b6ebd52fd01"
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "127ef479277e6156f1f53c6c11955076d64d38a947efb1745efe3285eb447b31"
+metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
