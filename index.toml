@@ -1096,11 +1096,6 @@ hash = "567cbaa3eec8151eed80d01a72a898e15d02a93a13c5b5362b592e5ed8434675"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/library/forgified-fabric-api.pw.toml"
-hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Test/Both/library/fragmentum.pw.toml"
 hash = "20a6fed49a56d88d939ce6990ae7088faa80887e6baeef317aa11d53a398db40"
 metafile = true
@@ -1163,11 +1158,6 @@ metafile = true
 [[files]]
 file = "RequiredMods/Test/Both/library/sl-library.pw.toml"
 hash = "09c2e1067f041bebae2c246c6e578f3c348b1f1762662fd894dd6606d978b1ab"
-metafile = true
-
-[[files]]
-file = "RequiredMods/Test/Clients/Adventure/axiom.pw.toml"
-hash = "cf43d45dce7213dc668b39e1ef8c41dbff04dfc53d9ca687847841dd396233bc"
 metafile = true
 
 [[files]]
@@ -2606,13 +2596,8 @@ file = "kubejs/startup_scripts/mek_gear_nerfs_damage.js"
 hash = "017e8de1090d58f138fb59681dc2bab1b3562c97668f56449c594b53bae0c2c4"
 
 [[files]]
-file = "mods/ServerManager-1.1.4.jar"
-hash = "03ce7459a01e819d8445eebec685b024f2d29ec0937e941f3a8d9b6ebd52fd01"
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "127ef479277e6156f1f53c6c11955076d64d38a947efb1745efe3285eb447b31"
-metafile = true
+file = "mods/ServerManager-1.1.3.jar"
+hash = "ee213994e28458dd2994f23375f6b23acb16db72ca17fba11ef9e1d19d3c124f"
 
 [[files]]
 file = "mods/saturn.pw.toml"
