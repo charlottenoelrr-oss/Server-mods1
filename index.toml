@@ -717,11 +717,6 @@ hash = "fff5930d01417bbb6d18bbc1338d183dcf96f4037d45b1fdcb457e20cf145d33"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/axiom.pw.toml"
-hash = "d583458696a2d7917ecbac06f0455353a95f2d1a38ece9b71f20ed8ff556949d"
-metafile = true
-
-[[files]]
 file = "RequiredMods/Test/Both/Adventure/battlecontent-2.2.0.jar"
 hash = "67af431b7b6a09ad9579539e2c875b27e23517aca38e9628643cffb3bf4aef09"
 
@@ -1168,6 +1163,11 @@ metafile = true
 [[files]]
 file = "RequiredMods/Test/Both/library/sl-library.pw.toml"
 hash = "09c2e1067f041bebae2c246c6e578f3c348b1f1762662fd894dd6606d978b1ab"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Clients/Adventure/axiom.pw.toml"
+hash = "cf43d45dce7213dc668b39e1ef8c41dbff04dfc53d9ca687847841dd396233bc"
 metafile = true
 
 [[files]]
