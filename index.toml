@@ -5,8 +5,8 @@ file = "RequiredMods/Always/Both/Adventure/interfacesystem-4.4.0.jar"
 hash = "33995c98944d33af6325c3510c4eec3e26ce5b52545b17826a289b16cd0949ec"
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.7.0.jar"
-hash = "d44ec130bdaa9425d135d6283fb77bcdbfcb481b220d7a833e1a3e14b1046d5a"
+file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.8.0.jar"
+hash = "d756eca0439f3265d4e7b796c16b0821f588b804c1121be514167c03b8e10338"
 
 [[files]]
 file = "RequiredMods/Always/Both/Adventure/party-hud.pw.toml"
@@ -1093,6 +1093,11 @@ metafile = true
 [[files]]
 file = "RequiredMods/Test/Both/library/expandability.pw.toml"
 hash = "567cbaa3eec8151eed80d01a72a898e15d02a93a13c5b5362b592e5ed8434675"
+metafile = true
+
+[[files]]
+file = "RequiredMods/Test/Both/library/forgified-fabric-api.pw.toml"
+hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
 metafile = true
 
 [[files]]
