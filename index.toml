@@ -612,6 +612,10 @@ hash = "8690379014fbba53059759936c7deb4d62aabc7a2006da3d45929dc582b119b7"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Always/ServerOnlys/library/serverpanel_link-1.0.0.jar"
+hash = "bcd0dd5063b228edc54fdb6b0e827404466b92831e33a914ff7dd13c881cab07"
+
+[[files]]
 file = "RequiredMods/Always/ServerOnlys/library/simple-backups.pw.toml"
 hash = "bb3916bd466676b43fa6e5298a964c445191fa9178b956bf1692cc08249069a1"
 metafile = true
