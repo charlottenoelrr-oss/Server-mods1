@@ -798,8 +798,8 @@ hash = "eedfba7c42113671df742d7c3e264799e7a90c42068470ddadb2506c5d1db9e7"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/enemiessystem-0.3.1.jar"
-hash = "97bb92721ab05af25b491dae9ba7c8573d0eb3724512028c0a2e39c6ba08353e"
+file = "RequiredMods/Test/Both/Adventure/enemiessystem-0.3.2.jar"
+hash = "8387d5d3b9cf5077080e1d70a57bf2d10548e14233110886936845585ebcf74d"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/epic-fight-dawn-day.pw.toml"
