@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "RequiredMods/Always/Both/Adventure/discordshot-1.0.0.jar"
+hash = "9ddf6ecb42723e08628e68846301812725b479c74ff3fa7b57e51c682ea69557"
+
+[[files]]
 file = "RequiredMods/Always/Both/Adventure/interfacesystem-4.4.0.jar"
 hash = "33995c98944d33af6325c3510c4eec3e26ce5b52545b17826a289b16cd0949ec"
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.8.0.jar"
-hash = "d756eca0439f3265d4e7b796c16b0821f588b804c1121be514167c03b8e10338"
+file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.9.0.jar"
+hash = "bd2c08e0ccbcf5719f9efb08aaaefe16e05beba9d3e851f7e28434a4c562b5d2"
 
 [[files]]
 file = "RequiredMods/Always/Both/Adventure/party-hud.pw.toml"
@@ -612,8 +616,8 @@ hash = "8690379014fbba53059759936c7deb4d62aabc7a2006da3d45929dc582b119b7"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Always/ServerOnlys/library/serverpanel_link-1.0.0.jar"
-hash = "bcd0dd5063b228edc54fdb6b0e827404466b92831e33a914ff7dd13c881cab07"
+file = "RequiredMods/Always/ServerOnlys/library/serverpanel_link-1.1.0.jar"
+hash = "b0e58f304c690534f94956511d737c96657fb9b325a1b4452a36ea401a4c59a4"
 
 [[files]]
 file = "RequiredMods/Always/ServerOnlys/library/simple-backups.pw.toml"
@@ -1188,6 +1192,10 @@ metafile = true
 file = "RequiredMods/Test/Clients/Adventure/epicfightcurioscompat.pw.toml"
 hash = "39ae49c63bbd3451554a26e66268f4ed38b51c949641442d7f6a193d15fa8d50"
 metafile = true
+
+[[files]]
+file = "RequiredMods/Test/ServerOnlys/Adventure/testroom-1.0.0.jar"
+hash = "72f7ed11e8234c19321f4904ab9f4aa5ef459b16417b1e220fee945934f98d28"
 
 [[files]]
 file = "RequiredMods/Test/overrides/kubejs/data/apotheosis/gear_sets/cultist.json"
