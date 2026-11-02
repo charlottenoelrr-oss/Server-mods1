@@ -1,0 +1,4 @@
+{
+  "_note": "Executing(体力が一定の割合を切ると処刑)を付かなくする。強すぎるため 2026-11-01",
+  "neoforge:conditions": [ { "type": "neoforge:false" } ]
+}

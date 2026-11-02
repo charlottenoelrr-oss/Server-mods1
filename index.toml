@@ -18,8 +18,8 @@ hash = "2a982860d2d8c5e5e1764670f9ba9e5dcdf43ce1c5635634ac08f563ee12f918"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/questsystem-1.1.0.jar"
-hash = "0d66affc789596662bb32cbb10465182ac93016317d6cbf3b1daa3e90134dfc1"
+file = "RequiredMods/Always/Both/Adventure/questsystem-1.2.0.jar"
+hash = "bdef1e143a052d8919d8e6172be9e03a9545fda3e0aca6c0ec740ffaa917b9a9"
 
 [[files]]
 file = "RequiredMods/Always/Both/industry/ad-astra-giselle-addon.pw.toml"
@@ -798,8 +798,8 @@ hash = "eedfba7c42113671df742d7c3e264799e7a90c42068470ddadb2506c5d1db9e7"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/enemiessystem-0.3.2.jar"
-hash = "8387d5d3b9cf5077080e1d70a57bf2d10548e14233110886936845585ebcf74d"
+file = "RequiredMods/Test/Both/Adventure/enemiessystem-0.3.3.jar"
+hash = "7c0f0d19e649496bfe08dade135d561a2a48d5a30c739c87363c102b8be1fda6"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/epic-fight-dawn-day.pw.toml"
@@ -1198,12 +1198,220 @@ file = "RequiredMods/Test/ServerOnlys/Adventure/testroom-1.0.0.jar"
 hash = "72f7ed11e8234c19321f4904ab9f4aa5ef459b16417b1e220fee945934f98d28"
 
 [[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/apotheosis/affixes/melee/executing.json"
+hash = "6db2a0c4fd7e31ea69d01fc74dd28b3543e2703ea4663a82fbc8de1991b14c18"
+
+[[files]]
 file = "RequiredMods/Test/overrides/kubejs/data/apotheosis/gear_sets/cultist.json"
 hash = "88d34ef214eab1900764731f856aeee1a9c4af5e740c19354ec1f2bff008118e"
 
 [[files]]
 file = "RequiredMods/Test/overrides/kubejs/data/apotheosis/gear_sets/various/cultist.json"
 hash = "88d34ef214eab1900764731f856aeee1a9c4af5e740c19354ec1f2bff008118e"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/apothic_compats/affixes/scythe/ancient/executing.json"
+hash = "6db2a0c4fd7e31ea69d01fc74dd28b3543e2703ea4663a82fbc8de1991b14c18"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/apothic_compats/affixes/scythe/executing.json"
+hash = "6db2a0c4fd7e31ea69d01fc74dd28b3543e2703ea4663a82fbc8de1991b14c18"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/apothic_compats/affixes/staff/ancient/executing.json"
+hash = "6db2a0c4fd7e31ea69d01fc74dd28b3543e2703ea4663a82fbc8de1991b14c18"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/apothic_compats/affixes/staff/executing.json"
+hash = "6db2a0c4fd7e31ea69d01fc74dd28b3543e2703ea4663a82fbc8de1991b14c18"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/birch_branches.json"
+hash = "f337b255de7350a7d3165a1de4fda68af42f1dee25848fabb29bad0bd3910472"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/bonescaller_staff.json"
+hash = "d590b8014095458cd3b717c872edd94d4e2b5caa6763fbdb5fbd3ef8328f47a7"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/carrot_sword.json"
+hash = "f337b255de7350a7d3165a1de4fda68af42f1dee25848fabb29bad0bd3910472"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/dark_ritual_dagger.json"
+hash = "055826a19ae44331a761b5e1b8b27784b7a4c0db0036a4771b49c4ea32125817"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/darkwarblade.json"
+hash = "4e7726cc209369456f26d81248b2760924bd9b9a0db00e69b0ad0aa054214d1e"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/frostbitten_blade.json"
+hash = "f337b255de7350a7d3165a1de4fda68af42f1dee25848fabb29bad0bd3910472"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/great_reaper_axe.json"
+hash = "88c5bae4cec37f821e47c05e7f7a3412b58fac47a3be2e6520396efcc77d4515"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/icy_sweetness.json"
+hash = "f337b255de7350a7d3165a1de4fda68af42f1dee25848fabb29bad0bd3910472"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/intoxicating_dagger.json"
+hash = "055826a19ae44331a761b5e1b8b27784b7a4c0db0036a4771b49c4ea32125817"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/nightmare_scythe.json"
+hash = "a97e3a37048e52c917a1bc6eabda09415784a504fe54a72cf071a5b02dca9325"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/nut_hammer.json"
+hash = "6e65487bea5b824b32e611cba3132eb0471fdf74d546192ade00c2ae42feb204"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/pumpkinstaffa.json"
+hash = "d590b8014095458cd3b717c872edd94d4e2b5caa6763fbdb5fbd3ef8328f47a7"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/sharpened_dark_metal_sword.json"
+hash = "f337b255de7350a7d3165a1de4fda68af42f1dee25848fabb29bad0bd3910472"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/shell_mace.json"
+hash = "6e65487bea5b824b32e611cba3132eb0471fdf74d546192ade00c2ae42feb204"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/skullbreaker_hammer.json"
+hash = "6e65487bea5b824b32e611cba3132eb0471fdf74d546192ade00c2ae42feb204"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/soul_cutlass.json"
+hash = "5e4e83a269685d3fae266e1d916103c36637969de2e307d04e13a2175e7a36af"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/soulbane.json"
+hash = "f337b255de7350a7d3165a1de4fda68af42f1dee25848fabb29bad0bd3910472"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/spider_bite_sword.json"
+hash = "f337b255de7350a7d3165a1de4fda68af42f1dee25848fabb29bad0bd3910472"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/spiritual_sword.json"
+hash = "4e7726cc209369456f26d81248b2760924bd9b9a0db00e69b0ad0aa054214d1e"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/staff_of_magic_arrows.json"
+hash = "d590b8014095458cd3b717c872edd94d4e2b5caa6763fbdb5fbd3ef8328f47a7"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/staffof_blindness.json"
+hash = "d590b8014095458cd3b717c872edd94d4e2b5caa6763fbdb5fbd3ef8328f47a7"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/stop_hammer.json"
+hash = "88c5bae4cec37f821e47c05e7f7a3412b58fac47a3be2e6520396efcc77d4515"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/supreme_measure.json"
+hash = "88c5bae4cec37f821e47c05e7f7a3412b58fac47a3be2e6520396efcc77d4515"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/sweet_axe.json"
+hash = "6e65487bea5b824b32e611cba3132eb0471fdf74d546192ade00c2ae42feb204"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/sweet_sword.json"
+hash = "f337b255de7350a7d3165a1de4fda68af42f1dee25848fabb29bad0bd3910472"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/trident_hayfork.json"
+hash = "d590b8014095458cd3b717c872edd94d4e2b5caa6763fbdb5fbd3ef8328f47a7"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/weapons/wood_splitter_axe.json"
+hash = "6e65487bea5b824b32e611cba3132eb0471fdf74d546192ade00c2ae42feb204"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/broken_legends_blade.json"
+hash = "88c5bae4cec37f821e47c05e7f7a3412b58fac47a3be2e6520396efcc77d4515"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/broken_legends_staff.json"
+hash = "d590b8014095458cd3b717c872edd94d4e2b5caa6763fbdb5fbd3ef8328f47a7"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/cataclysm.json"
+hash = "4e7726cc209369456f26d81248b2760924bd9b9a0db00e69b0ad0aa054214d1e"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/cataclysm_awakened.json"
+hash = "4e7726cc209369456f26d81248b2760924bd9b9a0db00e69b0ad0aa054214d1e"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/deep_greatsword.json"
+hash = "88c5bae4cec37f821e47c05e7f7a3412b58fac47a3be2e6520396efcc77d4515"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/devourer.json"
+hash = "a97e3a37048e52c917a1bc6eabda09415784a504fe54a72cf071a5b02dca9325"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/devourer_awakened.json"
+hash = "a97e3a37048e52c917a1bc6eabda09415784a504fe54a72cf071a5b02dca9325"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/dream_reaver_ymir.json"
+hash = "4e7726cc209369456f26d81248b2760924bd9b9a0db00e69b0ad0aa054214d1e"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/forlorn_rapier.json"
+hash = "3fb8bfc62c3360500bfee6508b5eeee013d35f562fb338d0942a03c29a8224c0"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/forsaken_flamberge.json"
+hash = "88c5bae4cec37f821e47c05e7f7a3412b58fac47a3be2e6520396efcc77d4515"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/god_spear.json"
+hash = "d590b8014095458cd3b717c872edd94d4e2b5caa6763fbdb5fbd3ef8328f47a7"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/ice_spear.json"
+hash = "d590b8014095458cd3b717c872edd94d4e2b5caa6763fbdb5fbd3ef8328f47a7"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/mourning_star.json"
+hash = "6e65487bea5b824b32e611cba3132eb0471fdf74d546192ade00c2ae42feb204"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/mourning_star_awakened.json"
+hash = "6e65487bea5b824b32e611cba3132eb0471fdf74d546192ade00c2ae42feb204"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/ritual_dagger.json"
+hash = "055826a19ae44331a761b5e1b8b27784b7a4c0db0036a4771b49c4ea32125817"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/snowgrave.json"
+hash = "a97e3a37048e52c917a1bc6eabda09415784a504fe54a72cf071a5b02dca9325"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/soul_fire_scythe.json"
+hash = "a97e3a37048e52c917a1bc6eabda09415784a504fe54a72cf071a5b02dca9325"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/staff_of_ascension.json"
+hash = "d590b8014095458cd3b717c872edd94d4e2b5caa6763fbdb5fbd3ef8328f47a7"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/staff_of_eldritch.json"
+hash = "d590b8014095458cd3b717c872edd94d4e2b5caa6763fbdb5fbd3ef8328f47a7"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/ymir.json"
+hash = "4e7726cc209369456f26d81248b2760924bd9b9a0db00e69b0ad0aa054214d1e"
 
 [[files]]
 file = "config/adaptive_nemesis-server.toml"
