@@ -9,8 +9,8 @@ file = "RequiredMods/Always/Both/Adventure/interfacesystem-4.4.0.jar"
 hash = "33995c98944d33af6325c3510c4eec3e26ce5b52545b17826a289b16cd0949ec"
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.9.0.jar"
-hash = "bd2c08e0ccbcf5719f9efb08aaaefe16e05beba9d3e851f7e28434a4c562b5d2"
+file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.9.1.jar"
+hash = "1fd403aa8663fd3c045a911e275d7b87f1f7334486817ef123a2db06a821100e"
 
 [[files]]
 file = "RequiredMods/Always/Both/Adventure/party-hud.pw.toml"
