@@ -9,8 +9,8 @@ file = "RequiredMods/Always/Both/Adventure/interfacesystem-4.4.0.jar"
 hash = "33995c98944d33af6325c3510c4eec3e26ce5b52545b17826a289b16cd0949ec"
 
 [[files]]
-file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.9.2.jar"
-hash = "8749d76a9b9e4c762fcc95ebce6435b891f44c630dcd750133cdac62f9893b8c"
+file = "RequiredMods/Always/Both/Adventure/mr1_patches-1.9.3.jar"
+hash = "f0676127a9644cfc136cf5de9535022eb4cd95d27e07d06536d1a47fc493ab0b"
 
 [[files]]
 file = "RequiredMods/Always/Both/Adventure/party-hud.pw.toml"
@@ -734,8 +734,8 @@ file = "RequiredMods/Test/Both/Adventure/battlecontent-2.2.0.jar"
 hash = "67af431b7b6a09ad9579539e2c875b27e23517aca38e9628643cffb3bf4aef09"
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlesystem-1.14.0.jar"
-hash = "1346bd5a2260e2f91768acdcde39eae428370d59b927fe29b95b0198352adbb4"
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.16.0.jar"
+hash = "2645bd9ad3dab358258f7d8adcb541e84f165dcae632366bb4be5863d7de35d9"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/better-lock-on.pw.toml"
@@ -798,8 +798,8 @@ hash = "eedfba7c42113671df742d7c3e264799e7a90c42068470ddadb2506c5d1db9e7"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/enemiessystem-0.3.5.jar"
-hash = "af8e37fd00663ba9ed78a9faa528c5d91dc136b2015b72374c1756ab2081e893"
+file = "RequiredMods/Test/Both/Adventure/enemiessystem-0.3.8.jar"
+hash = "5fe0395491a5e46d0b695d52192027c626be5bc3bf5ef3005f00ea02374a776c"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/epic-fight-dawn-day.pw.toml"
@@ -1428,6 +1428,10 @@ hash = "62fec4a03a61e3aeca95a57c1cf95b75839a858eb0a7415ab224a3777d1923fc"
 [[files]]
 file = "config/block_factorys_bosses-server.toml"
 hash = "f824a7030b4ee227a9a733452f35d8936ba274d2fd587715ea6eba894a4b628f"
+
+[[files]]
+file = "config/combat_evolution-common.toml"
+hash = "ab2ec4ddff377de92c5dbac3c8d4c64b3f82c9b05bb86f40c36f1139b1a06f2d"
 
 [[files]]
 file = "config/epicfight-client.toml"
