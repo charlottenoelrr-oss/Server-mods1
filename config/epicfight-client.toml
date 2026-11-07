@@ -68,7 +68,7 @@ provider = "NULL"
 
 	[ingame.ui]
 		stamina_bar_x = -59
-		stamina_bar_y = 56
+		stamina_bar_y = -100
 		#Allowed Values: LEFT, RIGHT, CENTER
 		stamina_bar_x_base = "CENTER"
 		#Allowed Values: TOP, BOTTOM, CENTER

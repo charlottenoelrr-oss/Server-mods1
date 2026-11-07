@@ -734,8 +734,8 @@ file = "RequiredMods/Test/Both/Adventure/battlecontent-2.2.0.jar"
 hash = "67af431b7b6a09ad9579539e2c875b27e23517aca38e9628643cffb3bf4aef09"
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlesystem-1.16.0.jar"
-hash = "2645bd9ad3dab358258f7d8adcb541e84f165dcae632366bb4be5863d7de35d9"
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.16.3.jar"
+hash = "b6ab9246ce1ffa33f099b461290e197c77aab86db461e83a0a8256d6925d4746"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/better-lock-on.pw.toml"
@@ -798,8 +798,8 @@ hash = "eedfba7c42113671df742d7c3e264799e7a90c42068470ddadb2506c5d1db9e7"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/enemiessystem-0.3.8.jar"
-hash = "5fe0395491a5e46d0b695d52192027c626be5bc3bf5ef3005f00ea02374a776c"
+file = "RequiredMods/Test/Both/Adventure/enemiessystem-0.3.9.jar"
+hash = "9d55549eb73fb88dacc9f424707bfd8213c62878e9a6642dbf837c2b0a711478"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/epic-fight-dawn-day.pw.toml"
@@ -1435,7 +1435,7 @@ hash = "ab2ec4ddff377de92c5dbac3c8d4c64b3f82c9b05bb86f40c36f1139b1a06f2d"
 
 [[files]]
 file = "config/epicfight-client.toml"
-hash = "6ba2fa2af1791ef32db209acc385fa85c5e6124cfbd90374fefd5a1da066b4ce"
+hash = "efbc952aa848ea3dc889be7543ce1653efaab888e7c0d30ba1627447eb8c3e79"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
