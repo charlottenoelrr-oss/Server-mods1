@@ -1,0 +1,8 @@
+name = "CataclysmicArsenal"
+filename = "CataclysmicArsenal-0.6.1.3+1.21.1[NeoForge]-c333.jar"
+side = "both"
+
+[download]
+url = "https://github.com/charlottenoelrr-oss/Server-mods1/releases/download/jars/CataclysmicArsenal-0.6.1.3-1.21.1-NeoForge-c333.jar"
+hash-format = "sha512"
+hash = "e863275a9305bc5d52ba6e30b80371c21069fd843452f4bc1ce86420e2ed0920c5d2d5c77b60884f63e02a37b24a6b948ee289e6477bb3ae979ec9e041d48321"
