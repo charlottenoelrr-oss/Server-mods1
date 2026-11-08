@@ -1,0 +1,42 @@
+// 攻撃で体勢を削る量(BattleSystem 1.17.0)。敵にもプレイヤーにも同じ表を使う。
+// 敵 = 体勢がたまる(満タンでダウン)/ プレイヤー = 体勢が減る(0 でダウン)。
+// 受けたダメージの量は使わない(耐性・防具で 0 でも削れる)。直したら /reload で読み直す。
+// 仕様: docs\体勢_仕様.md
+//
+// 量 = 元の値 × 属性の倍率 → hits(重撃・ひるみ)→ 攻撃した側の deal → 受けた側の take
+// 元の値: motions に載っている動きならその値。無ければ武器の normal(ふつう)か skill(固有スキル中)
+//         武器は weapons(アイテムの ID・#タグ)→ categories(Epic Fight の武器の種類)→ default の順に探す
+// 補正: {"add": 15} = 足す / {"mul": 0.5} = 掛ける / 両方 = 掛けてから足す
+{
+  "default": { "normal": 1.5, "skill": 12 },
+
+  // アイテムの ID か #タグ。書いていない方(normal・skill)は default の値
+  // 例: "minecraft:mace": { "normal": 6 }
+  "weapons": {
+  },
+
+  // Epic Fight の武器の種類(小文字): sword longsword greatsword tachi uchigatana spear dagger axe fist trident など
+  // 例: "greatsword": { "normal": 3, "skill": 18 }
+  "categories": {
+  },
+
+  // 動きの名前。Epic Fight の登録名("epicfight:biped/combat/sword_dash")か、短い形("epicfight:sword_dash")
+  // 例: "epicfight:sword_dash": 25
+  "motions": {
+  },
+
+  // 重撃・ひるみの攻撃(ボスの台本の hit: Hit.Heavy / Hit.Flinch、プレイヤーのパリィの重撃)
+  "hits": {
+    "heavy": { "add": 20 },
+    "flinch": { "add": 10 }
+  },
+
+  // 敵ごとの補正。キー = エンティティの ID・#タグ・EnemiesSystem のボス("enemiessystem:Turquoise")
+  // deal = その敵が相手を削る量 / take = その敵が削られる量。当てはまる物は全部かかる
+  // 例: "enemiessystem:Turquoise": { "deal": { "mul": 1.5 }, "take": { "mul": 0.5 } }
+  "entities": {
+  },
+
+  // プレイヤー全員の補正(deal = プレイヤーが削る量 / take = プレイヤーが削られる量)
+  "players": { "deal": { "mul": 1 }, "take": { "mul": 1 } }
+}

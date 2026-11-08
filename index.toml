@@ -625,6 +625,10 @@ hash = "bb3916bd466676b43fa6e5298a964c445191fa9178b956bf1692cc08249069a1"
 metafile = true
 
 [[files]]
+file = "RequiredMods/Test/Both/Adventure/CataclysmicArsenal-0.6.1.3+1.21.1[NeoForge]-c333.jar"
+hash = "a7f776ed804302364c6996a3c5afe4c11ade59e6c0ede4aed937db16f7a6c567"
+
+[[files]]
 file = "RequiredMods/Test/Both/Adventure/aces-spell-utils.pw.toml"
 hash = "2b69450e43952ddfa55a78ac5bba0c3a73b29cca2d05b57a5beecff62175fa32"
 metafile = true
@@ -734,8 +738,8 @@ file = "RequiredMods/Test/Both/Adventure/battlecontent-2.2.0.jar"
 hash = "67af431b7b6a09ad9579539e2c875b27e23517aca38e9628643cffb3bf4aef09"
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlesystem-1.16.6.jar"
-hash = "b0c4d6065cc68d41f02c75ac3c497e4250b216fe3bf631d3b9f156b7165db423"
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.17.0.jar"
+hash = "50fc20cb090429504905fd0a9a99210f15049d3cbc668ea9c33af38a52742b26"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/better-lock-on.pw.toml"
@@ -798,8 +802,8 @@ hash = "eedfba7c42113671df742d7c3e264799e7a90c42068470ddadb2506c5d1db9e7"
 metafile = true
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/enemiessystem-0.3.9.jar"
-hash = "9d55549eb73fb88dacc9f424707bfd8213c62878e9a6642dbf837c2b0a711478"
+file = "RequiredMods/Test/Both/Adventure/enemiessystem-0.3.10.jar"
+hash = "2259c2aa15932cc7ec7fa629230d7238b63d23049cf1c5dfa3831bb639d48a5b"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/epic-fight-dawn-day.pw.toml"
@@ -1041,7 +1045,7 @@ metafile = true
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/slm-shader.pw.toml"
-hash = "50d2fd82ca82a524e4e2853911b422f3a114a14c56ef8d0e48201c186db81bad"
+hash = "941aa644f339f0d538335aabf3fad89ecfe9aef86b48cff32bf6f200762ea964"
 metafile = true
 
 [[files]]
@@ -1334,6 +1338,18 @@ file = "RequiredMods/Test/overrides/kubejs/data/born_in_chaos_v1/capabilities/we
 hash = "6e65487bea5b824b32e611cba3132eb0471fdf74d546192ade00c2ae42feb204"
 
 [[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/cataclysm/capabilities/weapons/meat_shredder.json"
+hash = "6eee8519f8c52e09192305e2e6ac498430825fa099d02c649af7d7fe1c61227f"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/cataclysm/capabilities/weapons/soul_render.json"
+hash = "0be3746f8790a3d1e0d73fbd255d9161a66623b2e49e08c1cd6e19835e6d668c"
+
+[[files]]
+file = "RequiredMods/Test/overrides/kubejs/data/cataclysm/capabilities/weapons/the_incinerator.json"
+hash = "130c125684b1d4e69d99f245f87a7b9d6cf94c5098ebc0f65d6997ec5ee164dc"
+
+[[files]]
 file = "RequiredMods/Test/overrides/kubejs/data/discerning_the_eldritch/capabilities/weapons/broken_legends_blade.json"
 hash = "88c5bae4cec37f821e47c05e7f7a3412b58fac47a3be2e6520396efcc77d4515"
 
@@ -1416,6 +1432,10 @@ hash = "4e7726cc209369456f26d81248b2760924bd9b9a0db00e69b0ad0aa054214d1e"
 [[files]]
 file = "config/adaptive_nemesis-server.toml"
 hash = "cab0ba4ea72e294c07d5e9954248cf47bc418bb17ad714eddcf0dcb8229938d6"
+
+[[files]]
+file = "config/battlesystem/posture.json"
+hash = "7f57438ab7f2ac1a0064a620b9080a7359e0fdd070bcee1a02f9c9ae491ef4c7"
 
 [[files]]
 file = "config/betterlockon_client.toml"

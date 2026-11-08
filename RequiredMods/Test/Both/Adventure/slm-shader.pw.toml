@@ -1,13 +1,14 @@
 name = "SLM: Shader"
-filename = "SLM-Shaders-3.0-1.21.1+[NeoForge].jar"
+filename = "SLM-Shaders-2.2.2-1.21.1+[NeoForge].jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "23b0d06ff26b44c5ea34a7fb51bd8854b86686af"
+hash = "2c5bc78ae40939b78d9e21451beec64f87fd6a2b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9120947
+file-id = 8692531
 project-id = 1497920

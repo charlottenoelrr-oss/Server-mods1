@@ -1,0 +1,12 @@
+{
+	"attributes":
+	{
+		"common":
+		{
+			"armor_negation":10.0,
+			"impact":3.2,
+			"max_strikes":4
+		}
+	},
+	"type":"cataclysmic_arsenal:efu_soul_render"
+}
