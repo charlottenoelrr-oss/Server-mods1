@@ -738,8 +738,8 @@ file = "RequiredMods/Test/Both/Adventure/battlecontent-2.2.0.jar"
 hash = "67af431b7b6a09ad9579539e2c875b27e23517aca38e9628643cffb3bf4aef09"
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlesystem-1.17.0.jar"
-hash = "50fc20cb090429504905fd0a9a99210f15049d3cbc668ea9c33af38a52742b26"
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.17.1.jar"
+hash = "a10029344aaa0929a85ba39ee55b59da45862fcf25841cc9f2ea16c631b377cc"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/better-lock-on.pw.toml"
@@ -1435,7 +1435,7 @@ hash = "cab0ba4ea72e294c07d5e9954248cf47bc418bb17ad714eddcf0dcb8229938d6"
 
 [[files]]
 file = "config/battlesystem/posture.json"
-hash = "7f57438ab7f2ac1a0064a620b9080a7359e0fdd070bcee1a02f9c9ae491ef4c7"
+hash = "792c681bc6b60382e7c6030ae6196de04854b9d550db5ea2924da5b30450d48b"
 
 [[files]]
 file = "config/betterlockon_client.toml"
