@@ -734,8 +734,8 @@ file = "RequiredMods/Test/Both/Adventure/battlecontent-2.2.0.jar"
 hash = "67af431b7b6a09ad9579539e2c875b27e23517aca38e9628643cffb3bf4aef09"
 
 [[files]]
-file = "RequiredMods/Test/Both/Adventure/battlesystem-1.17.1.jar"
-hash = "a10029344aaa0929a85ba39ee55b59da45862fcf25841cc9f2ea16c631b377cc"
+file = "RequiredMods/Test/Both/Adventure/battlesystem-1.17.2.jar"
+hash = "8cd160ae4f315ea744203c1229aa88db75280355bae9132dcb9251a7b79070e5"
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/better-lock-on.pw.toml"
@@ -804,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/enemiessystem.pw.toml"
-hash = "d0be470d0a6ece6a6f9f6b27bfe04cc81aed26a164fbb48f872fd6f67ff11bfa"
+hash = "c3790f2c9745224daa31bf02424b41cc046a6a756c0240e5300c49feb6e7578f"
 metafile = true
 
 [[files]]
