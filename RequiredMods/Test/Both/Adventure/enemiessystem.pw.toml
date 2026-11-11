@@ -1,8 +1,8 @@
 name = "EnemiesSystem"
-filename = "enemiessystem-0.3.11.jar"
+filename = "enemiessystem-0.3.12.jar"
 side = "both"
 
 [download]
-url = "https://github.com/charlottenoelrr-oss/Server-mods1/releases/download/jars/enemiessystem-0.3.11.jar"
+url = "https://github.com/charlottenoelrr-oss/Server-mods1/releases/download/jars/enemiessystem-0.3.12.jar"
 hash-format = "sha512"
-hash = "1ba220868467b8f954f32b8a253edc8e817b58771dfacb71bd3561f304d59515c05e63df95d06c7c360e6c3323dde79a4d535dd02f3d59b32e2f872a9e422357"
+hash = "db921c96a2a158a3de5819b52f0df5cfb5302f66413888f5ba5ab970294551247f85ac4184478b28f385556725ed8f4b1b41d573f42fbb766d2405206db57ca5"
