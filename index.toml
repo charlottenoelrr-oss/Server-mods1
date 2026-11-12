@@ -804,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "RequiredMods/Test/Both/Adventure/enemiessystem.pw.toml"
-hash = "736946ed5bcf317ec572217085b053d871b5be1b0b2165d4df90467ff11249c2"
+hash = "c27ea5f7111d7548066be8e42fe8381709946f7b11d13851d1405d233fc92f29"
 metafile = true
 
 [[files]]
